@@ -1,4 +1,5 @@
 import json
+import re
 from rapidfuzz import fuzz, process
 import argparse
 import sys
@@ -65,12 +66,78 @@ def find_best_match(schedule_name, threshold=60):
     
     return best_match, best_score
 
+def parse_schedule_program(program_text, activity_title=None):
+    if not program_text:
+        return []
+
+    lines = [line.strip() for line in program_text.split('\n') if line.strip()]
+    if not lines:
+        return []
+
+    if lines and lines[0].lower() == 'program':
+        lines = lines[1:]
+    if activity_title and lines and lines[0].lower() == activity_title.lower():
+        lines = lines[1:]
+
+    def is_time_line(value):
+        return bool(re.match(r'^\d{1,2}:\d{2}(\s*-\s*\d{1,2}:\d{2})?$', value))
+
+    day_tokens = [
+        'luni', 'marti', 'marți', 'miercuri', 'joi', 'vineri',
+        'sambata', 'sâmbătă', 'duminica', 'duminică'
+    ]
+
+    def is_days_line(value):
+        lower = value.lower()
+        return any(token in lower for token in day_tokens)
+
+    entries = []
+    current_days = None
+    current_location = None
+
+    for line in lines:
+        if is_days_line(line):
+            current_days = line
+            current_location = None
+            continue
+
+        if is_time_line(line):
+            if current_location:
+                entries.append({
+                    'days': current_days or '',
+                    'location': current_location,
+                    'time': line
+                })
+                current_location = None
+            continue
+
+        # Assume any non-day/non-time line is a location
+        current_location = line
+
+    return entries
+
 # Tier colors
 TIER_COLORS = {
     'GALAXY': '#FE216E',      # Red/Pink
     'THE PALM': '#43B2D2',    # Blue/Cyan
     'ELYSIUM': '#00C754'      # Green
 }
+
+# Build unmatched activities list (activities not matched to any schedule item)
+schedule_names = set()
+for day_data in schedule.values():
+    for activity in day_data.get('activities', []):
+        schedule_names.add(activity.get('name', ''))
+
+matched_activity_titles = set()
+for schedule_name in schedule_names:
+    details, _ = find_best_match(schedule_name)
+    if details:
+        matched_activity_titles.add(details['title'])
+
+unmatched_activities = [
+    name for name in activity_names if name not in matched_activity_titles
+]
 
 # Generate HTML
 html = """<!DOCTYPE html>
@@ -312,6 +379,15 @@ for idx, day in enumerate(days):
             </li>
 """
 
+# Add eighth tab for unmatched activities
+html += f"""            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="unscheduled-tab" data-bs-toggle="tab" 
+                        data-bs-target="#unscheduled" type="button" role="tab">
+                    Unscheduled ({len(unmatched_activities)})
+                </button>
+            </li>
+"""
+
 html += """        </ul>
 
         <div class="tab-content" id="dayTabsContent">
@@ -353,12 +429,14 @@ for idx, day in enumerate(days):
             cursor_style = 'cursor: pointer;' if has_details else ''
             header_classes = 'activity-header collapsed' if has_details else 'activity-header'
             
+            location_html = f'<span class="activity-location">({location})</span>' if location else ''
+            
             html += f"""                <div class="activity-card" style="border-left: 4px solid {border_color};">
                     <div class="{header_classes}" {toggle_attrs} style="{cursor_style}">
                         <div class="d-flex justify-content-between align-items-center">
                             <div class="d-flex align-items-center flex-grow-1">
                                 <span class="activity-name">{name}</span>
-                                <span class="activity-location">({location})</span>
+                                {location_html}
                             </div>
                             <div class="d-flex align-items-center gap-3">
                                 {f'<div class="activity-time">{time}</div>' if time else ''}
@@ -400,8 +478,9 @@ for idx, day in enumerate(days):
                 
                 # Add description
                 if details.get('description'):
+                    description_html = details['description'].replace('\n', '<br>')
                     html += f"""                            <div class="activity-description">
-                                {details['description']}
+                                {description_html}
                             </div>
 """
                 
@@ -415,7 +494,8 @@ for idx, day in enumerate(days):
                     
                     # Add content paragraphs
                     for content in section.get('content', []):
-                        html += f"""                                <p>{content}</p>
+                        content_html = content.replace('\n', '<br>')
+                        html += f"""                                <p>{content_html}</p>
 """
                     
                     # Add images
@@ -458,11 +538,38 @@ for idx, day in enumerate(days):
                                 </table>
                             </div>
 """
-                elif activity_schedule.get('raw'):
-                    # Fallback to raw text
-                    html += f"""                            <div class="schedule-info">
+                elif activity_schedule.get('program') or activity_schedule.get('raw'):
+                    # Try parsing program/raw text into a structured table
+                    schedule_text = activity_schedule.get('program') or activity_schedule.get('raw')
+                    parsed_entries = parse_schedule_program(schedule_text, details.get('title'))
+                    if parsed_entries:
+                        html += """                            <div class="schedule-info">
+                                <h6>📅 Full Schedule</h6>
+                                <table class="schedule-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Days</th>
+                                            <th>Location</th>
+                                            <th>Time</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+"""
+                        for entry in parsed_entries:
+                            html += f"""                                        <tr>
+                                            <td class="schedule-days">{entry.get('days', '')}</td>
+                                            <td>{entry.get('location', '')}</td>
+                                            <td class="schedule-time">{entry.get('time', '')}</td>
+                                        </tr>
+"""
+                        html += """                                    </tbody>
+                                </table>
+                            </div>
+"""
+                    else:
+                        html += f"""                            <div class="schedule-info">
                                 <h6>📅 Schedule</h6>
-                                <pre style="margin: 0; white-space: pre-wrap;">{activity_schedule['raw']}</pre>
+                                <pre style="margin: 0; white-space: pre-wrap;">{schedule_text}</pre>
                             </div>
 """
                 
@@ -474,6 +581,161 @@ for idx, day in enumerate(days):
 """
     
     html += """            </div>
+"""
+
+html += """        <div class="tab-pane fade" id="unscheduled" role="tabpanel">
+            <h2 class="day-theme">Unscheduled Activities</h2>
+"""
+
+if not unmatched_activities:
+    html += """            <div class="alert alert-info">All activities are represented in the weekly schedule.</div>
+"""
+else:
+    for idx, activity_name in enumerate(unmatched_activities):
+        details = activity_details_map.get(activity_name)
+        tier = details.get('metadata', {}).get('tier', '') if details else ''
+        border_color = TIER_COLORS.get(tier, '#cccccc')
+        collapse_id = f"collapse-unscheduled-{idx}"
+        has_details = details is not None
+        toggle_attrs = f'data-bs-toggle="collapse" data-bs-target="#{collapse_id}" aria-expanded="false" aria-controls="{collapse_id}"' if has_details else ''
+        cursor_style = 'cursor: pointer;' if has_details else ''
+        header_classes = 'activity-header collapsed' if has_details else 'activity-header'
+
+        html += f"""            <div class="activity-card" style="border-left: 4px solid {border_color};">
+                <div class="{header_classes}" {toggle_attrs} style="{cursor_style}">
+                    <div class="d-flex justify-content-between align-items-center">
+                        <div class="d-flex align-items-center flex-grow-1">
+                            <span class="activity-name">{activity_name}</span>
+                            <span class="activity-location">(Not in weekly schedule)</span>
+                        </div>
+                        <div class="d-flex align-items-center gap-3">
+"""
+
+        if has_details:
+            html += """                            <svg class="expand-icon" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
+                            </svg>
+"""
+
+        html += """                        </div>
+                    </div>
+                </div>
+"""
+
+        if details:
+            activity_url = details.get('url', '')
+            html += f"""                <div class="collapse" id="{collapse_id}">
+                    <div class="activity-details">
+                        <div style="color: #718096; font-size: 0.85rem; font-style: italic; margin-bottom: 0.8rem; padding-bottom: 0.8rem; border-bottom: 1px solid #e2e8f0;">
+                            Activity details
+                            {f' • <a href="{activity_url}" target="_blank" rel="noopener noreferrer" style="color: #6141f3; text-decoration: none;">View original page ↗</a>' if activity_url else ''}
+                        </div>
+"""
+
+            images = details.get('images', []) or details.get('hero_image', None)
+            if images:
+                if isinstance(images, str):
+                    images = [images]
+                html += """                        <div class="activity-images" style="margin-bottom: 1.5rem;">
+"""
+                for img_url in images:
+                    html += f"""                            <img src="{img_url}" alt="{details['title']}" class="activity-image" loading="lazy" decoding="async">
+"""
+                html += """                        </div>
+"""
+
+            if details.get('description'):
+                description_html = details['description'].replace('\n', '<br>')
+                html += f"""                        <div class="activity-description">
+                            {description_html}
+                        </div>
+"""
+
+            for section in details.get('sections', []):
+                html += """                        <div class="activity-section">
+"""
+                if section.get('heading'):
+                    html += f"""                            <h5>{section['heading']}</h5>
+"""
+                for content in section.get('content', []):
+                    content_html = content.replace('\n', '<br>')
+                    html += f"""                            <p>{content_html}</p>
+"""
+                if section.get('images'):
+                    html += """                            <div class="activity-images">
+"""
+                    for img_url in section['images']:
+                        html += f"""                                <img src="{img_url}" alt="Activity image" class="activity-image" loading="lazy" decoding="async">
+"""
+                    html += """                            </div>
+"""
+                html += """                        </div>
+"""
+
+            activity_schedule = details.get('schedule', {})
+            if activity_schedule.get('entries'):
+                html += """                        <div class="schedule-info">
+                            <h6>📅 Full Schedule</h6>
+                            <table class="schedule-table">
+                                <thead>
+                                    <tr>
+                                        <th>Days</th>
+                                        <th>Location</th>
+                                        <th>Time</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+"""
+                for entry in activity_schedule['entries']:
+                    html += f"""                                    <tr>
+                                        <td class="schedule-days">{entry.get('days', '')}</td>
+                                        <td>{entry.get('location', '')}</td>
+                                        <td class="schedule-time">{entry.get('time', '')}</td>
+                                    </tr>
+"""
+                html += """                                </tbody>
+                            </table>
+                        </div>
+"""
+            elif activity_schedule.get('program') or activity_schedule.get('raw'):
+                schedule_text = activity_schedule.get('program') or activity_schedule.get('raw')
+                parsed_entries = parse_schedule_program(schedule_text, details.get('title'))
+                if parsed_entries:
+                    html += """                        <div class="schedule-info">
+                            <h6>📅 Full Schedule</h6>
+                            <table class="schedule-table">
+                                <thead>
+                                    <tr>
+                                        <th>Days</th>
+                                        <th>Location</th>
+                                        <th>Time</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+"""
+                    for entry in parsed_entries:
+                        html += f"""                                    <tr>
+                                        <td class="schedule-days">{entry.get('days', '')}</td>
+                                        <td>{entry.get('location', '')}</td>
+                                        <td class="schedule-time">{entry.get('time', '')}</td>
+                                    </tr>
+"""
+                    html += """                                </tbody>
+                            </table>
+                        </div>
+"""
+                else:
+                    html += f"""                        <div class="schedule-info">
+                            <h6>📅 Schedule</h6>
+                            <pre style="margin: 0; white-space: pre-wrap;">{schedule_text}</pre>
+                        </div>
+"""
+
+            html += """                    </div>
+                </div>
+"""
+
+        html += """            </div>
 """
 
 html += """        </div>

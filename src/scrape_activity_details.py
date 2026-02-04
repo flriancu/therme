@@ -32,7 +32,7 @@ def fetch_activity_details(url, name):
             if hero_content:
                 desc_p = hero_content.find('p')
                 if desc_p:
-                    description = desc_p.get_text(strip=True)
+                    description = desc_p.get_text(separator='\n', strip=True)
         
         # Extract ALL images from the page (bg-image divs with mytherme CDN URLs)
         # Filter out common background image that appears on every page
@@ -71,7 +71,7 @@ def fetch_activity_details(url, name):
             paragraphs = div.find_all('p')
             section_text = []
             for p in paragraphs:
-                text = p.get_text(strip=True)
+                text = p.get_text(separator='\n', strip=True)
                 if text and len(text) > 10:
                     section_text.append(text)
             
@@ -100,15 +100,74 @@ def fetch_activity_details(url, name):
             
             if section_data:  # Only add non-empty sections
                 sections.append(section_data)
+
+        # Add fallback sections for element-content blocks (useful for uncategorized activities)
+        section_headings = {section.get('heading') for section in sections if section.get('heading')}
+        element_blocks = soup.find_all('div', class_='element-content')
+        for block in element_blocks:
+            if hero and hero in block.parents:
+                continue
+            if block.find('a', href=lambda x: x and '/shop/wizard' in x):
+                continue
+
+            heading = None
+            h2 = block.find('h2')
+            if h2:
+                heading = h2.get_text(strip=True)
+            if heading and heading in section_headings:
+                continue
+
+            paragraphs = block.find_all('p')
+            section_text = []
+            for p in paragraphs:
+                text = p.get_text(separator='\n', strip=True)
+                if text and len(text) > 5:
+                    section_text.append(text)
+
+            if heading or section_text:
+                section_data = {}
+                if heading:
+                    section_data['heading'] = heading
+                if section_text:
+                    section_data['content'] = section_text
+                sections.append(section_data)
         
         # Extract schedule/program information (if htmlcontent exists)
         schedule = {}
         htmlcontent = soup.find('div', class_='htmlcontent')
         if htmlcontent:
             schedule_text = htmlcontent.get_text(separator='\n', strip=True)
-            # Clean up the schedule text
             if schedule_text:
                 schedule['program'] = schedule_text
+
+            entries = []
+            for days_header in htmlcontent.find_all('h4'):
+                days_text = days_header.get_text(strip=True)
+                for sibling in days_header.find_next_siblings():
+                    if sibling.name == 'h4':
+                        break
+                    if sibling.name != 'div':
+                        continue
+                    style = sibling.get('style', '')
+                    if 'border-left' not in style:
+                        continue
+                    location = ''
+                    time_text = ''
+                    location_p = sibling.find('p')
+                    if location_p:
+                        location = location_p.get_text(separator=' ', strip=True)
+                    time_span = sibling.find('span')
+                    if time_span:
+                        time_text = time_span.get_text(separator=' ', strip=True)
+                    if location or time_text:
+                        entries.append({
+                            'days': days_text,
+                            'location': location,
+                            'time': time_text
+                        })
+
+            if entries:
+                schedule['entries'] = entries
         
         # Extract tier/location from schedule styling
         metadata = {}

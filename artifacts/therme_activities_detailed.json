@@ -29,7 +29,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nAqua Kineto\nLuni, Miercuri\nPiscina principală The Palm\n11:30"
+        "program": "Program\nAqua Kineto\nLuni, Miercuri\nPiscina principală The Palm\n11:30",
+        "entries": [
+          {
+            "days": "Luni, Miercuri",
+            "location": "Piscina principală The Palm",
+            "time": "11:30"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -65,7 +72,19 @@
         }
       ],
       "schedule": {
-        "program": "Program\nAqua Gym\nLuni, Miercuri\nPiscina Centrală The Palm\n18:30\nVineri - Duminică\nPiscina Centrală The Palm\n12:30"
+        "program": "Program\nAqua Gym\nLuni, Miercuri\nPiscina Centrală The Palm\n18:30\nVineri - Duminică\nPiscina Centrală The Palm\n12:30",
+        "entries": [
+          {
+            "days": "Luni, Miercuri",
+            "location": "Piscina Centrală The Palm",
+            "time": "18:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Piscina Centrală The Palm",
+            "time": "12:30"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -85,13 +104,13 @@
         {
           "heading": "Ține ritmul!",
           "content": [
-            "Într-o ședință de Aqua Fun ești în competiție (de dans) cu toți ceilalți din piscină. Doar că la final nimeni nu iese pe locul doi, toată lumea beneficiază de un antrenament sănătos și se distrează pe melodii  energizante și stimulante, în timp ce încearcă să țină pasul cu antrenorul. Intensitatea exercițiilor este mare și necesită o coordonare bună și o atenție constantă pentru a răspunde activ la provocări.Durată : 15 minute"
+            "Într-o ședință de Aqua Fun ești în competiție (de dans) cu toți ceilalți din piscină. Doar că la final nimeni nu iese pe locul doi, toată lumea beneficiază de un antrenament sănătos și se distrează pe melodii  energizante și stimulante, în timp ce încearcă să țină pasul cu antrenorul. Intensitatea exercițiilor este mare și necesită o coordonare bună și o atenție constantă pentru a răspunde activ la provocări.\nDurată : 15 minute"
           ]
         },
         {
           "heading": "Beneficii",
           "content": [
-            "● îmbunătățirea condiției fizice● îmbunătățirea coordonării● activarea bunei dispoziții"
+            "● îmbunătățirea condiției fizice\n● îmbunătățirea coordonării\n● activarea bunei dispoziții"
           ],
           "images": [
             "https://cdn.mytherme.app/serve/09c53c27-50b9-4f9d-8f93-90514e96b7d8"
@@ -99,7 +118,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nAqua Fun\nVineri - Duminică\nPiscina principală The Palm\n18:30"
+        "program": "Program\nAqua Fun\nVineri - Duminică\nPiscina principală The Palm\n18:30",
+        "entries": [
+          {
+            "days": "Vineri - Duminică",
+            "location": "Piscina principală The Palm",
+            "time": "18:30"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -135,7 +161,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nAqua Shape\nMarți, Joi\nPiscina principală The Palm\n11:30"
+        "program": "Program\nAqua Shape\nMarți, Joi\nPiscina principală The Palm\n11:30",
+        "entries": [
+          {
+            "days": "Marți, Joi",
+            "location": "Piscina principală The Palm",
+            "time": "11:30"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -164,12 +197,19 @@
         {
           "heading": "Beneficii",
           "content": [
-            "● mobilitate● relaxare● reducerea rigidității articulare● ameliorarea durerilor musculare● creșterea aportului de nutrienți și oxigen către articulații"
+            "● mobilitate\n● relaxare\n● reducerea rigidității articulare\n● ameliorarea durerilor musculare\n● creșterea aportului de nutrienți și oxigen către articulații"
           ]
         }
       ],
       "schedule": {
-        "program": "Program\nHydro Balance\nMarți, Joi\nPiscina principală The Palm\n18:30"
+        "program": "Program\nHydro Balance\nMarți, Joi\nPiscina principală The Palm\n18:30",
+        "entries": [
+          {
+            "days": "Marți, Joi",
+            "location": "Piscina principală The Palm",
+            "time": "18:30"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -187,7 +227,7 @@
         {
           "heading": "Infuzie cu uleiuri esențiale lemnoase în sauna Hollywood",
           "content": [
-            "Mirosul plăcut de pin, brad sau cedru te teleportează în mijlocul pădurii, unde te vei conecta cu natura și o vei cunoaște în cea mai pură formă a sa. Spiritul pădurii îți va oferi echilibrul de care ai nevoie prin revitalizarea corpului și trezirea simțurilor.Beneficii:● relaxarea mușchilor● stimularea concentrării● creșterea capacității pulmonare"
+            "Mirosul plăcut de pin, brad sau cedru te teleportează în mijlocul pădurii, unde te vei conecta cu natura și o vei cunoaște în cea mai pură formă a sa. Spiritul pădurii îți va oferi echilibrul de care ai nevoie prin revitalizarea corpului și trezirea simțurilor.\nBeneficii:\n● relaxarea mușchilor\n● stimularea concentrării\n● creșterea capacității pulmonare"
           ],
           "images": [
             "https://cdn.mytherme.app/serve/4c24e85a-e659-4989-883c-1b3947806beb"
@@ -195,7 +235,19 @@
         }
       ],
       "schedule": {
-        "program": "Program\nWoody Infusion\nLuni - Joi\nSauna Bavaria\n15:30 - 16:00\nSauna Hollywood\n20:30 - 21:00"
+        "program": "Program\nWoody Infusion\nLuni - Joi\nSauna Bavaria\n15:30 - 16:00\nSauna Hollywood\n20:30 - 21:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Bavaria",
+            "time": "15:30 - 16:00"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Hollywood",
+            "time": "20:30 - 21:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -221,7 +273,19 @@
         }
       ],
       "schedule": {
-        "program": "Program\nHerbal Infusion\nLuni - Joi\nSauna Ad Astra\n16:30\nVineri - Duminică\nSauna Amazon\n10:30"
+        "program": "Program\nHerbal Infusion\nLuni - Joi\nSauna Ad Astra\n16:30\nVineri - Duminică\nSauna Amazon\n10:30",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Ad Astra",
+            "time": "16:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Amazon",
+            "time": "10:30"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -240,12 +304,19 @@
         {
           "heading": "Infuzie cu uleiuri esențiale orientale în sauna Alhambra",
           "content": [
-            "O incursiune în fascinanta cultură maură. Lasă-te purtat către “Castelul Roșu” din Granada de parfumurile orientale precum anason, scorțișoară și cuișoare și bucură-te de beneficiile acestora într-o călătorie care-ți va stimula simțurile.Beneficii:● îmbunătățirea digestiei● efect stimulator● efect afrodisiac"
+            "O incursiune în fascinanta cultură maură. Lasă-te purtat către “Castelul Roșu” din Granada de parfumurile orientale precum anason, scorțișoară și cuișoare și bucură-te de beneficiile acestora într-o călătorie care-ți va stimula simțurile.\nBeneficii:\n● îmbunătățirea digestiei\n● efect stimulator\n● efect afrodisiac"
           ]
         }
       ],
       "schedule": {
-        "program": "Program\nSpicy Infusion\nLuni - Joi\nSauna Alhambra\n21:30"
+        "program": "Program\nSpicy Infusion\nLuni - Joi\nSauna Alhambra\n21:30",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Alhambra",
+            "time": "21:30"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -271,7 +342,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nBotanical Infusion\nVineri - Duminică\nSauna A Terra\n10:30 - 11:00"
+        "program": "Program\nBotanical Infusion\nVineri - Duminică\nSauna A Terra\n10:30 - 11:00",
+        "entries": [
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna A Terra",
+            "time": "10:30 - 11:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -289,7 +367,7 @@
         {
           "heading": "Infuzie energizantă cu esențe citrice",
           "content": [
-            "Energia, revitalizarea și starea de bine oferite de parfumurile citricelor precum portocală roșie, litsea, lime, bergamotă completează perfect experiența naturală din saunele Amazon și Hollywood.Beneficii:● stimularea digestiei● îmbunătățirea aspectului pielii"
+            "Energia, revitalizarea și starea de bine oferite de parfumurile citricelor precum portocală roșie, litsea, lime, bergamotă completează perfect experiența naturală din saunele Amazon și Hollywood.\nBeneficii:\n● stimularea digestiei\n● îmbunătățirea aspectului pielii"
           ],
           "images": [
             "https://cdn.mytherme.app/serve/2e3c0ed8-633c-4c56-8187-e79c9fe290d5"
@@ -297,7 +375,19 @@
         }
       ],
       "schedule": {
-        "program": "Program\nCitrus Infusion\nLuni - Joi\nSauna Hollywood\n14:30\nVineri - Duminică\nSauna Hollywood\n19:30"
+        "program": "Program\nCitrus Infusion\nLuni - Joi\nSauna Hollywood\n14:30\nVineri - Duminică\nSauna Hollywood\n19:30",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Hollywood",
+            "time": "14:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Hollywood",
+            "time": "19:30"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -323,7 +413,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nLight Storm\nVineri - Duminică\nSauna Hollywood\n18:00"
+        "program": "Program\nLight Storm\nVineri - Duminică\nSauna Hollywood\n18:00",
+        "entries": [
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Hollywood",
+            "time": "18:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -349,7 +446,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nMaur Saga\nVineri - Duminică\nSauna Alhambra\n10:00"
+        "program": "Program\nMaur Saga\nVineri - Duminică\nSauna Alhambra\n10:00",
+        "entries": [
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Alhambra",
+            "time": "10:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -375,7 +479,19 @@
         }
       ],
       "schedule": {
-        "program": "Program\nMysterious Incense\nLuni - Joi\nSauna A Terra\n18:00\nVineri - Duminică\nSauna A Terra\n20:00"
+        "program": "Program\nMysterious Incense\nLuni - Joi\nSauna A Terra\n18:00\nVineri - Duminică\nSauna A Terra\n20:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna A Terra",
+            "time": "18:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna A Terra",
+            "time": "20:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -401,7 +517,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nShamanic Dreaming\nVineri - Duminică\nSauna Hollywood\n12:00"
+        "program": "Program\nShamanic Dreaming\nVineri - Duminică\nSauna Hollywood\n12:00",
+        "entries": [
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Hollywood",
+            "time": "12:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -425,7 +548,24 @@
         }
       ],
       "schedule": {
-        "program": "Program\nHaloMint\nLuni - Duminică\nSauna Himalaya\n10:30 - 11:00\nSauna Himalaya\n14:30 - 15:00\nSauna Himalaya\n18:30 - 19:00"
+        "program": "Program\nHaloMint\nLuni - Duminică\nSauna Himalaya\n10:30 - 11:00\nSauna Himalaya\n14:30 - 15:00\nSauna Himalaya\n18:30 - 19:00",
+        "entries": [
+          {
+            "days": "Luni - Duminică",
+            "location": "Sauna Himalaya",
+            "time": "10:30 - 11:00"
+          },
+          {
+            "days": "Luni - Duminică",
+            "location": "Sauna Himalaya",
+            "time": "14:30 - 15:00"
+          },
+          {
+            "days": "Luni - Duminică",
+            "location": "Sauna Himalaya",
+            "time": "18:30 - 19:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -443,7 +583,7 @@
         {
           "heading": "Masaj de tonifiere și detensionare musculară",
           "content": [
-            "Masaj cu efect analgezic, recomandat pentru îmbunătățirea tonusului general și relaxarea profundă a corpului. Se folosesc uleiuri naturale cu efect calmant și tehnici terapeutice aplicate pentru detensionarea zonelor musculare solicitate. Mișcările ample și ritmice ajută la relaxare, îmbunătățirea circulației și recuperarea fizică după perioade de stres sau efort. Masaj ideal pentru corectarea dezechilibrelor cauzate de postura incorectă și pentru menținerea mobilității articulațiilor.Beneficii:• Detensionare musculară și relaxare profundă• Îmbunătățirea circulației locale• Recuperare fizică și posturală• Creșterea tonusului generalDurata: 60 minutePreț: 170 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+            "Masaj cu efect analgezic, recomandat pentru îmbunătățirea tonusului general și relaxarea profundă a corpului. Se folosesc uleiuri naturale cu efect calmant și tehnici terapeutice aplicate pentru detensionarea zonelor musculare solicitate. Mișcările ample și ritmice ajută la relaxare, îmbunătățirea circulației și recuperarea fizică după perioade de stres sau efort. Masaj ideal pentru corectarea dezechilibrelor cauzate de postura incorectă și pentru menținerea mobilității articulațiilor.\nBeneficii:\n• Detensionare musculară și relaxare profundă\n• Îmbunătățirea circulației locale\n• Recuperare fizică și posturală\n• Creșterea tonusului general\nDurata: 60 minute\nPreț: 170 lei\nÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
           ],
           "images": [
             "https://cdn.mytherme.app/serve/c2bb0dae-7cd5-40e1-be4a-f90ca7c519b6"
@@ -465,7 +605,7 @@
         {
           "heading": "Masaj relaxant, cu bețe de bambus",
           "content": [
-            "Masaj corporal revitalizant, inspirat din tehnicile asiatice, care îmbină mișcările de presopunctură cu proprietățile naturale ale bețelor de bambus. Siliciul din compoziția bambusului stimulează regenerarea pielii și îi redă elasticitatea și fermitatea. Masajul favorizează drenajul limfatic, activează circulația și relaxează în profunzime musculatura. Recomandat pentru refacere fizică și redarea tonusului natural al corpului.Beneficii:• Revitalizare și redarea elasticității pielii• Relaxare musculară profundă• Activarea circulației și drenaj limfaticDurata: 60 minutePreț: 220 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+            "Masaj corporal revitalizant, inspirat din tehnicile asiatice, care îmbină mișcările de presopunctură cu proprietățile naturale ale bețelor de bambus. Siliciul din compoziția bambusului stimulează regenerarea pielii și îi redă elasticitatea și fermitatea. Masajul favorizează drenajul limfatic, activează circulația și relaxează în profunzime musculatura. Recomandat pentru refacere fizică și redarea tonusului natural al corpului.\nBeneficii:\n• Revitalizare și redarea elasticității pielii\n• Relaxare musculară profundă\n• Activarea circulației și drenaj limfatic\nDurata: 60 minute\nPreț: 220 lei\nÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
           ],
           "images": [
             "https://cdn.mytherme.app/serve/5a3541d1-d610-4286-a36a-82fbfe602ab0"
@@ -487,7 +627,7 @@
         {
           "heading": "Masaj recuperator, cu pietre vulcanice",
           "content": [
-            "Masaj tradițional cu pietre vulcanice pentru relaxare profundă și refacere musculară, în care pietrele încălzite sunt folosite pentru a transmite căldura în profunzimea țesuturilor. Temperatura constantă ajută la relaxarea mușchilor, la stimularea circulației și la reducerea tensiunilor acumulate. Tratamentul induce o stare generală de calm și poate susține un somn mai odihnitor. Recomandat pentru diminuarea disconfortului muscular și reducerea stresului.Beneficii:• Relaxare și regenerare musculară• Activarea circulației și detoxifiere• Reducerea tensiunilor și stresuluiDurata: 60 minutePreț: 220 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+            "Masaj tradițional cu pietre vulcanice pentru relaxare profundă și refacere musculară, în care pietrele încălzite sunt folosite pentru a transmite căldura în profunzimea țesuturilor. Temperatura constantă ajută la relaxarea mușchilor, la stimularea circulației și la reducerea tensiunilor acumulate. Tratamentul induce o stare generală de calm și poate susține un somn mai odihnitor. Recomandat pentru diminuarea disconfortului muscular și reducerea stresului.\nBeneficii:\n• Relaxare și regenerare musculară\n• Activarea circulației și detoxifiere\n• Reducerea tensiunilor și stresului\nDurata: 60 minute\nPreț: 220 lei\nÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
           ],
           "images": [
             "https://cdn.mytherme.app/serve/34980f94-ab00-4f3f-b087-43ce5659a815"
@@ -509,7 +649,7 @@
         {
           "heading": "Masaj cu pietre de marmură și pietre vulcanice",
           "content": [
-            "Masaj cu efect contrastant cald-rece, ce combină pietre vulcanice încălzite cu pietre reci de marmură pentru stimularea circulației și relaxarea în profunzime. Căldura detensionează mușchii, iar răcoarea tonifică și reduce inflamațiile. Efectul termic activează regenerarea celulară și oxigenarea țesuturilor. Recomandat pentru durerile musculare și articulare, oferind o senzație generală de ușurare, vitalitate și echilibru.Beneficii:• Efect de relaxare profundă și tonifiere• Stimularea circulației și oxigenarea pielii• Reducerea inflamațiilor musculare• Revitalizare generalăDurata: 60 minutePreț: 230 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+            "Masaj cu efect contrastant cald-rece, ce combină pietre vulcanice încălzite cu pietre reci de marmură pentru stimularea circulației și relaxarea în profunzime. Căldura detensionează mușchii, iar răcoarea tonifică și reduce inflamațiile. Efectul termic activează regenerarea celulară și oxigenarea țesuturilor. Recomandat pentru durerile musculare și articulare, oferind o senzație generală de ușurare, vitalitate și echilibru.\nBeneficii:\n• Efect de relaxare profundă și tonifiere\n• Stimularea circulației și oxigenarea pielii\n• Reducerea inflamațiilor musculare\n• Revitalizare generală\nDurata: 60 minute\nPreț: 230 lei\nÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
           ],
           "images": [
             "https://cdn.mytherme.app/serve/8a79b3e4-f22f-462d-9d78-5358ed2662ec"
@@ -531,7 +671,7 @@
         {
           "heading": "Masaj de echilibrare, cu ventuze de sticlă",
           "content": [
-            "Masaj inspirat din terapia tradițională chinezească, în care ventuzele de sticlă sunt aplicate pentru a crea o presiune negativă asupra pielii. Această metodă stimulează circulația locală, relaxează țesuturile și poate reduce tensiunea musculară. Procedura este recomandată pentru ameliorarea durerilor persistente, reducerea rigidității și susținerea recuperării după efort. De asemenea, poate induce o stare generală de relaxare și diminuare a anxietății.Beneficii:• Detoxifiere și stimularea circulației• Relaxare musculară și reducerea inflamațiilor• Refacere fizică și psihică• Ameliorarea durerilor croniceDurata: 60 minutePreț: 210 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+            "Masaj inspirat din terapia tradițională chinezească, în care ventuzele de sticlă sunt aplicate pentru a crea o presiune negativă asupra pielii. Această metodă stimulează circulația locală, relaxează țesuturile și poate reduce tensiunea musculară. Procedura este recomandată pentru ameliorarea durerilor persistente, reducerea rigidității și susținerea recuperării după efort. De asemenea, poate induce o stare generală de relaxare și diminuare a anxietății.\nBeneficii:\n• Detoxifiere și stimularea circulației\n• Relaxare musculară și reducerea inflamațiilor\n• Refacere fizică și psihică\n• Ameliorarea durerilor cronice\nDurata: 60 minute\nPreț: 210 lei\nÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
           ],
           "images": [
             "https://cdn.mytherme.app/serve/5244f78d-ca87-48a4-b594-dc5c277a08e0"
@@ -561,7 +701,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nCaribbean Scrub\nLuni - Joi\nSauna Tropical Rain\n12:30\nVineri - Duminică\nSauna Tropical Rain\n16:30"
+        "program": "Program\nCaribbean Scrub\nLuni - Joi\nSauna Tropical Rain\n12:30\nVineri - Duminică\nSauna Tropical Rain\n16:30",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Tropical Rain",
+            "time": "12:30"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -587,7 +734,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nCitrus Breeze\nLuni - Duminica\nSauna Amazon\n14:00"
+        "program": "Program\nCitrus Breeze\nLuni - Duminica\nSauna Amazon\n14:00",
+        "entries": [
+          {
+            "days": "Luni - Duminica",
+            "location": "Sauna Amazon",
+            "time": "14:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -613,7 +767,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nEquilibrium\nLuni - Joi\nSauna Amazon\n22:00"
+        "program": "Program\nEquilibrium\nLuni - Joi\nSauna Amazon\n22:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Amazon",
+            "time": "22:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -639,7 +800,19 @@
         }
       ],
       "schedule": {
-        "program": "Program\nFruity Ice\nLuni - Joi\nSauna Amazon\n16:00\nVineri - Duminică\nSauna Amazon\n12:00"
+        "program": "Program\nFruity Ice\nLuni - Joi\nSauna Amazon\n16:00\nVineri - Duminică\nSauna Amazon\n12:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Amazon",
+            "time": "16:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Amazon",
+            "time": "12:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -665,7 +838,24 @@
         }
       ],
       "schedule": {
-        "program": "Program\nHerbal Scrub\nLuni - Joi\nSauna Herbal Essences\n16:30\nVineri - Duminică\nSauna Herbal Essences\n12:30\nSauna Herbal Essences\n18:30"
+        "program": "Program\nHerbal Scrub\nLuni - Joi\nSauna Herbal Essences\n16:30\nVineri - Duminică\nSauna Herbal Essences\n12:30\nSauna Herbal Essences\n18:30",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Herbal Essences",
+            "time": "16:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Herbal Essences",
+            "time": "12:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Herbal Essences",
+            "time": "18:30"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -691,7 +881,34 @@
         }
       ],
       "schedule": {
-        "program": "Program\nLiquid Gold\nLuni - Joi\nSauna Provence\n13:00\nSauna Provence\n17:00\nVineri - Duminică\nSauna Provence\n11:00\nSauna Provence\n15:00\nSauna Provence\n21:00"
+        "program": "Program\nLiquid Gold\nLuni - Joi\nSauna Provence\n13:00\nSauna Provence\n17:00\nVineri - Duminică\nSauna Provence\n11:00\nSauna Provence\n15:00\nSauna Provence\n21:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Provence",
+            "time": "13:00"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Provence",
+            "time": "17:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Provence",
+            "time": "11:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Provence",
+            "time": "15:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Provence",
+            "time": "21:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -717,7 +934,24 @@
         }
       ],
       "schedule": {
-        "program": "Program\nMint Infusion\nLuni - Joi\nSauna Hollywood\n17:30\nVineri - Duminică\nSauna Bavaria\n11:30\nSauna Amazon\n21:30"
+        "program": "Program\nMint Infusion\nLuni - Joi\nSauna Hollywood\n17:30\nVineri - Duminică\nSauna Bavaria\n11:30\nSauna Amazon\n21:30",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Hollywood",
+            "time": "17:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Bavaria",
+            "time": "11:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Amazon",
+            "time": "21:30"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -743,7 +977,19 @@
         }
       ],
       "schedule": {
-        "program": "Program\nOriental Scrub\nLuni - Joi\nSauna Oriental Garden\n20:30\nVineri - Duminică\nSauna Oriental Garden\n14:30"
+        "program": "Program\nOriental Scrub\nLuni - Joi\nSauna Oriental Garden\n20:30\nVineri - Duminică\nSauna Oriental Garden\n14:30",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Oriental Garden",
+            "time": "20:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Oriental Garden",
+            "time": "14:30"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -769,7 +1015,19 @@
         }
       ],
       "schedule": {
-        "program": "Program\nRocky Mountains\nLuni - Joi\nSauna Bavaria\n19:00\nVineri - Duminică\nSauna Bavaria\n13:00"
+        "program": "Program\nRocky Mountains\nLuni - Joi\nSauna Bavaria\n19:00\nVineri - Duminică\nSauna Bavaria\n13:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Bavaria",
+            "time": "19:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Bavaria",
+            "time": "13:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -795,7 +1053,24 @@
         }
       ],
       "schedule": {
-        "program": "Program\nSalt Ritual\nLuni - Duminică\nSauna Rainforest\n11:30\nSauna Rainforest\n15:30\nSauna Rainforest\n19:30"
+        "program": "Program\nSalt Ritual\nLuni - Duminică\nSauna Rainforest\n11:30\nSauna Rainforest\n15:30\nSauna Rainforest\n19:30",
+        "entries": [
+          {
+            "days": "Luni - Duminică",
+            "location": "Sauna Rainforest",
+            "time": "11:30"
+          },
+          {
+            "days": "Luni - Duminică",
+            "location": "Sauna Rainforest",
+            "time": "15:30"
+          },
+          {
+            "days": "Luni - Duminică",
+            "location": "Sauna Rainforest",
+            "time": "19:30"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -821,7 +1096,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nScandinavian Rain\nLuni- Duminica\nSauna Bavaria\n17:00"
+        "program": "Program\nScandinavian Rain\nLuni- Duminica\nSauna Bavaria\n17:00",
+        "entries": [
+          {
+            "days": "Luni- Duminica",
+            "location": "Sauna Bavaria",
+            "time": "17:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -847,7 +1129,19 @@
         }
       ],
       "schedule": {
-        "program": "Program\nSiberian Aufguss\nLuni - Joi\nSauna Bavaria\n13:00\nVineri - Duminică\nSauna Bavaria\n15:00"
+        "program": "Program\nSiberian Aufguss\nLuni - Joi\nSauna Bavaria\n13:00\nVineri - Duminică\nSauna Bavaria\n15:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Bavaria",
+            "time": "13:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Bavaria",
+            "time": "15:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -873,7 +1167,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nSilk Road\nLuni - Joi\nSauna Alhambra\n11:00"
+        "program": "Program\nSilk Road\nLuni - Joi\nSauna Alhambra\n11:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Alhambra",
+            "time": "11:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -899,7 +1200,39 @@
         }
       ],
       "schedule": {
-        "program": "Program\nSweet Gommage\nLuni - Joi\nSauna Rainforest\n13:30\nSauna Rainforest\n17:30\nSauna Rainforest\n21:30\nVineri - Duminică\nSauna Rainforest\n13:30\nSauna Rainforest\n17:30\nSauna Rainforest\n21:30"
+        "program": "Program\nSweet Gommage\nLuni - Joi\nSauna Rainforest\n13:30\nSauna Rainforest\n17:30\nSauna Rainforest\n21:30\nVineri - Duminică\nSauna Rainforest\n13:30\nSauna Rainforest\n17:30\nSauna Rainforest\n21:30",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Rainforest",
+            "time": "13:30"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Rainforest",
+            "time": "17:30"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Rainforest",
+            "time": "21:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Rainforest",
+            "time": "13:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Rainforest",
+            "time": "17:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Rainforest",
+            "time": "21:30"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -917,7 +1250,7 @@
         {
           "heading": "Tratament facial de curățare activă, cu elemente vulcanice",
           "content": [
-            "Tratament expres dedicat tenului masculin, cu efect de revitalizare și purificare. Formula bazată pe rocă vulcanică îndepărtează impuritățile și celulele moarte, curățând porii în profunzime. Triplul efect de curățare, exfoliere și hidratare redă pielii fermitatea și luminozitatea naturală. Recomandat pentru tenul tern, obosit sau afectat de factorii de mediu.Beneficii:• Curățare profundă și exfoliere eficientă• Hidratare și revitalizare intensă• Redarea fermității și luminozității pielii• Împrospătare vizibilă a tenuluiDurata: 30 minutePreț: 169 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+            "Tratament expres dedicat tenului masculin, cu efect de revitalizare și purificare. Formula bazată pe rocă vulcanică îndepărtează impuritățile și celulele moarte, curățând porii în profunzime. Triplul efect de curățare, exfoliere și hidratare redă pielii fermitatea și luminozitatea naturală. Recomandat pentru tenul tern, obosit sau afectat de factorii de mediu.\nBeneficii:\n• Curățare profundă și exfoliere eficientă\n• Hidratare și revitalizare intensă\n• Redarea fermității și luminozității pielii\n• Împrospătare vizibilă a tenului\nDurata: 30 minute\nPreț: 169 lei\nÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
           ],
           "images": [
             "https://cdn.mytherme.app/serve/d42472f2-b836-4ddb-a8e2-9eb4143bf9fc"
@@ -939,7 +1272,7 @@
         {
           "heading": "Tratament revitalizant, cu ulei de cedru și tonic pentru barbă",
           "content": [
-            "Tratament facial creat pentru îngrijirea pielii masculine, cu efect energizant și protector. Uleiul de cedru și lemnul de santal fortifică firul de păr și hidratează în profunzime, iar complexul activ din tratament stimulează regenerarea celulară. Recomandat pentru protejarea pielii împotriva stresului urban, a factorilor de poluare și a semnelor de oboseală.Beneficii:• Hidratare și protecție intensivă• Regenerare și vitalitate pentru ten• Fortifierea bărbii și hrănirea pielii• Efect anti-obosealăDurata: 45 minutePreț: 199 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+            "Tratament facial creat pentru îngrijirea pielii masculine, cu efect energizant și protector. Uleiul de cedru și lemnul de santal fortifică firul de păr și hidratează în profunzime, iar complexul activ din tratament stimulează regenerarea celulară. Recomandat pentru protejarea pielii împotriva stresului urban, a factorilor de poluare și a semnelor de oboseală.\nBeneficii:\n• Hidratare și protecție intensivă\n• Regenerare și vitalitate pentru ten\n• Fortifierea bărbii și hrănirea pielii\n• Efect anti-oboseală\nDurata: 45 minute\nPreț: 199 lei\nÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
           ],
           "images": [
             "https://cdn.mytherme.app/serve/6f882c9f-565e-43a1-8e2d-6936603795f3"
@@ -961,7 +1294,7 @@
         {
           "heading": "Învinge trecerea timpului cu un tratament care întinerește vizibil tenul, chiar după prima ședință",
           "content": [
-            "Tratament facial intensiv, conceput pentru revitalizarea și întinerirea vizibilă a tenului, cu rezultate remarcabile încă de la prima ședință. X Treme Hyaluron oferă hidratare profundă și efect de netezire, redând pielii fermitatea și aspectul tânăr.Terapia combină acțiunea intens hidratantă a acidului hialuronic cu semințele de Kiwicha, cunoscute drept Aurul Incașilor, pentru a susține regenerarea pielii și a reduce vizibil ridurile. Tratamentul stimulează mecanismele naturale de reparare ale epidermei și îmbunătățește elasticitatea și tonusul pielii.Pentru un efect anti aging complet, ritualul include o tehnică de remodelare și revitalizare facială realizată cu dispozitivul DermoPhyt’s. Aceasta stimulează circulația limfatică, netezește liniile fine, redefinește conturul feței și susține regenerarea celulară.Formula este completată de ingrediente active atent selecționate, precum gluconolactona biotehnologică, fermenți lactici, extract de salvie, apă de trandafiri, argilă albă și muguri de fag organic, care acționează în sinergie pentru oxigenarea țesuturilor și susținerea frumuseții naturale a pielii.Recomandat pentru hidratare intensă, efect anti aging vizibil și revitalizarea tenului matur sau deshidratat.Beneficii:• Hidratare profundă și efect de netezire• Reducerea vizibilă a ridurilor și liniilor fine• Redefinirea conturului facial și revitalizareDurata:45 minutePreț:322 leiÎți poți face programare pentru acest tratament larecepția #instantwellness din zona Elysium."
+            "Tratament facial intensiv, conceput pentru revitalizarea și întinerirea vizibilă a tenului, cu rezultate remarcabile încă de la prima ședință. X Treme Hyaluron oferă hidratare profundă și efect de netezire, redând pielii fermitatea și aspectul tânăr.\nTerapia combină acțiunea intens hidratantă a acidului hialuronic cu semințele de Kiwicha, cunoscute drept Aurul Incașilor, pentru a susține regenerarea pielii și a reduce vizibil ridurile. Tratamentul stimulează mecanismele naturale de reparare ale epidermei și îmbunătățește elasticitatea și tonusul pielii.\nPentru un efect anti aging complet, ritualul include o tehnică de remodelare și revitalizare facială realizată cu dispozitivul DermoPhyt’s. Aceasta stimulează circulația limfatică, netezește liniile fine, redefinește conturul feței și susține regenerarea celulară.\nFormula este completată de ingrediente active atent selecționate, precum gluconolactona biotehnologică, fermenți lactici, extract de salvie, apă de trandafiri, argilă albă și muguri de fag organic, care acționează în sinergie pentru oxigenarea țesuturilor și susținerea frumuseții naturale a pielii.\nRecomandat pentru hidratare intensă, efect anti aging vizibil și revitalizarea tenului matur sau deshidratat.\nBeneficii:\n• Hidratare profundă și efect de netezire\n• Reducerea vizibilă a ridurilor și liniilor fine\n• Redefinirea conturului facial și revitalizare\nDurata:\n45 minute\nPreț:\n322 lei\nÎți poți face programare pentru acest tratament la\nrecepția #instantwellness din zona Elysium."
           ],
           "images": [
             "https://cdn.mytherme.app/serve/569804e3-5d1f-4ef4-a235-b80635a0e552"
@@ -983,7 +1316,7 @@
         {
           "heading": "Descoperă secretul îngrijirii în profunzime a tenului, cu un efect puternic anti-aging",
           "content": [
-            "Tratament facial avansat, dedicat îngrijirii în profunzime a tenului, cu efect vizibil anti aging. Conceput pentru pielea normală sau uscată, acest ritual combină ingrediente performanțe și extracte naturale pentru a acționa eficient în toate cele trei straturi ale pielii. Formula complexă conține șapte molecule de acid hialuronic cu dimensiuni diferite, sare de mare cristalizată, colagen marin și extract de fructe de Acai, pentru hidratare intensă, regenerare și redarea elasticității pielii.Rezultatul este un ten vizibil mai luminos, neted și catifelat. Pentru protejarea barierei lipidice și un plus de confort, tratamentul este completat de un mix de ingrediente naturale. Nalba calmează pielea, ceara de albine oferă hrănire profundă, iar aloe vera hidratează intens. Petit grain și santalul calmează și reîmprospătează, verbina răcorește, iar uleiurile de migdale dulci și susan mențin hidratarea, lăsând pielea revigorată și bine îngrijită. Recomandat pentru revitalizarea tenului, hidratare profundă și redarea aspectului sănătos și uniform al pielii.Beneficii:• Hidratare intensă și de durată• Efect anti-aging și revitalizare a tenului• Calmarea pielii și protejarea barierei naturaleDurata:45 minutePreț:222 leiÎți poți face programare pentru acest tratament larecepția #instantwellness din zona Elysium."
+            "Tratament facial avansat, dedicat îngrijirii în profunzime a tenului, cu efect vizibil anti aging. Conceput pentru pielea normală sau uscată, acest ritual combină ingrediente performanțe și extracte naturale pentru a acționa eficient în toate cele trei straturi ale pielii. Formula complexă conține șapte molecule de acid hialuronic cu dimensiuni diferite, sare de mare cristalizată, colagen marin și extract de fructe de Acai, pentru hidratare intensă, regenerare și redarea elasticității pielii.\nRezultatul este un ten vizibil mai luminos, neted și catifelat. Pentru protejarea barierei lipidice și un plus de confort, tratamentul este completat de un mix de ingrediente naturale. Nalba calmează pielea, ceara de albine oferă hrănire profundă, iar aloe vera hidratează intens. Petit grain și santalul calmează și reîmprospătează, verbina răcorește, iar uleiurile de migdale dulci și susan mențin hidratarea, lăsând pielea revigorată și bine îngrijită. Recomandat pentru revitalizarea tenului, hidratare profundă și redarea aspectului sănătos și uniform al pielii.\nBeneficii:\n• Hidratare intensă și de durată\n• Efect anti-aging și revitalizare a tenului\n• Calmarea pielii și protejarea barierei naturale\nDurata:\n45 minute\nPreț:\n222 lei\nÎți poți face programare pentru acest tratament la\nrecepția #instantwellness din zona Elysium."
           ],
           "images": [
             "https://cdn.mytherme.app/serve/6bda6a8f-1133-480d-a23b-319693a29920"
@@ -1005,7 +1338,7 @@
         {
           "heading": "Descoperă ritualul express pentru un ten revitalizat, curat și luminos",
           "content": [
-            "Tratament facial rapid, conceput pentru curățarea, hidratarea și revitalizarea tenului, ideal atunci când ai nevoie de un plus de prospețime într-un timp scurt. Beauty Express oferă un efect vizibil de revitalizare și îngrijire, lăsând pielea curată, luminoasă și catifelată.﻿Formula sa combină șapte molecule de acid hialuronic cu dimensiuni diferite, sare de mare cristalizată, colagen marin și extract de fructe de Acai, acționând eficient în toate cele trei straturi ale pielii. Tenul este hrănit și hidratat în profunzime, cu un aspect uniform și sănătos. Pentru protejarea barierei lipidice și un plus de confort, tratamentul este completat de un mix de ingrediente naturale. Nalba calmează pielea, ceara de albine oferă hrănire intensă, iar aloe vera hidratează profund. Petit grain și santalul au efect calmant, verbina aduce prospețime, iar uleiurile de migdale dulci și susan ajută la menținerea hidratării și a supleței pielii.Recomandat pentru îngrijire rapidă, hidratare intensă și redarea aspectului proaspăt al tenului.Beneficii:• Curățare și tonifiere eficientă• Hidratare rapidă și revitalizare• Piele netedă, luminoasă și îngrijităDurata:30 minutePreț:182 leiÎți poți face programare pentru acest tratament larecepția #instantwellness din zona Elysium."
+            "Tratament facial rapid, conceput pentru curățarea, hidratarea și revitalizarea tenului, ideal atunci când ai nevoie de un plus de prospețime într-un timp scurt. Beauty Express oferă un efect vizibil de revitalizare și îngrijire, lăsând pielea curată, luminoasă și catifelată.\n﻿\nFormula sa combină șapte molecule de acid hialuronic cu dimensiuni diferite, sare de mare cristalizată, colagen marin și extract de fructe de Acai, acționând eficient în toate cele trei straturi ale pielii. Tenul este hrănit și hidratat în profunzime, cu un aspect uniform și sănătos. Pentru protejarea barierei lipidice și un plus de confort, tratamentul este completat de un mix de ingrediente naturale. Nalba calmează pielea, ceara de albine oferă hrănire intensă, iar aloe vera hidratează profund. Petit grain și santalul au efect calmant, verbina aduce prospețime, iar uleiurile de migdale dulci și susan ajută la menținerea hidratării și a supleței pielii.\nRecomandat pentru îngrijire rapidă, hidratare intensă și redarea aspectului proaspăt al tenului.\nBeneficii:\n• Curățare și tonifiere eficientă\n• Hidratare rapidă și revitalizare\n• Piele netedă, luminoasă și îngrijită\nDurata:\n30 minute\nPreț:\n182 lei\nÎți poți face programare pentru acest tratament la\nrecepția #instantwellness din zona Elysium."
           ],
           "images": [
             "https://cdn.mytherme.app/serve/2421727c-439e-4c51-b735-8fe269b82454"
@@ -1035,7 +1368,19 @@
         }
       ],
       "schedule": {
-        "program": "Program\nOriental Time\nLuni - Joi\nSauna Alhambra\n14:00\nVineri - Duminică\nSauna Alhambra\n16:00"
+        "program": "Program\nOriental Time\nLuni - Joi\nSauna Alhambra\n14:00\nVineri - Duminică\nSauna Alhambra\n16:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Alhambra",
+            "time": "14:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Alhambra",
+            "time": "16:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -1061,7 +1406,24 @@
         }
       ],
       "schedule": {
-        "program": "Program\nJourney of Senses\nLuni - Joi\nSauna Provence\n15:00\nSauna Provence\n21:00\nVineri - Duminică\nSauna Provence\n17:00"
+        "program": "Program\nJourney of Senses\nLuni - Joi\nSauna Provence\n15:00\nSauna Provence\n21:00\nVineri - Duminică\nSauna Provence\n17:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Provence",
+            "time": "15:00"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Provence",
+            "time": "21:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Provence",
+            "time": "17:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -1087,7 +1449,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nPrecious Wood Aufguss\nVineri - Duminică\nSauna Bavaria\n19:00"
+        "program": "Program\nPrecious Wood Aufguss\nVineri - Duminică\nSauna Bavaria\n19:00",
+        "entries": [
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Bavaria",
+            "time": "19:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -1113,7 +1482,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nEssential Chill Aufguss\nVineri - Duminică\nSauna Amazon\n18:00"
+        "program": "Program\nEssential Chill Aufguss\nVineri - Duminică\nSauna Amazon\n18:00",
+        "entries": [
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Amazon",
+            "time": "18:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -1139,7 +1515,19 @@
         }
       ],
       "schedule": {
-        "program": "Program\nSpice Bazaar\nLuni - Joi\nSauna Alhambra\n15:30\nVineri - Duminică\nSauna Alhambra\n11:30"
+        "program": "Program\nSpice Bazaar\nLuni - Joi\nSauna Alhambra\n15:30\nVineri - Duminică\nSauna Alhambra\n11:30",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Alhambra",
+            "time": "15:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Alhambra",
+            "time": "11:30"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -1166,7 +1554,19 @@
         }
       ],
       "schedule": {
-        "program": "Program\nHerbarium Aufguss\nLuni - Joi\nSauna A Terra\n15:00\nVineri - Duminică\nSauna A Terra\n17:00"
+        "program": "Program\nHerbarium Aufguss\nLuni - Joi\nSauna A Terra\n15:00\nVineri - Duminică\nSauna A Terra\n17:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna A Terra",
+            "time": "15:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna A Terra",
+            "time": "17:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -1193,7 +1593,19 @@
         }
       ],
       "schedule": {
-        "program": "Program\nBlossom\nLuni - Joi\nSauna Hollywood\n16:00\nVineri - Duminică\nSauna Hollywood\n14:00"
+        "program": "Program\nBlossom\nLuni - Joi\nSauna Hollywood\n16:00\nVineri - Duminică\nSauna Hollywood\n14:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Hollywood",
+            "time": "16:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Hollywood",
+            "time": "14:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -1211,7 +1623,7 @@
         {
           "heading": "Masaj vindecător, cu extract pur de Katrafay și cânepă",
           "content": [
-            "Masaj relaxant și reparator, realizat cu ulei esențial de Katrafay din Madagascar și extract activ de cânepă. Uleiul de Katrafay are efecte tonice și afrodisiace, iar cânepa contribuie la regenerarea pielii și calmarea stărilor de tensiune. Compoziția bogată în antioxidanți și acizi grași hrănește pielea și susține echilibrul sistemului nervos. Recomandat pentru oboseală cronică, anxietate și insomnii.Beneficii:• Relaxare profundă și revitalizare• Regenerarea pielii și hrănire intensă• Calmare și echilibru emoțional• Efect antioxidant și tonicDurata: 60 minutePreț: 369 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+            "Masaj relaxant și reparator, realizat cu ulei esențial de Katrafay din Madagascar și extract activ de cânepă. Uleiul de Katrafay are efecte tonice și afrodisiace, iar cânepa contribuie la regenerarea pielii și calmarea stărilor de tensiune. Compoziția bogată în antioxidanți și acizi grași hrănește pielea și susține echilibrul sistemului nervos. Recomandat pentru oboseală cronică, anxietate și insomnii.\nBeneficii:\n• Relaxare profundă și revitalizare\n• Regenerarea pielii și hrănire intensă\n• Calmare și echilibru emoțional\n• Efect antioxidant și tonic\nDurata: 60 minute\nPreț: 369 lei\nÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
           ],
           "images": [
             "https://cdn.mytherme.app/serve/95549f91-a27e-4357-8efc-ed59c17fc56e"
@@ -1233,7 +1645,7 @@
         {
           "heading": "Masaj senzorial, cu compresie din frunze de stejar",
           "content": [
-            "Masaj energizant care îmbină crioterapia cu puterea plantelor medicinale. Crema cu efect rece și uleiul de mentă japoneză relaxează mușchii și stimulează circulația, iar la final, compresia caldă din frunze de stejar oferă un efect astringent, antiinflamator și antiseptic. Masaj recomandat pentru revitalizare, recuperare fizică și relaxare profundă.Beneficii:• Efect puternic de revitalizare• Relaxare musculară și stimularea circulației• Efect antiinflamator și antiseptic• Recuperare fizică acceleratăDurata: 60 minutePreț: 369 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+            "Masaj energizant care îmbină crioterapia cu puterea plantelor medicinale. Crema cu efect rece și uleiul de mentă japoneză relaxează mușchii și stimulează circulația, iar la final, compresia caldă din frunze de stejar oferă un efect astringent, antiinflamator și antiseptic. Masaj recomandat pentru revitalizare, recuperare fizică și relaxare profundă.\nBeneficii:\n• Efect puternic de revitalizare\n• Relaxare musculară și stimularea circulației\n• Efect antiinflamator și antiseptic\n• Recuperare fizică accelerată\nDurata: 60 minute\nPreț: 369 lei\nÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
           ],
           "images": [
             "https://cdn.mytherme.app/serve/26fb45b8-1dc6-46f1-a30a-70879c84888a"
@@ -1255,7 +1667,7 @@
         {
           "heading": "Masaj revitalizant, cu elemente marine și minerale semiprețioase",
           "content": [
-            "Masaj regenerant bazat pe puterea terapeutică a mineralelor marine și a Shungitului, considerat cel mai vechi mineral de pe Pământ. Uleiul de magneziu și calciul marin tonifică pielea, stimulează circulația și accelerează procesul natural de refacere. Masajul întărește imunitatea și induce o stare de echilibru și vitalitate. Inspirat din cultura talasoterapiei.Beneficii:• Revitalizare și re-energizare• Fortificarea sistemului imunitar• Tonifierea pielii și stimularea circulației• Efect remineralizant și protectorDurata: 60 minutePreț: 369 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+            "Masaj regenerant bazat pe puterea terapeutică a mineralelor marine și a Shungitului, considerat cel mai vechi mineral de pe Pământ. Uleiul de magneziu și calciul marin tonifică pielea, stimulează circulația și accelerează procesul natural de refacere. Masajul întărește imunitatea și induce o stare de echilibru și vitalitate. Inspirat din cultura talasoterapiei.\nBeneficii:\n• Revitalizare și re-energizare\n• Fortificarea sistemului imunitar\n• Tonifierea pielii și stimularea circulației\n• Efect remineralizant și protector\nDurata: 60 minute\nPreț: 369 lei\nÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
           ],
           "images": [
             "https://cdn.mytherme.app/serve/6396f6b1-c00c-4133-a2fe-f566696d01fb"
@@ -1281,7 +1693,7 @@
         {
           "heading": "Tratament facial coreean cu extract de ginseng roșu",
           "content": [
-            "Acest tratament inspirat din ritualurile coreene de înfrumusețare folosește puterea ginsengului roșu, un ingredient cunoscut pentru efectele sale remarcabile de regenerare și întinerire a pielii. Considerat o comoară a fitoterapiei asiatice, ginsengul roșu stimulează microcirculația, accelerează producția naturală de colagen și ajută la refacerea celulelor pielii.Tratamentul K-Beauty Renew îmbină cosmetice coreene premium, bazate pe ingrediente tradiționale coreene, cu tehnici de masaj profund și piatra Gua Sha, pentru a activa energia pielii și a-i reda vitalitatea naturală. Produsele folosite in tratament sprijină refacerea barierei naturale de protecție, reduc urmele de oboseală și hiperpigmentarea cauzată de expunerea la soare, oferind o senzație de confort și echilibru perfect.Pașii tratamentului:1. Curățare delicată ce elimină impuritățile și pregătește pielea pentru absorbția activelor nutritive.2. Exfoliere și tonifiere3.  Masaj cu ulei revitalizant și mască hrănitoare cu ginseng4.  Masaj Gua Sha ce stimulează circulația, tonifică mușchii faciali și oferă un efect de lifting natural.Toate produsele folosite in acest tratament sunt disponibile și în shop-ul Therme din zona The Palm.Durata: 45 minutePreț: 299 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+            "Acest tratament inspirat din ritualurile coreene de înfrumusețare folosește puterea ginsengului roșu, un ingredient cunoscut pentru efectele sale remarcabile de regenerare și întinerire a pielii. Considerat o comoară a fitoterapiei asiatice, ginsengul roșu stimulează microcirculația, accelerează producția naturală de colagen și ajută la refacerea celulelor pielii.\nTratamentul K-Beauty Renew îmbină cosmetice coreene premium, bazate pe ingrediente tradiționale coreene, cu tehnici de masaj profund și piatra Gua Sha, pentru a activa energia pielii și a-i reda vitalitatea naturală. Produsele folosite in tratament sprijină refacerea barierei naturale de protecție, reduc urmele de oboseală și hiperpigmentarea cauzată de expunerea la soare, oferind o senzație de confort și echilibru perfect.\nPașii tratamentului:\n1. Curățare delicată ce elimină impuritățile și pregătește pielea pentru absorbția activelor nutritive.\n2. Exfoliere și tonifiere\n3.  Masaj cu ulei revitalizant și mască hrănitoare cu ginseng\n4.  Masaj Gua Sha ce stimulează circulația, tonifică mușchii faciali și oferă un efect de lifting natural.\nToate produsele folosite in acest tratament sunt disponibile și în shop-ul Therme din zona The Palm.\nDurata: 45 minute\nPreț: 299 lei\nÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
           ],
           "images": [
             "https://cdn.mytherme.app/serve/94219d5f-75ff-41cd-83ad-72e351dcd630",
@@ -1307,7 +1719,7 @@
         {
           "heading": "Masaj inovator cu dispozitiv de masaj prin percuție și venin de albină",
           "content": [
-            "Premieră în România. Te bucuri de toate beneficiile tehnologiei de ultimă generație și proprietățile vindecătoare ale veninului de albină într-un singur masaj. Maseurul aplică o loțiune pe bază de plante medicinale autohtone și venin de albină, în timp ce dispozitivul de masaj relaxează mușchii în profunzime, aplicând până la 3.000 de pulsații pe minut. Reduce și previne efectele negative ale îmbătrânirii la nivelul țesuturilor moi, tendoanelor și oaselor, redă mobilitatea generală și ajută la recuperarea flexibilității.Beneficii:• Relaxare musculară profundă• Îmbunătățirea mobilității și flexibilității• Efect antiinflamator și antibacterian• Refacerea țesuturilor și recuperare fizicăDurata: 60 minutePreț: 369 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+            "Premieră în România. Te bucuri de toate beneficiile tehnologiei de ultimă generație și proprietățile vindecătoare ale veninului de albină într-un singur masaj. Maseurul aplică o loțiune pe bază de plante medicinale autohtone și venin de albină, în timp ce dispozitivul de masaj relaxează mușchii în profunzime, aplicând până la 3.000 de pulsații pe minut. Reduce și previne efectele negative ale îmbătrânirii la nivelul țesuturilor moi, tendoanelor și oaselor, redă mobilitatea generală și ajută la recuperarea flexibilității.\nBeneficii:\n• Relaxare musculară profundă\n• Îmbunătățirea mobilității și flexibilității\n• Efect antiinflamator și antibacterian\n• Refacerea țesuturilor și recuperare fizică\nDurata: 60 minute\nPreț: 369 lei\nÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
           ],
           "images": [
             "https://cdn.mytherme.app/serve/6b607ff4-77bc-4a30-bdc4-37ff68299aef"
@@ -1329,7 +1741,7 @@
         {
           "heading": "Masaj de relaxare profundă, cu săculeți de plante",
           "content": [
-            "Masaj cu efect analgezic, pentru detensionarea sistemului muscular și relaxare totală. Se folosesc uleiuri esențiale de tămâie și jojoba, precum și săculeți terapeutici umpluți cu plante medicinale și aromatice selecționate, recunoscute pentru proprietățile lor curative: tei, mușețel, gălbenele, lavandă, brad, salvie, coada-șoricelului, rozmarin, oregano, roiniță și busuioc. Masaj recomandat pentru ameliorarea insomniilor, anxietății și stărilor de tensiune musculară.Beneficii:• Relaxare completă și detensionare• Efect calmant și echilibrare emoțională• Ameliorarea insomniilor și anxietății• Îmbunătățirea stării generale de bineDurata: 60 minutePreț: 369 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+            "Masaj cu efect analgezic, pentru detensionarea sistemului muscular și relaxare totală. Se folosesc uleiuri esențiale de tămâie și jojoba, precum și săculeți terapeutici umpluți cu plante medicinale și aromatice selecționate, recunoscute pentru proprietățile lor curative: tei, mușețel, gălbenele, lavandă, brad, salvie, coada-șoricelului, rozmarin, oregano, roiniță și busuioc. Masaj recomandat pentru ameliorarea insomniilor, anxietății și stărilor de tensiune musculară.\nBeneficii:\n• Relaxare completă și detensionare\n• Efect calmant și echilibrare emoțională\n• Ameliorarea insomniilor și anxietății\n• Îmbunătățirea stării generale de bine\nDurata: 60 minute\nPreț: 369 lei\nÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
           ],
           "images": [
             "https://cdn.mytherme.app/serve/e8847522-1178-47cb-8bc8-adb34bc67186"
@@ -1359,7 +1771,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nMystery Bazaar\nVineri - Duminică\nSauna Alhambra\n18:00"
+        "program": "Program\nMystery Bazaar\nVineri - Duminică\nSauna Alhambra\n18:00",
+        "entries": [
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Alhambra",
+            "time": "18:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -1385,7 +1804,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nDesert Shrub\nLuni - Joi\nSauna Alhambra\n20:00"
+        "program": "Program\nDesert Shrub\nLuni - Joi\nSauna Alhambra\n20:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Alhambra",
+            "time": "20:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -1411,7 +1837,24 @@
         }
       ],
       "schedule": {
-        "program": "Program\nTibetan Incense\nLuni - Duminica\nSauna Himalaya\n12:30 - 13:00\nSauna Himalaya\n16:30 - 17:00\nSauna Himalaya\n20:30 - 21:00"
+        "program": "Program\nTibetan Incense\nLuni - Duminica\nSauna Himalaya\n12:30 - 13:00\nSauna Himalaya\n16:30 - 17:00\nSauna Himalaya\n20:30 - 21:00",
+        "entries": [
+          {
+            "days": "Luni - Duminica",
+            "location": "Sauna Himalaya",
+            "time": "12:30 - 13:00"
+          },
+          {
+            "days": "Luni - Duminica",
+            "location": "Sauna Himalaya",
+            "time": "16:30 - 17:00"
+          },
+          {
+            "days": "Luni - Duminica",
+            "location": "Sauna Himalaya",
+            "time": "20:30 - 21:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -1429,7 +1872,7 @@
         {
           "heading": "Incursiune în universul scorțișoarei și stării de bine",
           "content": [
-            "Aventurează-te într-o călătorie multisenzorială în lumea aromelor bogate de scorțișoară. Descoperă nuanțele a 3-4 tipuri de scorțișoară – de la cea delicatele Ceylon, Saygon și Burmannii la scorțișoară Cassia cu parfum intens. Fiecare tip de scorțișoară provine din locuri unice, precum Sri Lanka, China sau Vietnam, extrem de apreciate în medicina tradițională pentru proprietățile sale antimicrobiene, antiinflamatoare și antioxidante.Infuziile și uleiurile din scorțișoară, combinate cu ghimbir energizant, creează o experiență regenerantă pentru corp și minte. În fundal, muzica relaxantă orientală întărește senzația de calm profund, pentru o stare de bine desăvârșită, gata să te încarce de energie pentru provocările ce urmează.Beneficii:•Detensionare musculară•Îmbunătățirea respirației•Efecte antiinflamatoare•Acțiune antioxidantă•Îmbunătățirea circulației sanguine"
+            "Aventurează-te într-o călătorie multisenzorială în lumea aromelor bogate de scorțișoară. Descoperă nuanțele a 3-4 tipuri de scorțișoară – de la cea delicatele Ceylon, Saygon și Burmannii la scorțișoară Cassia cu parfum intens. Fiecare tip de scorțișoară provine din locuri unice, precum Sri Lanka, China sau Vietnam, extrem de apreciate în medicina tradițională pentru proprietățile sale antimicrobiene, antiinflamatoare și antioxidante.\nInfuziile și uleiurile din scorțișoară, combinate cu ghimbir energizant, creează o experiență regenerantă pentru corp și minte. În fundal, muzica relaxantă orientală întărește senzația de calm profund, pentru o stare de bine desăvârșită, gata să te încarce de energie pentru provocările ce urmează.\nBeneficii:\n•\nDetensionare musculară\n•\nÎmbunătățirea respirației\n•\nEfecte antiinflamatoare\n•\nAcțiune antioxidantă\n•\nÎmbunătățirea circulației sanguine"
           ],
           "images": [
             "https://cdn.mytherme.app/serve/9403332f-8ed7-4854-a29c-0cfa8c6df2b8"
@@ -1437,7 +1880,19 @@
         }
       ],
       "schedule": {
-        "program": "Program\nDalchini\nLuni - Joi\nSauna Alhambra\n18:00\nVineri - Duminică\nSauna Alhambra\n20:00"
+        "program": "Program\nDalchini\nLuni - Joi\nSauna Alhambra\n18:00\nVineri - Duminică\nSauna Alhambra\n20:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Alhambra",
+            "time": "18:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Alhambra",
+            "time": "20:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -1455,7 +1910,7 @@
         {
           "heading": "Creativitate pură și stare de bine la peste 85°C",
           "content": [
-            "Aici, totul este despre libertatea de a te exprima așa cum îți dictează inima. Pregătește-te să pășești într-un univers paralel, un loc în care limitele sunt estompate și creativitatea curge liber. Aici, nimic nu este prea cunoscut, dar totul pare familiar. În noua saună “Ad Astra”, cerul este limita imaginației și fiecare respirație devine un act de descoperire, fiecare mișcare un performance artistic la peste85°C.﻿﻿Maestrul Aufguss îți va arăta în noua saună “Ad Astra” adevărata sa măiestrie cu tehnici unice de mânuire a prosopului, trucuri spectaculoase și elemente artistice impresionante. “Freestyle Aufguss” este apogeul artei Aufguss-ului modern, inspirat din universul “Cirque du Soleil”, locul în care limitele sunt făcute pentru a fi depășite cu fiecare reprezentație, iar gravitația pare să nu mai existe. Fiecare mișcare de prosop aduce cu sine o poveste diferită, încărcată de efectele binefăcătoare ale uleiurilor esențiale atent selecționate.Beneficii:Stimularea sistemului limfaticReducerea tensiunii musculareÎmbunătățirea respirațieiEliminarea toxinelorReducerea stresului și anxietății"
+            "Aici, totul este despre libertatea de a te exprima așa cum îți dictează inima. Pregătește-te să pășești într-un univers paralel, un loc în care limitele sunt estompate și creativitatea curge liber. Aici, nimic nu este prea cunoscut, dar totul pare familiar. În noua saună “Ad Astra”, cerul este limita imaginației și fiecare respirație devine un act de descoperire, fiecare mișcare un performance artistic la peste\n85°C\n.\n﻿﻿\nMaestrul Aufguss îți va arăta în noua saună “Ad Astra” adevărata sa măiestrie cu tehnici unice de mânuire a prosopului, trucuri spectaculoase și elemente artistice impresionante. “Freestyle Aufguss” este apogeul artei Aufguss-ului modern, inspirat din universul “Cirque du Soleil”, locul în care limitele sunt făcute pentru a fi depășite cu fiecare reprezentație, iar gravitația pare să nu mai existe. Fiecare mișcare de prosop aduce cu sine o poveste diferită, încărcată de efectele binefăcătoare ale uleiurilor esențiale atent selecționate.\nBeneficii:\nStimularea sistemului limfatic\nReducerea tensiunii musculare\nÎmbunătățirea respirației\nEliminarea toxinelor\nReducerea stresului și anxietății"
           ],
           "images": [
             "https://cdn.mytherme.app/serve/2e7e885e-9ee3-4250-a3db-28d130039dbf"
@@ -1463,7 +1918,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nFreestyle\nLuni - Joi\nSauna Ad Astra\n19:00\nVineri - Duminică\nSauna Ad Astra\n14:00"
+        "program": "Program\nFreestyle\nLuni - Joi\nSauna Ad Astra\n19:00\nVineri - Duminică\nSauna Ad Astra\n14:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Ad Astra",
+            "time": "19:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -1481,7 +1943,7 @@
         {
           "heading": "Adie un vânt cald aducător de stare de bine",
           "content": [
-            "Pășește în sauna Bavaria și lasă-te învăluit de vântul misterios al deșertului arabic și energia sa debordantă. Sirocco traversează coastele mediteraneene, răspândind arome de condimente, citrice și esențe florale, pentru o călătorie multisenzorială memorabilă. În premieră pentru România, trăiește pe propria piele senzația intensă a bulgărelui nr. 4, pentru o experiență mai intensă ca niciodată.Atenție! Ascultă-ți corpul și nu-ți testa limitelele.În cazul în care simți cel mai mic disconfort termic, ieși din saună direct pe terasă, pentru o gură de aer proaspăt. Dacă totuși alegi să rămâi până la finalul Aufguss-ului, pregătește-te să trăiești un moment special, în care fiecare bulgăre este un omagiu adus originilor acestui vânt ancestral, iar fiecare mișcare devine un dans al naturii și al simțurilor.Primul bulgăre– Arome de condimente roșii din inima Africii sau a Peninsulei Arabe, o exploziei pasiune ce trezește fiecare celulă a corpului.Al doilea bulgăre– Adiere de citrice din Italia, Spania sau Portugalia, ce aduc cu ele o revigorare proaspătă, asemenea brizelor răcoritoare ale mediteranei.Al treilea bulgăre– Condimente erbacee, cu busuioc, rozmarin și cimbru, ce evocă dulceața unui peisaj verde, plin de lumina soarelui. Maestrul folosește steagul sau evantaiul, după caz, pentru a redirecționa vaporii de apă.Al patrulea bulgăre– Patchouli sau vetiver, esențe care emană un parfum intens, pământiu, ca o adiere de deșert ce poartă amintirea nisipurilor fierbinți.Beneficii:Revigorarea circulației și a fluxului de energieDetoxifiere profundă și purificareEliberarea tensiunii și a stresului acumulateÎmbunătățirea respirației și stării de bine generale"
+            "Pășește în sauna Bavaria și lasă-te învăluit de vântul misterios al deșertului arabic și energia sa debordantă. Sirocco traversează coastele mediteraneene, răspândind arome de condimente, citrice și esențe florale, pentru o călătorie multisenzorială memorabilă. În premieră pentru România, trăiește pe propria piele senzația intensă a bulgărelui nr. 4, pentru o experiență mai intensă ca niciodată.\nAtenție! Ascultă-ți corpul și nu-ți testa limitelele.\nÎn cazul în care simți cel mai mic disconfort termic, ieși din saună direct pe terasă, pentru o gură de aer proaspăt. Dacă totuși alegi să rămâi până la finalul Aufguss-ului, pregătește-te să trăiești un moment special, în care fiecare bulgăre este un omagiu adus originilor acestui vânt ancestral, iar fiecare mișcare devine un dans al naturii și al simțurilor.\nPrimul bulgăre\n– Arome de condimente roșii din inima Africii sau a Peninsulei Arabe, o exploziei pasiune ce trezește fiecare celulă a corpului.\nAl doilea bulgăre\n– Adiere de citrice din Italia, Spania sau Portugalia, ce aduc cu ele o revigorare proaspătă, asemenea brizelor răcoritoare ale mediteranei.\nAl treilea bulgăre\n– Condimente erbacee, cu busuioc, rozmarin și cimbru, ce evocă dulceața unui peisaj verde, plin de lumina soarelui. Maestrul folosește steagul sau evantaiul, după caz, pentru a redirecționa vaporii de apă.\nAl patrulea bulgăre\n– Patchouli sau vetiver, esențe care emană un parfum intens, pământiu, ca o adiere de deșert ce poartă amintirea nisipurilor fierbinți.\nBeneficii:\nRevigorarea circulației și a fluxului de energie\nDetoxifiere profundă și purificare\nEliberarea tensiunii și a stresului acumulate\nÎmbunătățirea respirației și stării de bine generale"
           ],
           "images": [
             "https://cdn.mytherme.app/serve/c8776d09-a2f5-4bc4-ab4d-0e97fb32a09f"
@@ -1489,7 +1951,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nSirocco\nLuni - Duminică\nSauna Bavaria\n21:00"
+        "program": "Program\nSirocco\nLuni - Duminică\nSauna Bavaria\n21:00",
+        "entries": [
+          {
+            "days": "Luni - Duminică",
+            "location": "Sauna Bavaria",
+            "time": "21:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -1507,7 +1976,7 @@
         {
           "heading": "Inspiră adânc puterea celor mai rare uleiuri esențiale din lume",
           "content": [
-            "Cele mai rare uleiuri esențiale din lume sunt doar aici! Trăiește ritualul Cocha Cashu, o experiență unică inspirată de magia și diversitatea pădurii amazoniene din Rezervația Națională Manu, Peru. Timp de 10 minute, sauna Amazon se transformă  într-un sanctuar în care puterea esențelor rare din Coca Cashu îți reîncarcă spiritul și corpul, într-o atmosferă ce evocă protecția și venerarea naturii.Redescoperă conexiune profundă cu natura înconjurat de pădurea amazoniană și vegetația luxuriantă. Sunetele tribale relaxante, inspirate de ritualurile ancestrale, te ajută să te eliberezi de stres și să intri într-o stare de armonie interioară, ca într-o adevărată călătorie de descoperire a sinelui. Maestrul utilizează uleiuri esențiale precumSaro(Cinnamosma fragrans),Tagetes(Tagetes minuta), șiAjwain(Trachyspermum ammi), fiecare cu note botanice unice ce induc relaxare și reînnoire. Parfumurile te învăluie în arome naturale și complexe, pentru stare de bine deplină și reechilibrare.Beneficii:Inducerea unei stări profunde de calm.Purificarea căilor respiratoriiEnergizarea și clarificarea mentalăÎmbunătățirea circulației și detoxifierea naturală a organismului"
+            "Cele mai rare uleiuri esențiale din lume sunt doar aici! Trăiește ritualul Cocha Cashu, o experiență unică inspirată de magia și diversitatea pădurii amazoniene din Rezervația Națională Manu, Peru. Timp de 10 minute, sauna Amazon se transformă  într-un sanctuar în care puterea esențelor rare din Coca Cashu îți reîncarcă spiritul și corpul, într-o atmosferă ce evocă protecția și venerarea naturii.\nRedescoperă conexiune profundă cu natura înconjurat de pădurea amazoniană și vegetația luxuriantă. Sunetele tribale relaxante, inspirate de ritualurile ancestrale, te ajută să te eliberezi de stres și să intri într-o stare de armonie interioară, ca într-o adevărată călătorie de descoperire a sinelui. Maestrul utilizează uleiuri esențiale precum\nSaro\n(\nCinnamosma fragrans\n),\nTagetes\n(\nTagetes minuta\n), și\nAjwain\n(\nTrachyspermum ammi\n), fiecare cu note botanice unice ce induc relaxare și reînnoire. Parfumurile te învăluie în arome naturale și complexe, pentru stare de bine deplină și reechilibrare.\nBeneficii:\nInducerea unei stări profunde de calm.\nPurificarea căilor respiratorii\nEnergizarea și clarificarea mentală\nÎmbunătățirea circulației și detoxifierea naturală a organismului"
           ],
           "images": [
             "https://cdn.mytherme.app/serve/f8d0c0ff-b195-4e79-91ee-feb6d67e69ae"
@@ -1515,7 +1984,19 @@
         }
       ],
       "schedule": {
-        "program": "Program\nCocha Cashu\nLuni - Joi\nSauna Amazon\n18:00\nVineri - Duminică\nSauna Amazon\n16:00"
+        "program": "Program\nCocha Cashu\nLuni - Joi\nSauna Amazon\n18:00\nVineri - Duminică\nSauna Amazon\n16:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Amazon",
+            "time": "18:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Amazon",
+            "time": "16:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -1533,7 +2014,7 @@
         {
           "heading": "Încarcăte cu energia pozitivă a razelor solare să te cuprindă",
           "content": [
-            "Bucură-te din plin din universul fierbinte al saunei AdAstra! Aici, la peste 85°C ritualul Aufguss “Solar Wind” te va purta într-o călătorie cosmică a energiei și eliberării interioare. Fă cunoștință cu puterea și misterul vântului solar într-o experiență inspirată de curenții cosmici și forțele celeste. Fiecare respirație adâncește conexiunea cu sinele, iar fiecare mișcare de prosop efectuată de Maestrul Aufguss adaugă o dimensiune artistică și senzorială, amplificând senzațiile de purificare și revitalizare. Închide ochii și simte căldura solară care te învăluie și îți revitalizează fiecare celulă, în timp ce aromele delicate ale uleiurilor esențiale selecționate aduc o stare de bine profundă.Beneficii:Îmbunătățirea funcțiilor cognitiveReducerea nivelurilor de cortizolReglarea ciclului circadian"
+            "Bucură-te din plin din universul fierbinte al saunei AdAstra! Aici, la peste 85°C ritualul Aufguss “Solar Wind” te va purta într-o călătorie cosmică a energiei și eliberării interioare. Fă cunoștință cu puterea și misterul vântului solar într-o experiență inspirată de curenții cosmici și forțele celeste. Fiecare respirație adâncește conexiunea cu sinele, iar fiecare mișcare de prosop efectuată de Maestrul Aufguss adaugă o dimensiune artistică și senzorială, amplificând senzațiile de purificare și revitalizare. Închide ochii și simte căldura solară care te învăluie și îți revitalizează fiecare celulă, în timp ce aromele delicate ale uleiurilor esențiale selecționate aduc o stare de bine profundă.\nBeneficii:\nÎmbunătățirea funcțiilor cognitive\nReducerea nivelurilor de cortizol\nReglarea ciclului circadian"
           ],
           "images": [
             "https://cdn.mytherme.app/serve/141ee819-27eb-44f5-8583-f711dd3068aa"
@@ -1541,7 +2022,19 @@
         }
       ],
       "schedule": {
-        "program": "Program\nSolar Wind\nLuni - Joi\nSauna Ad Astra\n12:00\nVineri - Duminică\nSauna Ad Astra\n11:00"
+        "program": "Program\nSolar Wind\nLuni - Joi\nSauna Ad Astra\n12:00\nVineri - Duminică\nSauna Ad Astra\n11:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Ad Astra",
+            "time": "12:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Ad Astra",
+            "time": "11:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -1559,7 +2052,7 @@
         {
           "heading": "Încarcă-te cu energie pură în sauna Ad Astra",
           "content": [
-            "Pătrunde în esența primordială a universului cu Ritualul Aufguss “Foreglow”, o experiență profundă ce celebrează focul originar și puterea regeneratoare a luminii. Într-o atmosferă de căldură și energizare, acest ritual te conectează cu esențele fundamentale ale lumii naturale, îmbinând aroma intensă a uleiurilor esențiale naturale cu energie vibrantă ce luminează fiecare colț al corpului tău. Maestrul Aufguss îți va ghida fiecare respirație și fiecare mișcare, folosind tehnici de waving care amplifică căldura saunei, pentru o senzație de iluminare interioară profundă. Trăiește 10  minute intense și lasă starea de bine să te inunde.Beneficii:Îmbunătățirea funcției cardiovasculareReducerea stresului oxidativStimularea sintezei colagenuluiÎmbunătățirea flexibilității musculareReglarea activității hormonale"
+            "Pătrunde în esența primordială a universului cu Ritualul Aufguss “Foreglow”, o experiență profundă ce celebrează focul originar și puterea regeneratoare a luminii. Într-o atmosferă de căldură și energizare, acest ritual te conectează cu esențele fundamentale ale lumii naturale, îmbinând aroma intensă a uleiurilor esențiale naturale cu energie vibrantă ce luminează fiecare colț al corpului tău. Maestrul Aufguss îți va ghida fiecare respirație și fiecare mișcare, folosind tehnici de waving care amplifică căldura saunei, pentru o senzație de iluminare interioară profundă. Trăiește 10  minute intense și lasă starea de bine să te inunde.\nBeneficii:\nÎmbunătățirea funcției cardiovasculare\nReducerea stresului oxidativ\nStimularea sintezei colagenului\nÎmbunătățirea flexibilității musculare\nReglarea activității hormonale"
           ],
           "images": [
             "https://cdn.mytherme.app/serve/346fb043-5df7-429e-a56c-d1d74a6df4f8"
@@ -1567,7 +2060,14 @@
         }
       ],
       "schedule": {
-        "program": "Program\nForeglow\nVineri - Duminică\nSauna Ad Astra\n19:00"
+        "program": "Program\nForeglow\nVineri - Duminică\nSauna Ad Astra\n19:00",
+        "entries": [
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Ad Astra",
+            "time": "19:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -1585,7 +2085,7 @@
         {
           "heading": "Starea de bine începe cu o piele sănătoasă și răsfățată",
           "content": [
-            "Intră în sauna Provence și bucură-te de o experiență de îngrijire supremă a pielii cu tratamentul Almond Beauty, bazat pe crema de migdale cu o textură fină și bogată creată pentru a proteja și hrăni pielea în profunzime. Trăiește această experiență concepută să te scoată din ritmul agitat al vieții în timp ce uleiurile esențiale delicate, de origine florală, precum lavanda și ylang-ylang, cu aromă ușor dulce, te vor încărca de Zen și stare de bine. Adăugarea unei note lemnoase subtile de santal întărește esența migdalelor, pentru o experiență olfactivă memorabilă și liniștitoare.Beneficii:Hidratarea în profunzime a pieliiRestaurarea barierei cutanateCalmarea iritațiilor și a roșeațeiÎmbunătățirea elasticității pielii"
+            "Intră în sauna Provence și bucură-te de o experiență de îngrijire supremă a pielii cu tratamentul Almond Beauty, bazat pe crema de migdale cu o textură fină și bogată creată pentru a proteja și hrăni pielea în profunzime. Trăiește această experiență concepută să te scoată din ritmul agitat al vieții în timp ce uleiurile esențiale delicate, de origine florală, precum lavanda și ylang-ylang, cu aromă ușor dulce, te vor încărca de Zen și stare de bine. Adăugarea unei note lemnoase subtile de santal întărește esența migdalelor, pentru o experiență olfactivă memorabilă și liniștitoare\n.\nBeneficii:\nHidratarea în profunzime a pielii\nRestaurarea barierei cutanate\nCalmarea iritațiilor și a roșeaței\nÎmbunătățirea elasticității pielii"
           ],
           "images": [
             "https://cdn.mytherme.app/serve/da354f60-048e-4d73-bb89-ef5c244706b3"
@@ -1593,7 +2093,19 @@
         }
       ],
       "schedule": {
-        "program": "Program\nAlmond Beauty\nLuni - Joi\nSauna Provence\n19:00\nVineri - Duminică\nSauna Provence\n13:00\nSauna Provence\n19:00"
+        "program": "Program\nAlmond Beauty\nLuni - Joi\nSauna Provence\n19:00\nVineri - Duminică\nSauna Provence\n13:00\nSauna Provence\n19:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Provence",
+            "time": "19:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Provence",
+            "time": "13:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -1611,7 +2123,7 @@
         {
           "heading": "Detoxifiere profundă și refacerea pielii",
           "content": [
-            "Mineralis este un ritual complet inspirat de tradițiile balneare antice, care folosește sarea ca ingredient cheie pentru detoxifiere, calmare și refacerea barierei protectoare a pielii. Scrubul cu sare și îmbăierea în apa sărata au fost folosite de secole în diverse culturi, de la Grecia și Roma antică până la tradițiile vindecătoare ayurvedice și native americane.﻿﻿Sarea curăță în profunzime, reduce inflamația și ajută pielea să-și recapete elasticitatea și hidratarea naturală. Ritualul “Mineralis” cuprinde două runde. În prima rundă, încălzim corpul. Pielea este pregătită cu un scrub pe bază de calciu și uleiuri protectoare, urmat de o infuzie caldă cu mesteacăn (60°C).﻿A 2-a rundă este dedicată procesului de răcire treptată a corpului. Te vei delecta cu un scrub revigorant pe bază de potasiu și o infuzie rece cu mesteacăn, pentru stimularea circulației și tonifiere."
+            "Mineralis este un ritual complet inspirat de tradițiile balneare antice, care folosește sarea ca ingredient cheie pentru detoxifiere, calmare și refacerea barierei protectoare a pielii. Scrubul cu sare și îmbăierea în apa sărata au fost folosite de secole în diverse culturi, de la Grecia și Roma antică până la tradițiile vindecătoare ayurvedice și native americane.\n﻿﻿\nSarea curăță în profunzime, reduce inflamația și ajută pielea să-și recapete elasticitatea și hidratarea naturală. Ritualul “Mineralis” cuprinde două runde. În prima rundă, încălzim corpul. Pielea este pregătită cu un scrub pe bază de calciu și uleiuri protectoare, urmat de o infuzie caldă cu mesteacăn (60°C).\n﻿\nA 2-a rundă este dedicată procesului de răcire treptată a corpului. Te vei delecta cu un scrub revigorant pe bază de potasiu și o infuzie rece cu mesteacăn, pentru stimularea circulației și tonifiere."
           ],
           "images": [
             "https://cdn.mytherme.app/serve/11ea1362-8744-44d5-bb75-9015974163d9"
@@ -1619,7 +2131,19 @@
         }
       ],
       "schedule": {
-        "program": "Program\nMineralis\nLuni - Joi\nSauna Aegir\n15:00\nSauna Aegir\n17:00\nVineri - Duminică\nSauna Aegir\n13:00\nSauna Aegir\n15:00"
+        "program": "Program\nMineralis\nLuni - Joi\nSauna Aegir\n15:00\nSauna Aegir\n17:00\nVineri - Duminică\nSauna Aegir\n13:00\nSauna Aegir\n15:00",
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Aegir",
+            "time": "15:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Aegir",
+            "time": "13:00"
+          }
+        ]
       },
       "metadata": {
         "tier": "THE PALM"
@@ -1660,7 +2184,7 @@
         {
           "heading": "Echilibru în mișcare, pentru o postură mai bună",
           "content": [
-            "Exercițiile inclus în Postural Alignment lucrează profund cu musculatura posturală, optimizează mobilitatea și ajută corpul să se reechilibreze natural. Ritmul lent, apa caldă și atmosfera relaxantă transformă sesiunea într-un moment de reconectare cu propriul corp, cu efecte benefice asupra stării fizice și emoționale.Concentrează-te pe alinierea corectă a corpului, respirație și mișcări fluide. Apa reduce impactul asupra articulațiilor, ceea ce permite executarea exercițiilor într-o manieră sigură, controlată și extrem de eficientă.O experiență recomandată persoanelor care caută corectarea posturii, reducerea tensiunilor și prevenirea durerilor sau accidentărilor.Durată:15 minuteLoc:Piscina principală The Palm"
+            "Exercițiile inclus în Postural Alignment lucrează profund cu musculatura posturală, optimizează mobilitatea și ajută corpul să se reechilibreze natural. Ritmul lent, apa caldă și atmosfera relaxantă transformă sesiunea într-un moment de reconectare cu propriul corp, cu efecte benefice asupra stării fizice și emoționale.Concentrează-te pe alinierea corectă a corpului, respirație și mișcări fluide. Apa reduce impactul asupra articulațiilor, ceea ce permite executarea exercițiilor într-o manieră sigură, controlată și extrem de eficientă.\nO experiență recomandată persoanelor care caută corectarea posturii, reducerea tensiunilor și prevenirea durerilor sau accidentărilor.\nDurată:\n15 minute\nLoc:\nPiscina principală The Palm"
           ],
           "images": [
             "https://cdn.mytherme.app/serve/9f808929-5b49-421e-ab53-a453203a5fcc"
@@ -1669,7 +2193,7 @@
         {
           "heading": "Benefits",
           "content": [
-            "● optimizarea neuromusculară pentru readucerea corpului în echilibru● realinierea posturii și corectarea dezechilibrelor● ameliorarea durerilor și tensiunilor musculare● reducerea rigidității articulare● stimularea circulației și drenajului limfatic● creșterea flexibilității și a libertății de mișcare● optimizarea performanței fizice prin activarea musculaturii posturale● echilibru emoțional și reducerea stresului● siguranță ridicată, exercițiile fiind potrivite și pentru persoane aflate în recuperare sau pentru femei însărcinate"
+            "● optimizarea neuromusculară pentru readucerea corpului în echilibru\n● realinierea posturii și corectarea dezechilibrelor\n● ameliorarea durerilor și tensiunilor musculare\n● reducerea rigidității articulare\n● stimularea circulației și drenajului limfatic\n● creșterea flexibilității și a libertății de mișcare\n● optimizarea performanței fizice prin activarea musculaturii posturale\n● echilibru emoțional și reducerea stresului\n● siguranță ridicată, exercițiile fiind potrivite și pentru persoane aflate în recuperare sau pentru femei însărcinate"
           ],
           "images": [
             "https://cdn.mytherme.app/serve/1f4c6215-5688-4bde-9168-3721d3b52f6a"
