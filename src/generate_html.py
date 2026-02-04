@@ -1,12 +1,21 @@
 import json
 from rapidfuzz import fuzz, process
+import argparse
+import sys
+
+# Parse arguments
+parser = argparse.ArgumentParser(description='Generate HTML schedule')
+parser.add_argument('schedule_json', help='Input schedule JSON file path')
+parser.add_argument('activities_json', help='Input detailed activities JSON file path')
+parser.add_argument('output', help='Output HTML file path')
+args = parser.parse_args()
 
 # Read the schedule data
-with open('therme_schedule.json', 'r', encoding='utf-8') as f:
+with open(args.schedule_json, 'r', encoding='utf-8') as f:
     schedule = json.load(f)
 
 # Read the detailed activities data
-with open('therme_activities_detailed.json', 'r', encoding='utf-8') as f:
+with open(args.activities_json, 'r', encoding='utf-8') as f:
     activities_data = json.load(f)
 
 # Create a mapping of activity names to their detailed data
@@ -69,7 +78,16 @@ html = """<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Therme Activities Schedule</title>
+    <title>Therme Bucharest Activities Schedule - Interactive Weekly Calendar</title>
+    <meta name="description" content="Interactive weekly schedule for Therme Bucharest spa activities including saunas, pools, and wellness programs. View 385+ activities across GALAXY, THE PALM, and ELYSIUM zones.">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://flriancu.github.io/therme/">
+    <meta property="og:title" content="Therme Bucharest Activities Schedule">
+    <meta property="og:description" content="Interactive weekly schedule for Therme Bucharest spa activities - 385+ activities including saunas, pools, and wellness programs">
+    <meta property="og:image" content="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1200' height='630'%3E%3Cdefs%3E%3ClinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' style='stop-color:%2343B2D2;stop-opacity:1'/%3E%3Cstop offset='50%25' style='stop-color:%2300C754;stop-opacity:1'/%3E%3Cstop offset='100%25' style='stop-color:%23FE216E;stop-opacity:1'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='1200' height='630' fill='url(%23grad)'/%3E%3Ctext x='50%25' y='50%25' font-family='Arial,sans-serif' font-size='72' font-weight='bold' fill='white' text-anchor='middle' dominant-baseline='middle'%3ETherme Bucharest%3C/text%3E%3C/svg%3E">
+    
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
@@ -473,7 +491,7 @@ html += """        </div>
 """
 
 # Save HTML file
-with open('schedule.html', 'w', encoding='utf-8') as f:
+with open(args.output, 'w', encoding='utf-8') as f:
     f.write(html)
 
 # Calculate matching statistics
@@ -486,11 +504,11 @@ for day in days:
             if details:
                 matched_count += 1
 
-print("Enhanced HTML page generated: schedule.html")
+print(f"Enhanced HTML page generated: {args.output}")
 print(f"\n  Total schedule items: {total_activities}")
 print(f"  Matched with details: {matched_count}")
 if total_activities > 0:
     print(f"  Match rate: {matched_count/total_activities*100:.1f}%")
 else:
     print("  Match rate: N/A (no activities found)")
-print("\nYou can open schedule.html in your browser to view the interactive schedule.")
+print(f"\nYou can open {args.output} in your browser to view the interactive schedule.")

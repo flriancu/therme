@@ -42,51 +42,53 @@ This project scrapes the activities schedule from [Therme Bucharest](https://the
 Scrapes all activities from the weekly schedule page (7 days):
 
 ```bash
-python src/scrape_schedule.py
+python src/scrape_schedule.py artifacts/therme_schedule.json
 ```
 
-**Output:** `therme_schedule.json` (385 activities across 7 days)
+**Output:** `artifacts/therme_schedule.json` (385 activities across 7 days)
 
 ### Step 2: Scrape Activities List
 
 Extracts the complete list of activities from the activities page:
 
 ```bash
-python src/scrape_activities.py
+python src/scrape_activities.py artifacts/therme_activities.json
 ```
 
-**Output:** `therme_activities.json` (65 activities)
+**Output:** `artifacts/therme_activities.json` (65 activities)
 
 ### Step 3: Scrape Activity Details
 
 Fetches detailed content from each activity page including descriptions, images, and schedules:
 
 ```bash
-python src/scrape_activity_details.py
+python src/scrape_activity_details.py artifacts/therme_activities.json artifacts/therme_activities_detailed.json
 ```
 
 **Optional:** Scrape a specific range of activities:
 
 ```bash
-python src/scrape_activity_details.py 1 10  # Scrape activities 1-10
-python src/scrape_activity_details.py 15 15  # Scrape only activity 15
+python src/scrape_activity_details.py artifacts/therme_activities.json artifacts/therme_activities_detailed.json 1 10
+python src/scrape_activity_details.py artifacts/therme_activities.json artifacts/therme_activities_detailed.json 15 15
 ```
 
 **Ctrl+C Support:** Press Ctrl+C to stop scraping early. Progress is saved automatically.
 
-**Output:** `therme_activities_detailed.json` (65 activities with full details)
+**Output:** `artifacts/therme_activities_detailed.json` (65 activities with full details)
 
 ### Step 4: Generate HTML Page
 
 Creates an interactive Bootstrap HTML page with all the data:
 
 ```bash
-python src/generate_html.py
+python src/generate_html.py artifacts/therme_schedule.json artifacts/therme_activities_detailed.json docs/index.html
 ```
 
-**Output:** `schedule.html`
+**Output:** `docs/index.html`
 
-Open `schedule.html` in your browser to view the interactive schedule.
+Open `docs/index.html` in your browser to view the interactive schedule.
+
+**Live Demo:** [https://flriancu.github.io/therme/](https://flriancu.github.io/therme/)
 
 ## Project Structure
 
@@ -97,11 +99,13 @@ therme/
 │   ├── scrape_activities.py            # Scrapes activities list
 │   ├── scrape_activity_details.py      # Scrapes detailed activity content
 │   └── generate_html.py                # Generates interactive HTML page
-├── requirements.txt                    # Python dependencies
-├── therme_schedule.json                # Weekly schedule data (generated)
-├── therme_activities.json              # Activities list (generated)
-├── therme_activities_detailed.json     # Detailed activity data (generated)
-└── schedule.html                       # Generated HTML page (generated)
+├── artifacts/                          # Generated data files
+│   ├── therme_schedule.json            # Weekly schedule data
+│   ├── therme_activities.json          # Activities list
+│   └── therme_activities_detailed.json # Detailed activity data
+├── docs/
+│   └── index.html                      # Generated HTML page (GitHub Pages)
+└── requirements.txt                    # Python dependencies
 ```
 
 ## Scripts Overview

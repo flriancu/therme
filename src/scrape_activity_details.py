@@ -4,6 +4,7 @@ import json
 import time
 import sys
 import re
+import argparse
 
 
 def fetch_activity_details(url, name):
@@ -34,6 +35,11 @@ def fetch_activity_details(url, name):
                     description = desc_p.get_text(strip=True)
         
         # Extract ALL images from the page (bg-image divs with mytherme CDN URLs)
+        # Filter out common background image that appears on every page
+        EXCLUDED_IMAGES = {
+            'https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff'
+        }
+        
         all_images = []
         bg_image_divs = soup.find_all('div', class_='bg-image')
         for bg in bg_image_divs:
@@ -41,7 +47,7 @@ def fetch_activity_details(url, name):
             match = re.search(r"url\('([^']+)'\)", style)
             if match:
                 img_url = match.group(1)
-                if 'mytherme.app' in img_url or '/serve/' in img_url:
+                if ('mytherme.app' in img_url or '/serve/' in img_url) and img_url not in EXCLUDED_IMAGES:
                     all_images.append(img_url)
         
         # Extract content sections
@@ -135,24 +141,27 @@ def fetch_activity_details(url, name):
 
 
 def main():
+    parser = argparse.ArgumentParser(description='Scrape detailed activity information')
+    parser.add_argument('activities_json', help='Input activities JSON file path')
+    parser.add_argument('output', help='Output detailed JSON file path')
+    parser.add_argument('start', nargs='?', type=int, help='Start index (1-based, optional)')
+    parser.add_argument('end', nargs='?', type=int, help='End index (inclusive, optional)')
+    args = parser.parse_args()
+    
     # Load activities list
-    with open('therme_activities.json', 'r', encoding='utf-8') as f:
+    with open(args.activities_json, 'r', encoding='utf-8') as f:
         data = json.load(f)
     
     activities = data['activities']
     
-    # Check for command-line arguments for range
+    # Check for range arguments
     start_idx = 0
     end_idx = len(activities)
     
-    if len(sys.argv) >= 3:
-        try:
-            start_idx = int(sys.argv[1]) - 1  # Convert to 0-based index
-            end_idx = int(sys.argv[2])
-            print(f"Processing activities {sys.argv[1]} to {sys.argv[2]}")
-        except ValueError:
-            print("Invalid range arguments. Usage: python script.py [start] [end]")
-            return
+    if args.start and args.end:
+        start_idx = args.start - 1  # Convert to 0-based index
+        end_idx = args.end
+        print(f"Processing activities {args.start} to {args.end}")
     
     # Filter activities by range
     activities = activities[start_idx:end_idx]
@@ -202,10 +211,10 @@ def main():
             'interrupted': True
         }
         
-        with open('therme_activities_detailed.json', 'w', encoding='utf-8') as f:
+        with open(args.output, 'w', encoding='utf-8') as f:
             json.dump(output, f, ensure_ascii=False, indent=2)
         
-        print(f"✓ Saved to therme_activities_detailed.json")
+        print(f"✓ Saved to {args.output}")
         return
     
     # Save results
@@ -215,14 +224,14 @@ def main():
         'interrupted': False
     }
     
-    with open('therme_activities_detailed.json', 'w', encoding='utf-8') as f:
+    with open(args.output, 'w', encoding='utf-8') as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     
     print("\n" + "=" * 60)
     print(f"✓ Successfully fetched {len(results)} activities")
     print(f"  Total sections: {total_sections}")
     print(f"  Total images: {total_images}")
-    print(f"  Saved to: therme_activities_detailed.json")
+    print(f"  Saved to: {args.output}")
 
 
 if __name__ == '__main__':

@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import argparse
 import re
 
 # Color to tier mapping based on the website's color coding
@@ -191,6 +192,10 @@ def parse_therme_schedule(url):
 
 
 def main():
+    parser = argparse.ArgumentParser(description='Scrape Therme schedule')
+    parser.add_argument('output', help='Output JSON file path')
+    args = parser.parse_args()
+    
     url = 'https://therme.ro/activities-schedule'
     
     print("="*60)
@@ -203,11 +208,10 @@ def main():
         schedule = parse_therme_schedule(url)
         
         # Save to JSON
-        output_file = 'therme_schedule.json'
-        with open(output_file, 'w', encoding='utf-8') as f:
+        with open(args.output, 'w', encoding='utf-8') as f:
             json.dump(schedule, f, indent=2, ensure_ascii=False)
         
-        print(f"\n✓ Schedule saved to {output_file}")
+        print(f"\n✓ Schedule saved to {args.output}")
         
         # Print summary
         print("\n" + "="*60)

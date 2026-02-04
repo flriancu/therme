@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
+import argparse
 
 
 def scrape_all_activities(url):
@@ -78,6 +79,10 @@ def scrape_all_activities(url):
 
 
 def main():
+    parser = argparse.ArgumentParser(description='Scrape Therme activities list')
+    parser.add_argument('output', help='Output JSON file path')
+    args = parser.parse_args()
+    
     url = 'https://therme.ro/activities'
     
     print("="*60)
@@ -89,11 +94,10 @@ def main():
         activities = scrape_all_activities(url)
         
         # Save to JSON
-        output_file = 'therme_activities.json'
-        with open(output_file, 'w', encoding='utf-8') as f:
+        with open(args.output, 'w', encoding='utf-8') as f:
             json.dump({'activities': activities}, f, indent=2, ensure_ascii=False)
         
-        print(f"\n✓ Activities saved to {output_file}")
+        print(f"\n✓ Activities saved to {args.output}")
         
         # Print summary
         print("\n" + "="*60)
