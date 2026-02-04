@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+
+# Generated Data Files
+therme_schedule.json
+therme_activities.json
+therme_activities_detailed.json
+schedule.html
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
