@@ -42,7 +42,7 @@ This project scrapes the activities schedule from [Therme Bucharest](https://the
 Scrapes all activities from the weekly schedule page (7 days):
 
 ```bash
-python scrape_schedule.py
+python src/scrape_schedule.py
 ```
 
 **Output:** `therme_schedule.json` (385 activities across 7 days)
@@ -52,7 +52,7 @@ python scrape_schedule.py
 Extracts the complete list of activities from the activities page:
 
 ```bash
-python scrape_activities.py
+python src/scrape_activities.py
 ```
 
 **Output:** `therme_activities.json` (65 activities)
@@ -62,14 +62,14 @@ python scrape_activities.py
 Fetches detailed content from each activity page including descriptions, images, and schedules:
 
 ```bash
-python scrape_activity_details.py
+python src/scrape_activity_details.py
 ```
 
 **Optional:** Scrape a specific range of activities:
 
 ```bash
-python scrape_activity_details.py 1 10  # Scrape activities 1-10
-python scrape_activity_details.py 15 15  # Scrape only activity 15
+python src/scrape_activity_details.py 1 10  # Scrape activities 1-10
+python src/scrape_activity_details.py 15 15  # Scrape only activity 15
 ```
 
 **Ctrl+C Support:** Press Ctrl+C to stop scraping early. Progress is saved automatically.
@@ -81,7 +81,7 @@ python scrape_activity_details.py 15 15  # Scrape only activity 15
 Creates an interactive Bootstrap HTML page with all the data:
 
 ```bash
-python generate_html.py
+python src/generate_html.py
 ```
 
 **Output:** `schedule.html`
@@ -92,20 +92,21 @@ Open `schedule.html` in your browser to view the interactive schedule.
 
 ```
 therme/
-├── scrape_schedule.py              # Scrapes weekly schedule
-├── scrape_activities.py            # Scrapes activities list
-├── scrape_activity_details.py      # Scrapes detailed activity content
-├── generate_html.py                # Generates interactive HTML page
-├── requirements.txt                # Python dependencies
-├── therme_schedule.json            # Weekly schedule data (generated)
-├── therme_activities.json          # Activities list (generated)
-├── therme_activities_detailed.json # Detailed activity data (generated)
-└── schedule.html                   # Generated HTML page (generated)
+├── src/
+│   ├── scrape_schedule.py              # Scrapes weekly schedule
+│   ├── scrape_activities.py            # Scrapes activities list
+│   ├── scrape_activity_details.py      # Scrapes detailed activity content
+│   └── generate_html.py                # Generates interactive HTML page
+├── requirements.txt                    # Python dependencies
+├── therme_schedule.json                # Weekly schedule data (generated)
+├── therme_activities.json              # Activities list (generated)
+├── therme_activities_detailed.json     # Detailed activity data (generated)
+└── schedule.html                       # Generated HTML page (generated)
 ```
 
 ## Scripts Overview
 
-### `scrape_schedule.py`
+### `src/scrape_schedule.py`
 
 - Scrapes the activities schedule for all 7 days
 - Extracts activity name, location, time, and tier
@@ -114,12 +115,12 @@ therme/
   - `#43B2D2` → THE PALM (blue)
   - `#00C754` → ELYSIUM (green)
 
-### `scrape_activities.py`
+### `src/scrape_activities.py`
 
 - Extracts all activities from the `/activities` page
 - Saves activity names and URLs for further processing
 
-### `scrape_activity_details.py`
+### `src/scrape_activity_details.py`
 
 - Fetches full content from each activity page
 - Extracts:
@@ -130,7 +131,7 @@ therme/
   - Tier/location metadata
 - Supports range-based scraping and Ctrl+C interruption
 
-### `generate_html.py`
+### `src/generate_html.py`
 
 - Generates responsive Bootstrap 5 HTML page
 - Features:

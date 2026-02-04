@@ -1,0 +1,2406 @@
+{
+  "activities": [
+    {
+      "title": "Aqua Kineto",
+      "description": "Începe un program de activitate fizică moderată, cu beneficii pentru creșterea mobilității, în piscina principală din zona The Palm",
+      "images": [
+        "https://cdn.mytherme.app/serve/d36e2912-67fc-49e0-ae7a-d5be4416d9d1",
+        "https://cdn.mytherme.app/serve/56efd20e-6b7b-41eb-9f50-957a4cd063a2",
+        "https://cdn.mytherme.app/serve/22894a96-b7cc-410b-bf8f-329415706f4f",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Exerciții în apă pentru mobilitate",
+          "content": [
+            "La îndrumarea antrenorului începi cu mișcări ușoare, confortabile ce alină durerile musculare și articulare. Apa la temperatura ideală relaxează musculatura tensionată, corpul devine ușor, eliberat de presiunea propriei greutăți, iar tu te poți relaxa, în sfârșit."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/56efd20e-6b7b-41eb-9f50-957a4cd063a2"
+          ]
+        },
+        {
+          "heading": "Beneficii",
+          "content": [
+            "● recuperare post operatorie și post traumatică\n\n● creșterea mobilității  \n\n● redobândirea capacității de efort\n\n● prevenirea deficiențelor articulare \n\n● îmbunătățirea posturii"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/22894a96-b7cc-410b-bf8f-329415706f4f"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni, Miercuri",
+            "location": "Piscina principală The Palm",
+            "time": "11:30"
+          }
+        ],
+        "activity_name": "Aqua Kineto",
+        "raw": "Program\nAqua Kineto\nLuni, Miercuri\nPiscina principală The Palm\n11:30"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/aqua-kineto"
+    },
+    {
+      "title": "Aqua Gym",
+      "description": "Alege sănătatea și buna dispoziție cu un program de activitate fizică în apă, pentru toate vârstele",
+      "images": [
+        "https://cdn.mytherme.app/serve/588c7b90-0767-4df5-b6a2-2b45a479358c",
+        "https://cdn.mytherme.app/serve/511401d9-8e95-446b-818e-de04962c64af",
+        "https://cdn.mytherme.app/serve/e19fc4c9-3cca-41ce-be4c-c36c9ec2680a",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Exerciții în apă pentru întreținere",
+          "content": [
+            "Urmărește mișcările antrenorului și ține ritmul muzicii. Antrenamentul fizic în apă echilibrează funcțiile organismului, susține sistemul cardio-vascular și te ajută să ai un somn odihnitor la finalul zilei. Într-o singură ședință poți arde între 200 – 600 kcal, în timp ce corpul tău se bucură de mobilitate și rezistență sporită."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/511401d9-8e95-446b-818e-de04962c64af"
+          ]
+        },
+        {
+          "heading": "Beneficii",
+          "content": [
+            "● accelerarea metabolismul\n\n● adjuvant în remodelare corporală\n\n● sporirea mobilității și tonifierea mușchilor\n\n● echilibrarea funcțiilor organismului\n\n● îmbunătățirea sistemului cardio-vascular\n\n● creșterea rezistenței la efort\n\n● îmbunătățirea coordonării"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/e19fc4c9-3cca-41ce-be4c-c36c9ec2680a"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni, Miercuri",
+            "location": "Piscina Centrală The Palm",
+            "time": "18:30"
+          }
+        ],
+        "activity_name": "Aqua Gym",
+        "raw": "Program\nAqua Gym\nLuni, Miercuri\nPiscina Centrală The Palm\n18:30\nVineri - Duminică\nPiscina Centrală The Palm\n12:30"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/aqua-gym"
+    },
+    {
+      "title": "Aqua Fun",
+      "description": "Îmbină distracția cu un stil de viață sănătos, într-o ședință benefică de dans și gimnastică în apă",
+      "images": [
+        "https://cdn.mytherme.app/serve/651fd32a-1af0-4113-a969-f31284fb6c43",
+        "https://cdn.mytherme.app/serve/24a89159-9723-4ebc-be6f-40ef28f0c8d6",
+        "https://cdn.mytherme.app/serve/0ba15fc4-7e1c-4a22-a568-2b4451acaaab",
+        "https://cdn.mytherme.app/serve/09c53c27-50b9-4f9d-8f93-90514e96b7d8",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Ține ritmul!",
+          "content": [
+            "Într-o ședință de Aqua Fun ești în competiție (de dans) cu toți ceilalți din piscină. Doar că la final nimeni nu iese pe locul doi, toată lumea beneficiază de un antrenament sănătos și se distrează pe melodii  energizante și stimulante, în timp ce încearcă să țină pasul cu antrenorul. Intensitatea exercițiilor este mare și necesită o coordonare bună și o atenție constantă pentru a răspunde activ la provocări.Durată : 15 minute"
+          ]
+        },
+        {
+          "heading": "Beneficii",
+          "content": [
+            "● îmbunătățirea condiției fizice● îmbunătățirea coordonării● activarea bunei dispoziții"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/09c53c27-50b9-4f9d-8f93-90514e96b7d8"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Vineri - Duminică",
+            "location": "Piscina principală The Palm",
+            "time": "18:30"
+          }
+        ],
+        "activity_name": "Aqua Fun",
+        "raw": "Program\nAqua Fun\nVineri - Duminică\nPiscina principală The Palm\n18:30"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/aqua-fun"
+    },
+    {
+      "title": "Aqua Shape",
+      "description": "Tonifică-ți musculatura, arde calorii și îmbunătățește-ți capacitatea de efort cu acest program complex de exerciții în apă",
+      "images": [
+        "https://cdn.mytherme.app/serve/9a1632a7-044b-41a5-8a06-291dfbc235df",
+        "https://cdn.mytherme.app/serve/0775e61e-5112-4687-a904-656d2c58c818",
+        "https://cdn.mytherme.app/serve/7c4a6c1f-5e0a-45aa-8fc1-5eef08c8e46d",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Exerciții în apă pentru tonifiere și arderea caloriilor",
+          "content": [
+            "Simte-te în formă maximă după o ședință de Aqua Shape! Vei folosi gantere sau baghete de spumă ce măresc rezistența corpului, punând în mișcare mușchii într-o sesiune de exerciții  intense în apă."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/0775e61e-5112-4687-a904-656d2c58c818"
+          ]
+        },
+        {
+          "heading": "Beneficii",
+          "content": [
+            "● accelerarea metabolismului\n\n● sporirea mobilității și tonifierea mușchilor\n\n● echilibrarea funcțiilor organismului\n\n● îmbunătățirea sistemului cardio-vascular\n\n● creșterea rezistenței la efort\n\n● îmbunătățirea coordonării"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/7c4a6c1f-5e0a-45aa-8fc1-5eef08c8e46d"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Marți, Joi",
+            "location": "Piscina principală The Palm",
+            "time": "11:30"
+          }
+        ],
+        "activity_name": "Aqua Shape",
+        "raw": "Program\nAqua Shape\nMarți, Joi\nPiscina principală The Palm\n11:30"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/aqua-shape"
+    },
+    {
+      "title": "Hydro Balance",
+      "description": "O adevărată ședință de terapie ce folosește tehnici de respirație  și mișcări controlate în apă pentru\nîntărirea corpului și relaxare mentală",
+      "images": [
+        "https://cdn.mytherme.app/serve/1994176f-a910-4e46-a4f5-bf2c974b5f18",
+        "https://cdn.mytherme.app/serve/d21f8554-2168-47d3-825e-8d3ce0381071",
+        "https://cdn.mytherme.app/serve/09b3cc3c-6e7c-4e10-bc75-a0a5752bea51",
+        "https://cdn.mytherme.app/serve/c9b1f4e0-50f4-4ffa-9087-78dc7cdbfb8b",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Meditație în mișcare",
+          "content": [
+            "Concentrează-te pe mișcări fluide și respirație. Prin ritmul lent al exercițiilor corpul se mișcă conștient de rezistența apei într-o manieră benefică pentru pentru mobilitate și rezistență, cu efecte pozitive asupra minții, aproape ca într-un proces de meditație.\n\nO ședință de Hydro Balance este indicată persoanelor ce doresc relaxare prin mișcare, echilibrare mentală și fizică.\n\nDurată: 15 minute"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/d21f8554-2168-47d3-825e-8d3ce0381071"
+          ]
+        },
+        {
+          "heading": "Beneficii",
+          "content": [
+            "● mobilitate● relaxare● reducerea rigidității articulare● ameliorarea durerilor musculare● creșterea aportului de nutrienți și oxigen către articulații"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Marți, Joi",
+            "location": "Piscina principală The Palm",
+            "time": "18:30"
+          }
+        ],
+        "activity_name": "Hydro Balance",
+        "raw": "Program\nHydro Balance\nMarți, Joi\nPiscina principală The Palm\n18:30"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/hydro-balance"
+    },
+    {
+      "title": "Woody Infusion",
+      "description": "Trăiește o experiență care te va purta în inima pădurii, printre arbori seculari și poteci nebătătorite. Inspiră adânc aerul proaspăt în care adie aroma uleiurilor esențiale atent selecționate pentru starea ta de bine.",
+      "images": [
+        "https://cdn.mytherme.app/serve/68fe3c70-784e-4119-9096-a33f4ee02e31",
+        "https://cdn.mytherme.app/serve/4c24e85a-e659-4989-883c-1b3947806beb",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Infuzie cu uleiuri esențiale lemnoase în sauna Hollywood",
+          "content": [
+            "Mirosul plăcut de pin, brad sau cedru te teleportează în mijlocul pădurii, unde te vei conecta cu natura și o vei cunoaște în cea mai pură formă a sa. Spiritul pădurii îți va oferi echilibrul de care ai nevoie prin revitalizarea corpului și trezirea simțurilor.Beneficii:● relaxarea mușchilor● stimularea concentrării● creșterea capacității pulmonare"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/4c24e85a-e659-4989-883c-1b3947806beb"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Bavaria",
+            "time": "15:30 - 16:00"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Hollywood",
+            "time": "20:30 - 21:00"
+          }
+        ],
+        "activity_name": "Woody Infusion",
+        "raw": "Program\nWoody Infusion\nLuni - Joi\nSauna Bavaria\n15:30 - 16:00\nSauna Hollywood\n20:30 - 21:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/woody-infusion"
+    },
+    {
+      "title": "Herbal Infusion",
+      "description": "Intră în armonie cu natura și bucură-te de o infuzie cu uleiuri esențiale cu mirosuri florale, revigorante, perfecte pentru starea ta de bine.",
+      "images": [
+        "https://cdn.mytherme.app/serve/99a29b9c-a042-4c70-ae76-d864fb50ccf0",
+        "https://cdn.mytherme.app/serve/4b0db6bb-269d-4a41-b385-1f43a4133318",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Infuzie cu uleiuri esențiale florale, ierboase și aromatice",
+          "content": [
+            "Reconectează-te cu natura într-o sesiune relaxantă în saună cu infuzii pe bază de uleiuri esențiale florale, revigorante. Inspiră adânc aromele atent selecționate de iarbă proaspăt tunsă, busuioc, cimbru verde, rozmarin sau mușchi de pădure. Fie că alegi sauna Amazon sau sauna Provence, cu Herbal Infusion ai toate ingredientele pentru o experiență multisenzorială desăvârșită."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/4b0db6bb-269d-4a41-b385-1f43a4133318"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Ad Astra",
+            "time": "16:30"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Amazon",
+            "time": "10:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Amazon",
+            "time": "10:30"
+          }
+        ],
+        "activity_name": "Herbal Infusion",
+        "raw": "Program\nHerbal Infusion\nLuni - Joi\nSauna Ad Astra\n16:30\nVineri - Duminică\nSauna Amazon\n10:30"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/herbal-infusion"
+    },
+    {
+      "title": "Spicy Infusion",
+      "description": "Explorează noi ritualuri cu infuzii de uleiuri esențiale pentru minte și corp, o experiență completă concepută în jurul simțului olfactiv, creată pentru confortul tău psihic și fizic.",
+      "images": [
+        "https://cdn.mytherme.app/serve/151149a8-63a9-4e50-b8b9-15c10cbd59db",
+        "https://cdn.mytherme.app/serve/973f8f5b-28b7-48cd-9369-4831d3c0abf5",
+        "https://cdn.mytherme.app/serve/8423cc97-158e-4771-8bd2-5321ad9e0492",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Infuzie cu uleiuri esențiale orientale în sauna Alhambra",
+          "content": [
+            "O incursiune în fascinanta cultură maură. Lasă-te purtat către “Castelul Roșu” din Granada de parfumurile orientale precum anason, scorțișoară și cuișoare și bucură-te de beneficiile acestora într-o călătorie care-ți va stimula simțurile.Beneficii:● îmbunătățirea digestiei● efect stimulator● efect afrodisiac"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Alhambra",
+            "time": "21:30"
+          }
+        ],
+        "activity_name": "Spicy Infusion",
+        "raw": "Program\nSpicy Infusion\nLuni - Joi\nSauna Alhambra\n21:30"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/spicy-infusion"
+    },
+    {
+      "title": "Botanical Infusion",
+      "description": "Starea ta de bine începe cu o experiență intensă, olfactivă, ce îți va reechilibra mintea și corpul prin infuzii de uleiuri esențiale atent alese",
+      "images": [
+        "https://cdn.mytherme.app/serve/d9fc74fe-da46-4c4c-941e-61393b99615a",
+        "https://cdn.mytherme.app/serve/739dd3b0-dd86-4982-be1d-80b3ade79112",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Infuzie cu uleiuri esențiale din plante",
+          "content": [
+            "Încarcă-te cu energia verde a plantelor aromatice din toate colțurile lumii. Regăsește-ți echilibrul mental și fizic într-o ședință de aromaterapie cu uleiuri esențiale proaspete, verzi, extrase din frunze, scoarță, semințe, coajă, rădăcini și flori\n\nBeneficii:\n\n● efect revitalizant\n\n● diminuarea migrenelor\n\n● echilibrare"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/739dd3b0-dd86-4982-be1d-80b3ade79112"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna A Terra",
+            "time": "10:30 - 11:00"
+          }
+        ],
+        "activity_name": "Botanical Infusion",
+        "raw": "Program\nBotanical Infusion\nVineri - Duminică\nSauna A Terra\n10:30 - 11:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/botanical-infusion"
+    },
+    {
+      "title": "Citrus Infusion",
+      "description": "Starea ta de bine începe cu o experiență intensă, olfactivă, ce îți va reechilibra mintea și corpul prin infuzii de uleiuri esențiale atent alese",
+      "images": [
+        "https://cdn.mytherme.app/serve/eb3ba266-f21e-4636-896a-826aa73398ad",
+        "https://cdn.mytherme.app/serve/2e3c0ed8-633c-4c56-8187-e79c9fe290d5",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Infuzie energizantă cu esențe citrice",
+          "content": [
+            "Energia, revitalizarea și starea de bine oferite de parfumurile citricelor precum portocală roșie, litsea, lime, bergamotă completează perfect experiența naturală din saunele Amazon și Hollywood.Beneficii:● stimularea digestiei● îmbunătățirea aspectului pielii"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/2e3c0ed8-633c-4c56-8187-e79c9fe290d5"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Hollywood",
+            "time": "14:30"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Hollywood",
+            "time": "19:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Hollywood",
+            "time": "19:30"
+          }
+        ],
+        "activity_name": "Citrus Infusion",
+        "raw": "Program\nCitrus Infusion\nLuni - Joi\nSauna Hollywood\n14:30\nVineri - Duminică\nSauna Hollywood\n19:30"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/citrus-infusion"
+    },
+    {
+      "title": "Light Storm Aufguss",
+      "description": "Participă la ritualul Aufguss, o experiență multisenzorială în care căldura din saună și aromele uleiurilor esențiale sunt controlate de mișcările ritmice ale Maestrului Aufguss",
+      "images": [
+        "https://cdn.mytherme.app/serve/efc10dd7-6343-4553-8f6e-4795322f0178",
+        "https://cdn.mytherme.app/serve/af085613-048f-4ad5-94ba-4185b58dd94e",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Aufguss show cu elemente senzoriale spectaculoase",
+          "content": [
+            "Un ritual Aufguss energizant și motivant în care participanții sunt acaparați vizual, auditiv și olfactiv prin folosirea uleiurilor esențiale pure și a coregrafiilor\nspecial alese de către trainerii wellness. Spectacolul are loc în sauna cinema Hollywood și crește buna dispoziție și nivelul de energie al participanților. \n\nBeneficii:\n\n● divertisment\n \n● energizare\n\n● bună dispoziție"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/af085613-048f-4ad5-94ba-4185b58dd94e"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Hollywood",
+            "time": "18:00"
+          }
+        ],
+        "activity_name": "Light Storm",
+        "raw": "Program\nLight Storm\nVineri - Duminică\nSauna Hollywood\n18:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/light-storm-aufguss"
+    },
+    {
+      "title": "Maur Saga Aufguss",
+      "description": "Participă la ritualul Aufguss, o experiență multisenzorială în care căldura din saună și aromele uleiurilor esențiale sunt controlate de mișcările ritmice ale Maestrului Aufguss",
+      "images": [
+        "https://cdn.mytherme.app/serve/7bb9e7a1-ec63-4f7a-9f62-3330f4b8f24b",
+        "https://cdn.mytherme.app/serve/9202b0de-3eb1-4099-82fa-17acd30598bf",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Aufguss inspirat din tradițiile africane, cu ulei esențial de eucalipt",
+          "content": [
+            "Descoperă interpretarea modernă a unui ritual traditional african unde se folosește infuzie cu patru tipuri de uleiuri esențiale din eucalipt pentru obținerea echilibrului sistemului musculo-articular. Infuzia este utilizată ca decongestionant al tractului respirator ce asigură o bună oxigenare a întregului organism.\n\nBeneficii:\n \n● rezistență\n\n● oxigenarea întregului organism\n \n● decongestionant al căilor respiratorii\n \n● echilibrarea sistemului musculo-articular"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/9202b0de-3eb1-4099-82fa-17acd30598bf"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Alhambra",
+            "time": "10:00"
+          }
+        ],
+        "activity_name": "Maur Saga",
+        "raw": "Program\nMaur Saga\nVineri - Duminică\nSauna Alhambra\n10:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/maur-saga-aufguss"
+    },
+    {
+      "title": "Mysterious Incense Aufguss",
+      "description": "Participă la ritualul Aufguss, o experiență multisenzorială în care căldura din saună și aromele uleiurilor esențiale sunt controlate de mișcările ritmice ale Maestrului Aufguss",
+      "images": [
+        "https://cdn.mytherme.app/serve/34ea6fe3-90c9-4828-a4fb-bdf1db1efe19",
+        "https://cdn.mytherme.app/serve/d68feb77-1458-484e-ba05-004141cf7c6f",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Aufguss purificator, pentru armonizare fizică și mentală",
+          "content": [
+            "Recapătă-ți energia pozitivă într-o activitate inspirată din practicile shamanilor care folosesc ritualul cu fum pentru a înlătura energiile negative și gândurile rele, pentru a echilibra și armoniza mintea și corpul. Infuzia de plante sacre este completată de rășinile active adăugate pe nisipul încins."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/d68feb77-1458-484e-ba05-004141cf7c6f"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna A Terra",
+            "time": "18:00"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna A Terra",
+            "time": "20:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna A Terra",
+            "time": "20:00"
+          }
+        ],
+        "activity_name": "Mysterious Incense",
+        "raw": "Program\nMysterious Incense\nLuni - Joi\nSauna A Terra\n18:00\nVineri - Duminică\nSauna A Terra\n20:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/mysterious-incense-aufguss"
+    },
+    {
+      "title": "Shamanic Dreaming Aufguss",
+      "description": "Participă la ritualul Aufguss, o experiență multisenzorială în care căldura din saună și aromele uleiurilor esențiale sunt controlate de mișcările ritmice ale Maestrului Aufguss",
+      "images": [
+        "https://cdn.mytherme.app/serve/250018ad-727a-43ee-93e0-0dff07a17b3a",
+        "https://cdn.mytherme.app/serve/16426944-50ad-4d8e-80a2-c632df428fa8",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Aufgus de purificare, cu elemente native și uleiuri esențiale naturale",
+          "content": [
+            "Intră într-o stare de liniște, armonie și protecție, printr-un ritual Aufguss de purificare, în SweatLodge, acompaniat de flaut amerindian și sunetul lemnelor care ard. Ești invitat în jurul focului shamanic, într-o atmosferă completată de arome esențiale naturale de brad, ienupăr și pin, pentru meditație și purificare mentală și fizică.\n\nBeneficii: \n\n● meditație\n\n● purificare\n\n● echilibrare"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/16426944-50ad-4d8e-80a2-c632df428fa8"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Hollywood",
+            "time": "12:00"
+          }
+        ],
+        "activity_name": "Shamanic Dreaming",
+        "raw": "Program\nShamanic Dreaming\nVineri - Duminică\nSauna Hollywood\n12:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/shamanic-dreaming-aufguss"
+    },
+    {
+      "title": "Halo Mint Infusion",
+      "description": "Starea ta de bine începe cu o experiență intensă, olfactivă, ce îți va reechilibra mintea și corpul prin infuzii de uleiuri esențiale atent alese",
+      "images": [
+        "https://cdn.mytherme.app/serve/cea14af2-6ad3-4fe7-80b3-ca6ebffdc59f",
+        "https://cdn.mytherme.app/serve/d6b0a73a-eb8f-4e3f-a7f2-f081c0e371e0",
+        "https://cdn.mytherme.app/serve/fcfbf72e-ffd4-41e0-b56e-e2f5bbee3375",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Infuzie energizantă cu uleiuri esențiale și rășini",
+          "content": [
+            "Lasă prospețimea mentei să te încarce cu energie, în timp ce aroma naturală a rășinilor te învăluie într-o stare de relaxare și pace interioară, pentru echilibrul fizic și mental perfect. Adaugă temperatura ridicată și aerosolii salini din sauna cu pereți din sare de Himalaya și te bucuri de cura ideală de sănătate și relaxare cu efecte care durează. \n\nBeneficii\n\n● eliberarea căilor respiratorii\n\n● energizare\n \n● relaxare"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Duminică",
+            "location": "Sauna Himalaya",
+            "time": "10:30 - 11:00"
+          },
+          {
+            "days": "Luni - Duminică",
+            "location": "Sauna Himalaya",
+            "time": "14:30 - 15:00"
+          },
+          {
+            "days": "Luni - Duminică",
+            "location": "Sauna Himalaya",
+            "time": "18:30 - 19:00"
+          }
+        ],
+        "activity_name": "HaloMint",
+        "raw": "Program\nHaloMint\nLuni - Duminică\nSauna Himalaya\n10:30 - 11:00\nSauna Himalaya\n14:30 - 15:00\nSauna Himalaya\n18:30 - 19:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/halo-mint-infusion"
+    },
+    {
+      "title": "Masaj Terapeutic General",
+      "description": "Masaj de tonifiere și detensionare musculară.",
+      "images": [
+        "https://cdn.mytherme.app/serve/ccb350e5-28cc-464c-8edc-3cbd3312903e",
+        "https://cdn.mytherme.app/serve/c2bb0dae-7cd5-40e1-be4a-f90ca7c519b6",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Masaj de tonifiere și detensionare musculară",
+          "content": [
+            "Masaj cu efect analgezic, recomandat pentru îmbunătățirea tonusului general și relaxarea profundă a corpului. Se folosesc uleiuri naturale cu efect calmant și tehnici terapeutice aplicate pentru detensionarea zonelor musculare solicitate. Mișcările ample și ritmice ajută la relaxare, îmbunătățirea circulației și recuperarea fizică după perioade de stres sau efort. Masaj ideal pentru corectarea dezechilibrelor cauzate de postura incorectă și pentru menținerea mobilității articulațiilor.Beneficii:• Detensionare musculară și relaxare profundă• Îmbunătățirea circulației locale• Recuperare fizică și posturală• Creșterea tonusului generalDurata: 60 minutePreț: 170 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/c2bb0dae-7cd5-40e1-be4a-f90ca7c519b6"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": []
+      },
+      "metadata": {},
+      "url": "https://therme.ro/activitati/masaj-terapeutic-general"
+    },
+    {
+      "title": "Bamboo Massage",
+      "description": "Masaj relaxant, cu bețe de bambus.",
+      "images": [
+        "https://cdn.mytherme.app/serve/61d962bf-7602-4ac6-8c46-8660605e9990",
+        "https://cdn.mytherme.app/serve/5a3541d1-d610-4286-a36a-82fbfe602ab0",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Masaj relaxant, cu bețe de bambus",
+          "content": [
+            "Masaj corporal revitalizant, inspirat din tehnicile asiatice, care îmbină mișcările de presopunctură cu proprietățile naturale ale bețelor de bambus. Siliciul din compoziția bambusului stimulează regenerarea pielii și îi redă elasticitatea și fermitatea. Masajul favorizează drenajul limfatic, activează circulația și relaxează în profunzime musculatura. Recomandat pentru refacere fizică și redarea tonusului natural al corpului.Beneficii:• Revitalizare și redarea elasticității pielii• Relaxare musculară profundă• Activarea circulației și drenaj limfaticDurata: 60 minutePreț: 220 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/5a3541d1-d610-4286-a36a-82fbfe602ab0"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": []
+      },
+      "metadata": {},
+      "url": "https://therme.ro/activitati/masaj-bamboo"
+    },
+    {
+      "title": "Volcano Hot Stone Massage",
+      "description": "Masaj recuperator, cu pietre vulcanice.",
+      "images": [
+        "https://cdn.mytherme.app/serve/026e0fe4-2229-4437-8efc-1c1967640f16",
+        "https://cdn.mytherme.app/serve/34980f94-ab00-4f3f-b087-43ce5659a815",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Masaj recuperator, cu pietre vulcanice",
+          "content": [
+            "Masaj tradițional cu pietre vulcanice pentru relaxare profundă și refacere musculară, în care pietrele încălzite sunt folosite pentru a transmite căldura în profunzimea țesuturilor. Temperatura constantă ajută la relaxarea mușchilor, la stimularea circulației și la reducerea tensiunilor acumulate. Tratamentul induce o stare generală de calm și poate susține un somn mai odihnitor. Recomandat pentru diminuarea disconfortului muscular și reducerea stresului.Beneficii:• Relaxare și regenerare musculară• Activarea circulației și detoxifiere• Reducerea tensiunilor și stresuluiDurata: 60 minutePreț: 220 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/34980f94-ab00-4f3f-b087-43ce5659a815"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": []
+      },
+      "metadata": {},
+      "url": "https://therme.ro/activitati/masaj-volcano-hot-stone"
+    },
+    {
+      "title": "Masaj Therme Signature",
+      "description": "Masaj analgezic, cu pietre de marmură și pietre vulcanice.",
+      "images": [
+        "https://cdn.mytherme.app/serve/ccfb7f77-b36f-4414-b3c0-c756d479dae6",
+        "https://cdn.mytherme.app/serve/8a79b3e4-f22f-462d-9d78-5358ed2662ec",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Masaj cu pietre de marmură și pietre vulcanice",
+          "content": [
+            "Masaj cu efect contrastant cald-rece, ce combină pietre vulcanice încălzite cu pietre reci de marmură pentru stimularea circulației și relaxarea în profunzime. Căldura detensionează mușchii, iar răcoarea tonifică și reduce inflamațiile. Efectul termic activează regenerarea celulară și oxigenarea țesuturilor. Recomandat pentru durerile musculare și articulare, oferind o senzație generală de ușurare, vitalitate și echilibru.Beneficii:• Efect de relaxare profundă și tonifiere• Stimularea circulației și oxigenarea pielii• Reducerea inflamațiilor musculare• Revitalizare generalăDurata: 60 minutePreț: 230 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/8a79b3e4-f22f-462d-9d78-5358ed2662ec"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": []
+      },
+      "metadata": {},
+      "url": "https://therme.ro/activitati/masaj-therme-signature"
+    },
+    {
+      "title": "Ventosa Cupping Therapy",
+      "description": "Masaj de echilibrare, cu ventuze de sticlă.",
+      "images": [
+        "https://cdn.mytherme.app/serve/6a7737d0-d2f7-4ed6-8541-69aba43eff4f",
+        "https://cdn.mytherme.app/serve/5244f78d-ca87-48a4-b594-dc5c277a08e0",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Masaj de echilibrare, cu ventuze de sticlă",
+          "content": [
+            "Masaj inspirat din terapia tradițională chinezească, în care ventuzele de sticlă sunt aplicate pentru a crea o presiune negativă asupra pielii. Această metodă stimulează circulația locală, relaxează țesuturile și poate reduce tensiunea musculară. Procedura este recomandată pentru ameliorarea durerilor persistente, reducerea rigidității și susținerea recuperării după efort. De asemenea, poate induce o stare generală de relaxare și diminuare a anxietății.Beneficii:• Detoxifiere și stimularea circulației• Relaxare musculară și reducerea inflamațiilor• Refacere fizică și psihică• Ameliorarea durerilor croniceDurata: 60 minutePreț: 210 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/5244f78d-ca87-48a4-b594-dc5c277a08e0"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": []
+      },
+      "metadata": {},
+      "url": "https://therme.ro/activitati/terapie-ventosa-cupping"
+    },
+    {
+      "title": "Caribbean Scrub Beauty Ritual",
+      "description": "Ai grijă de pielea ta printr-un ritual complex de sănătate și înfrumusețare, cu infuzie de uleiuri esențiale, scrub și mască cu argilă",
+      "images": [
+        "https://cdn.mytherme.app/serve/f2e7a01f-5114-4e98-bc42-904745244bed",
+        "https://cdn.mytherme.app/serve/ad3028e0-285e-4fe5-bdf5-2adc7a50fc84",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Exfoliant cu sare, cu arome fructate și dulci și mască de argilă",
+          "content": [
+            "Uleiuri esențiale de pepene, kiwi și cireșe se regăsesc alături de sare într-un exfoliant blând, cu proprietăți de hidratare a pielii și echilibrare a pH-ului natural.\nAplică exfoliantul pe piele și lasă-l să acționeze în sinergie perfectă cu aburii din saună, infuzați cu uleiuri esențiale din fructe și flori exotice, pentru o piele mai catifelată și tonifiată. \n \nBeneficii\n\n● întărește bariera naturală de protecție a pielii\n\n● curățare în profunzime și strălucire\n\n● îmbunătățește microcirculația\n\n● oferă un strat protector împotriva factorilor externi"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/ad3028e0-285e-4fe5-bdf5-2adc7a50fc84"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Tropical Rain",
+            "time": "12:30"
+          },
+          {
+            "days": "",
+            "location": "Sauna Tropical Rain",
+            "time": "16:30"
+          }
+        ],
+        "activity_name": "Caribbean Scrub",
+        "raw": "Program\nCaribbean Scrub\nLuni - Joi\nSauna Tropical Rain\n12:30\nVineri - Duminică\nSauna Tropical Rain\n16:30"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/caribbean-scrub-beauty-ritual"
+    },
+    {
+      "title": "Citrus Breeze Aufguss",
+      "description": "Participă la ritualul Aufguss, o experiență multisenzorială în care căldura din saună și aromele uleiurilor esențiale sunt controlate de mișcările ritmice ale Maestrului Aufguss",
+      "images": [
+        "https://cdn.mytherme.app/serve/f2b36ebd-2d2f-4354-9555-3389bf46a79a",
+        "https://cdn.mytherme.app/serve/ab3007e8-f8d4-498e-bcce-2142ed29d610",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Aufguss energizant, cu uleiuri esențiale citrice",
+          "content": [
+            "Bucură-te de beneficiile saunei în timp ce aromele proaspete de citrice îți dau un boost de energie. Printre arome vei descoperi clementina, grapefruit-ul, lămâile, portocalele, alături de lemongrass, verbena, eucalipt și bergamotă.\n\nBeneficii\n\n● efect revitalizant\n\n● respirație ușoară\n\n● detoxifiere"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/ab3007e8-f8d4-498e-bcce-2142ed29d610"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Duminica",
+            "location": "Sauna Amazon",
+            "time": "14:00"
+          }
+        ],
+        "activity_name": "Citrus Breeze",
+        "raw": "Program\nCitrus Breeze\nLuni - Duminica\nSauna Amazon\n14:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/citrus-breeze-aufguss"
+    },
+    {
+      "title": "Equilibrium Aufguss",
+      "description": "Participă la ritualul Aufguss, o experiență multisenzorială în care căldura din saună și aromele uleiurilor esențiale sunt controlate de mișcările ritmice ale Maestrului Aufguss",
+      "images": [
+        "https://cdn.mytherme.app/serve/a172fca9-2ea0-4bb4-92a7-ce433f36d0b2",
+        "https://cdn.mytherme.app/serve/45066030-0fa7-4574-8c86-0799eb1ce243",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Aufguss de echilibrare, cu priveliște spre spectacolul de lumini din The Palm",
+          "content": [
+            "Lasă-te învăluit de spectacolul de lumini și de aroma uleiurilor esențiale naturale ce susțin relaxarea, odihna și recuperarea.\nUn ritual care are loc pe timp de noapte când toate luminile din zona The Palm se aprind, pentru a crea o atmosferă de liniște și echilibru.\n\nBeneficii\n\n● echilibrarea\n\n● înlăturarea stărilor de anxietate\n\n● relaxare\n\n● stare generală de bine"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/45066030-0fa7-4574-8c86-0799eb1ce243"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Amazon",
+            "time": "22:00"
+          }
+        ],
+        "activity_name": "Equilibrium",
+        "raw": "Program\nEquilibrium\nLuni - Joi\nSauna Amazon\n22:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/equilibrium-aufguss"
+    },
+    {
+      "title": "Fruity Ice Aufguss",
+      "description": "Participă la ritualul Aufguss, o experiență multisenzorială în care căldura din saună și aromele uleiurilor esențiale sunt controlate de mișcările ritmice ale Maestrului Aufguss",
+      "images": [
+        "https://cdn.mytherme.app/serve/377c18ed-b054-499d-870c-2480481e9d2b",
+        "https://cdn.mytherme.app/serve/a03758d9-c9b1-4d71-baa3-7535738220e9",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Aufguss pentru stare de bine și energizare, cu uleiuri esențiale citrice",
+          "content": [
+            "Bucură-te de un ritual natural și parfumat, ca echivalentul unei băuturi reci, pe timp de vară. Frunze de mentă înmuiate în limonadă acrișoară, rece ca gheața, citrice stoarse, arome de mandarine, clementine și grapefruit- amintirile senzoriale și priveliștea grădinii de palmieri din sauna Amazon te poartă cu gândul la cea mai recentă vacanță exotică pe malul mării. \n\nBeneficii\n\n● relaxare\n\n● energizare\n\n● bună dispoziție"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/a03758d9-c9b1-4d71-baa3-7535738220e9"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Amazon",
+            "time": "16:00"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Amazon",
+            "time": "12:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Amazon",
+            "time": "12:00"
+          }
+        ],
+        "activity_name": "Fruity Ice",
+        "raw": "Program\nFruity Ice\nLuni - Joi\nSauna Amazon\n16:00\nVineri - Duminică\nSauna Amazon\n12:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/fruity-ice-aufguss"
+    },
+    {
+      "title": "Herbal Scrub Beauty Ritual",
+      "description": "Ai grijă de pielea ta printr-un ritual complex de sănătate și înfrumusețare, cu infuzie de uleiuri esențiale, scrub și mască cu argilă",
+      "images": [
+        "https://cdn.mytherme.app/serve/2254c21f-bfe5-4eb6-a1b7-02da40c370c6",
+        "https://cdn.mytherme.app/serve/a0661898-b75c-4341-a761-86d05fdb1460",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Exfoliant cu sare și uleiuri esenţiale de ierburi medicinale și mască de argilă",
+          "content": [
+            "Bucură-te de un ritual energizant și regenerant pentru corp ce lasă pielea fermă și radiantă.\nMasează ușor pe piele exfoliantul cu sare îmbogățit cu uleiuri esențiale din plante medicinale pentru ca pielea să absoarbă toți nutrienții benefici, sub acțiunea aburilor infuzați cu plante aromatice. Scrub-ul cu sare și uleiuri esenţiale de mușețel, mentă și eucalipt, urmat de aplicarea unei măști de argilă curăță porii, netezeşte pielea şi o întinerește vizibil după primul tratament.\n\nBeneficii\n\n● regenerarea si echilibrarea tenului\n\n● îmbunătățirea microcirculației\n\n● detoxifiere\n\n● energizare\n\n● catifelarea pielii"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/a0661898-b75c-4341-a761-86d05fdb1460"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Herbal Essences",
+            "time": "16:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Herbal Essences",
+            "time": "12:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Herbal Essences",
+            "time": "18:30"
+          }
+        ],
+        "activity_name": "Herbal Scrub",
+        "raw": "Program\nHerbal Scrub\nLuni - Joi\nSauna Herbal Essences\n16:30\nVineri - Duminică\nSauna Herbal Essences\n12:30\nSauna Herbal Essences\n18:30"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/herbal-scrub-beauty-ritual"
+    },
+    {
+      "title": "Liquid Gold Beauty Aufguss",
+      "description": "Participă la ritualul Aufguss, o experiență multisenzorială în care căldura din saună și aromele uleiurilor esențiale sunt controlate de mișcările ritmice ale Maestrului Aufguss",
+      "images": [
+        "https://cdn.mytherme.app/serve/e657ef75-33e3-4174-9b52-050a9b7c0932",
+        "https://cdn.mytherme.app/serve/076965cd-4b88-4656-b799-84476aa3ea62",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Beauty Treatment cu miere și Aufguss de relaxare",
+          "content": [
+            "Bucură-te de o ședință de infuzie și în același timp de un tratament de înfrumusețare în care se utilizează uleiuri esențiale și scrub de miere zaharistă din productie autohtonă. Mai mult decat o terapie pentru sănătatea și frumusețea pielii, Liquid Gold este o activitate complexă în care se folosesc uleiuri esențiale pure, difuzate în saună în timpul unei ședințe de Aufguss.\n\nBeneficii\n\n● înfrumusețarea pielii\n\n● relaxare\n\n● eliberarea căilor respiratorii"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/076965cd-4b88-4656-b799-84476aa3ea62"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Provence",
+            "time": "13:00"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Provence",
+            "time": "17:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Provence",
+            "time": "11:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Provence",
+            "time": "15:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Provence",
+            "time": "21:00"
+          }
+        ],
+        "activity_name": "Liquid Gold",
+        "raw": "Program\nLiquid Gold\nLuni - Joi\nSauna Provence\n13:00\nSauna Provence\n17:00\nVineri - Duminică\nSauna Provence\n11:00\nSauna Provence\n15:00\nSauna Provence\n21:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/liquid-gold-beauty-aufguss"
+    },
+    {
+      "title": "Mint Infusion",
+      "description": "Starea ta de bine începe cu o experiență intensă, olfactivă, ce îți va reechilibra mintea și corpul prin infuzii de uleiuri esențiale atent alese",
+      "images": [
+        "https://cdn.mytherme.app/serve/47517056-281e-41c2-b208-3b65af5fca7a",
+        "https://cdn.mytherme.app/serve/38872651-2566-4db1-af6c-a42553f4b240",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Infuzie pentru respirație ușoară, cu mentă",
+          "content": [
+            "Inspiră adânc aburii infuzați cu ulei esențial de mentă și bucură-te de aromele crude, verzi și proaspete ce te apropie de natură și te ajută să respiri mai ușor. Ritualul ajută în decongestionarea tractului respirator și stimularea oxigenării celulare. \n\nBeneficii\n\n● decongestionează tractul respirator\n\n● stimulează oxigenarea celulară"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/38872651-2566-4db1-af6c-a42553f4b240"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Hollywood",
+            "time": "17:30"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Bavaria",
+            "time": "11:30"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Amazon",
+            "time": "21:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Bavaria",
+            "time": "11:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Amazon",
+            "time": "21:30"
+          }
+        ],
+        "activity_name": "Mint Infusion",
+        "raw": "Program\nMint Infusion\nLuni - Joi\nSauna Hollywood\n17:30\nVineri - Duminică\nSauna Bavaria\n11:30\nSauna Amazon\n21:30"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/mint-infusion"
+    },
+    {
+      "title": "Oriental Scrub Beauty Ritual",
+      "description": "Ai grijă de pielea ta printr-un ritual complex de sănătate și înfrumusețare, cu infuzie de uleiuri esențiale, scrub și mască cu argilă",
+      "images": [
+        "https://cdn.mytherme.app/serve/2082c757-64e4-492b-a258-e461b8dc5143",
+        "https://cdn.mytherme.app/serve/ec398f52-6bbc-484e-abdc-f4319a2fe05d",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Peeling cu sare și uleiuri esențiale orientale și mască de argilă",
+          "content": [
+            "Un tratament ‘delicios’ pentru starea generală de bine, prin gomaj cu sare și arome dulci de scorțișoară, vanilie, iasomie și trandafir, în sauna umedă infuzată cu uleiuri esențiale din condimente, flori și rășini. Gomajul cu sare îmbogățită cu uleiuri esențiale îmbunătățește aspectul pielii, curăță în profunzime și hrănește tenul, în timp ce parfumul esențelor naturale înlătură stresul și binedispune. Masca de argilă care se aplică la final, în afara saunei, completează acest tratament conceput pentru stimularea tuturor simțurilor. \n \nBeneficii\n\n● creșterea fluxului sangvin și îmbunătățirea microcirculației\n\n● fortificarea echilibrului pielii\n\n● detoxifiere\n\n● tonic, stimulant și energizant al proceselor naturale ale pielii"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/ec398f52-6bbc-484e-abdc-f4319a2fe05d"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Oriental Garden",
+            "time": "20:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Oriental Garden",
+            "time": "14:30"
+          }
+        ],
+        "activity_name": "Oriental Scrub",
+        "raw": "Program\nOriental Scrub\nLuni - Joi\nSauna Oriental Garden\n20:30\nVineri - Duminică\nSauna Oriental Garden\n14:30"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/oriental-scrub-beauty-ritual"
+    },
+    {
+      "title": "Rocky Mountains Aufguss",
+      "description": "Participă la ritualul Aufguss, o experiență multisenzorială în care căldura din saună și aromele uleiurilor esențiale sunt controlate de mișcările ritmice ale Maestrului Aufguss",
+      "images": [
+        "https://cdn.mytherme.app/serve/aeef20be-f8d0-4b5f-a970-09ca21cb4179",
+        "https://cdn.mytherme.app/serve/fe94fdf7-1fd9-4938-b527-c08e6d735582",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Aufguss de fortificare, cu arome din vârf de munte",
+          "content": [
+            "Apropie-te de natură într-un ritual ca o călătorie prin munții stâncoși, pe o potecă împădurită cu pini, brazi, cedri, mesteceni sau stejari. Mirosul pământului plin de mușchi, a frunzelor umede și a coniferelor oferă o experiență senzorială care te readuce în mijlocul naturii verzi. Răsfață-te cu aroma uleiurilor esențiale de cedru, brad sau pin, în timp ce experimentezi senzațiile diferite dintre căldura saunei și răcoarea fulgilor de gheață pe pielea ta.\n\nBeneficii\n\n● îmbunătățirea sistemului imunitar\n\n● eliberarea căilor respiratorii\n\n● decontractare musculară"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/fe94fdf7-1fd9-4938-b527-c08e6d735582"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Bavaria",
+            "time": "19:00"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Bavaria",
+            "time": "13:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Bavaria",
+            "time": "13:00"
+          }
+        ],
+        "activity_name": "Rocky Mountains",
+        "raw": "Program\nRocky Mountains\nLuni - Joi\nSauna Bavaria\n19:00\nVineri - Duminică\nSauna Bavaria\n13:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/rocky-mountains-aufguss"
+    },
+    {
+      "title": "Salt Ritual Beauty Routine",
+      "description": "Ai grijă de pielea ta printr-un ritual complex de sănătate și înfrumusețare, cu infuzie de uleiuri esențiale, scrub și mască cu argilă",
+      "images": [
+        "https://cdn.mytherme.app/serve/f6d10d16-1397-45d1-98c6-219f6f3456bf",
+        "https://cdn.mytherme.app/serve/c167a269-dd77-4cbc-8bba-59785970d200",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Exfoliant cu sare și uleiuri esenţiale și mască de argilă",
+          "content": [
+            "Îngrijește-ți pielea cu un exfoliant puternic pe bază de sare, cu proprietăți antibacteriene și antiseptice, îmbogățit cu uleiuri esențiale naturale și vitamine. Aplică gomajul cu mișcări ușoare și circulare și bucură-te de aburii infuzați cu până la zece uleiuri esențiale, un spectacol olfactiv pentru o terapie completă. După aproximativ 10 minute, ieși din saună și aplică masca cu argilă, așteaptă pentru alte 10 minute sau până la uscarea măștii, pentru efecte maxime de înfrumusețare și strălucire naturală a tenului.\n \nBeneficii\n\n● înlăturarea celulelor moarte și regenerarea pielii\n\n● detoxifiere și remineralizare\n\n● tonic, stimulant și energizant al proceselor naturale ale pielii\n\n● ajută la echilibrarea secreției de sebum\n\n● curățare în profunzime și strălucire"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/c167a269-dd77-4cbc-8bba-59785970d200"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Duminică",
+            "location": "Sauna Rainforest",
+            "time": "11:30"
+          },
+          {
+            "days": "Luni - Duminică",
+            "location": "Sauna Rainforest",
+            "time": "15:30"
+          },
+          {
+            "days": "Luni - Duminică",
+            "location": "Sauna Rainforest",
+            "time": "19:30"
+          }
+        ],
+        "activity_name": "Salt Ritual",
+        "raw": "Program\nSalt Ritual\nLuni - Duminică\nSauna Rainforest\n11:30\nSauna Rainforest\n15:30\nSauna Rainforest\n19:30"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/salt-ritual-beauty-routine"
+    },
+    {
+      "title": "Scandinavian Rain Aufguss",
+      "description": "Participă la ritualul Aufguss, o experiență multisenzorială în care căldura din saună și aromele uleiurilor esențiale sunt controlate de mișcările ritmice ale Maestrului Aufguss",
+      "images": [
+        "https://cdn.mytherme.app/serve/01efd307-2153-406a-a7f0-825fb2c8bc48",
+        "https://cdn.mytherme.app/serve/0b45fb48-5940-458a-9423-b00758b016e9",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Aufguss pentru concentrare, cu uleiuri esențiale puternic aromate",
+          "content": [
+            "Participă la un ritual ca o ploaie rece, răcoritoare și energizantă din regiunile nordice ce coboară în saună sub forma fulgilor de gheață și a infuziei de eucalipt. Contrastul resimțit între picăturile reci de gheață și temperatura înaltă din saună surprinde și cele mai puternice organisme. Efectul este unul stimulant și fortifiant care se resimte de la prima sesiune. Uleiurile esențiale utilizate în acest Aufguss sunt cunoscute pentru efectele benefice care fortifică organismul uman și întăresc sistemul imunitar. \n\nBeneficii\n\n● putere de concentrare\n\n● energizare"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/0b45fb48-5940-458a-9423-b00758b016e9"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni- Duminica",
+            "location": "Sauna Bavaria",
+            "time": "17:00"
+          }
+        ],
+        "activity_name": "Scandinavian Rain",
+        "raw": "Program\nScandinavian Rain\nLuni- Duminica\nSauna Bavaria\n17:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/scandinavian-rain-aufguss"
+    },
+    {
+      "title": "Siberian Aufguss",
+      "description": "Participă la ritualul Aufguss, o experiență multisenzorială în care căldura din saună și aromele uleiurilor esențiale sunt controlate de mișcările ritmice ale Maestrului Aufguss",
+      "images": [
+        "https://cdn.mytherme.app/serve/2973b2dd-af84-4fe4-972a-d0014a830960",
+        "https://cdn.mytherme.app/serve/2fb591ce-a94f-4cff-abd4-2a482e5b8027",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Aufguss stimulant, cu ulei esențial de mentă și cristal de mentol",
+          "content": [
+            "Pregătește-te pentru o experiență senzorială unică, tonurile reci ale mentolului în contrast cu temperatura înaltă (90˚) a saunei oferă o senzație instantă de energie, concentrare și forță. Ritualul stimulează metabolismul, întărește capacitatea de protecție a sistemului imunitar și ajută organismul în procesul de detoxifiere.\n\nBeneficii\n\n● detoxifiere\n\n● energizare\n\n● întărirea sistemului imunitar\n\n● tonifierea pielii"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/2fb591ce-a94f-4cff-abd4-2a482e5b8027"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Bavaria",
+            "time": "13:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Bavaria",
+            "time": "15:00"
+          }
+        ],
+        "activity_name": "Siberian Aufguss",
+        "raw": "Program\nSiberian Aufguss\nLuni - Joi\nSauna Bavaria\n13:00\nVineri - Duminică\nSauna Bavaria\n15:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/siberian-aufguss"
+    },
+    {
+      "title": "Silk Road Aufguss",
+      "description": "Participă la ritualul Aufguss, o experiență multisenzorială în care căldura din saună și aromele uleiurilor esențiale sunt controlate de mișcările ritmice ale Maestrului Aufguss",
+      "images": [
+        "https://cdn.mytherme.app/serve/b7f313e7-0841-4225-b72a-b54ea0067460",
+        "https://cdn.mytherme.app/serve/acc8414c-a7f4-4c7a-a9d8-8b512899f3c4",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Aufguss de meditație, cu arome orientale",
+          "content": [
+            "Pornește într-o călătorie pe Drumul mătăsii, printre arome exotice de condimente. Meditează pe sunete orientale, sub adierea evantaielor de mătase mânuite cu îndemânare de un Aufguss Master și uită de griji într-o frumoasă poveste olfactivă și vizuală imaginată special pentru tine. \n\nBeneficii\n\n● bună dispoziție\n\n● divertisment\n\n● relaxare"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/acc8414c-a7f4-4c7a-a9d8-8b512899f3c4"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Alhambra",
+            "time": "11:00"
+          }
+        ],
+        "activity_name": "Silk Road",
+        "raw": "Program\nSilk Road\nLuni - Joi\nSauna Alhambra\n11:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/silk-road-aufguss"
+    },
+    {
+      "title": "Sweet Gommage Beauty Ritual",
+      "description": "Ai grijă de pielea ta printr-un ritual complex de sănătate și înfrumusețare, cu infuzie de uleiuri esențiale, scrub și mască cu argilă",
+      "images": [
+        "https://cdn.mytherme.app/serve/0d25570d-dcdf-48cc-aba6-0a54b080a5bd",
+        "https://cdn.mytherme.app/serve/b4d58b73-eef4-40aa-80b1-daa2d39c46a3",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Exfoliant special cu zahăr și cafea și mască de argilă",
+          "content": [
+            "Răsfață-te cu un exfoliant natural de zahăr și cafea pentru o piele sănătoasă și luminoasă, în aburii infuzați cu uleiuri esențiale din sauna Rainforest. Scrub-ul de cafea conține substanțe antioxidante, vitamine și alți nutrienți care stimulează creșterea nivelului de colagen și reduce îmbătrânirea prematură a pielii. Pentru un tratament complet aplică masca de argilă în afara saunei, așteaptă să se usuce și apoi îndepărteaz-o cu apă călduță. \n \nBeneficii\n\n● creșterea fluxului sangvin și îmbunătățirea microcirculației\n\n● fect anti age\n\n● acțiune detoxifiantă\n\n● tonic, stimulant și energizant\n\n● fermitate, elasticitate și strălucire naturală"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/b4d58b73-eef4-40aa-80b1-daa2d39c46a3"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Rainforest",
+            "time": "13:30"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Rainforest",
+            "time": "17:30"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Rainforest",
+            "time": "21:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Rainforest",
+            "time": "13:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Rainforest",
+            "time": "17:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Rainforest",
+            "time": "21:30"
+          }
+        ],
+        "activity_name": "Sweet Gommage",
+        "raw": "Program\nSweet Gommage\nLuni - Joi\nSauna Rainforest\n13:30\nSauna Rainforest\n17:30\nSauna Rainforest\n21:30\nVineri - Duminică\nSauna Rainforest\n13:30\nSauna Rainforest\n17:30\nSauna Rainforest\n21:30"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/sweet-gommage-beauty-ritual"
+    },
+    {
+      "title": "Vigour Express Men's Skin Care",
+      "description": "Tratament facial de curățare activă, cu elemente vulcanice.",
+      "images": [
+        "https://cdn.mytherme.app/serve/991aea20-0560-4b1c-8c7b-9ee5d89122a4",
+        "https://cdn.mytherme.app/serve/d42472f2-b836-4ddb-a8e2-9eb4143bf9fc",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Tratament facial de curățare activă, cu elemente vulcanice",
+          "content": [
+            "Tratament expres dedicat tenului masculin, cu efect de revitalizare și purificare. Formula bazată pe rocă vulcanică îndepărtează impuritățile și celulele moarte, curățând porii în profunzime. Triplul efect de curățare, exfoliere și hidratare redă pielii fermitatea și luminozitatea naturală. Recomandat pentru tenul tern, obosit sau afectat de factorii de mediu.Beneficii:• Curățare profundă și exfoliere eficientă• Hidratare și revitalizare intensă• Redarea fermității și luminozității pielii• Împrospătare vizibilă a tenuluiDurata: 30 minutePreț: 169 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/d42472f2-b836-4ddb-a8e2-9eb4143bf9fc"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": []
+      },
+      "metadata": {},
+      "url": "https://therme.ro/activitati/tratament-vigour-express-mens"
+    },
+    {
+      "title": "Urban Defense Men's Skin Care",
+      "description": "Tratament revitalizant, cu ulei de cedru și tonic pentru barbă.",
+      "images": [
+        "https://cdn.mytherme.app/serve/706a190b-3f27-40aa-9183-8e8c32cd8124",
+        "https://cdn.mytherme.app/serve/6f882c9f-565e-43a1-8e2d-6936603795f3",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Tratament revitalizant, cu ulei de cedru și tonic pentru barbă",
+          "content": [
+            "Tratament facial creat pentru îngrijirea pielii masculine, cu efect energizant și protector. Uleiul de cedru și lemnul de santal fortifică firul de păr și hidratează în profunzime, iar complexul activ din tratament stimulează regenerarea celulară. Recomandat pentru protejarea pielii împotriva stresului urban, a factorilor de poluare și a semnelor de oboseală.Beneficii:• Hidratare și protecție intensivă• Regenerare și vitalitate pentru ten• Fortifierea bărbii și hrănirea pielii• Efect anti-obosealăDurata: 45 minutePreț: 199 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/6f882c9f-565e-43a1-8e2d-6936603795f3"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": []
+      },
+      "metadata": {},
+      "url": "https://therme.ro/activitati/-tratament-urban-defense-mens"
+    },
+    {
+      "title": "X-Treme Hyaluron",
+      "description": "Tratament facial anti-aging cu acid hialuronic și Kiwicha.",
+      "images": [
+        "https://cdn.mytherme.app/serve/faf8ba7e-ed74-4005-98ce-10fbecd5c940",
+        "https://cdn.mytherme.app/serve/569804e3-5d1f-4ef4-a235-b80635a0e552",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Învinge trecerea timpului cu un tratament care întinerește vizibil tenul, chiar după prima ședință",
+          "content": [
+            "Tratament facial intensiv, conceput pentru revitalizarea și întinerirea vizibilă a tenului, cu rezultate remarcabile încă de la prima ședință. X Treme Hyaluron oferă hidratare profundă și efect de netezire, redând pielii fermitatea și aspectul tânăr.Terapia combină acțiunea intens hidratantă a acidului hialuronic cu semințele de Kiwicha, cunoscute drept Aurul Incașilor, pentru a susține regenerarea pielii și a reduce vizibil ridurile. Tratamentul stimulează mecanismele naturale de reparare ale epidermei și îmbunătățește elasticitatea și tonusul pielii.Pentru un efect anti aging complet, ritualul include o tehnică de remodelare și revitalizare facială realizată cu dispozitivul DermoPhyt’s. Aceasta stimulează circulația limfatică, netezește liniile fine, redefinește conturul feței și susține regenerarea celulară.Formula este completată de ingrediente active atent selecționate, precum gluconolactona biotehnologică, fermenți lactici, extract de salvie, apă de trandafiri, argilă albă și muguri de fag organic, care acționează în sinergie pentru oxigenarea țesuturilor și susținerea frumuseții naturale a pielii.Recomandat pentru hidratare intensă, efect anti aging vizibil și revitalizarea tenului matur sau deshidratat.Beneficii:• Hidratare profundă și efect de netezire• Reducerea vizibilă a ridurilor și liniilor fine• Redefinirea conturului facial și revitalizareDurata:45 minutePreț:322 leiÎți poți face programare pentru acest tratament larecepția #instantwellness din zona Elysium."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/569804e3-5d1f-4ef4-a235-b80635a0e552"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": []
+      },
+      "metadata": {},
+      "url": "https://therme.ro/activitati/x-treme-hyaluron"
+    },
+    {
+      "title": "Therme Signature Facial",
+      "description": "Tratament facial de îngrijire profundă cu ingrediente active.",
+      "images": [
+        "https://cdn.mytherme.app/serve/7b005f19-291c-4db2-bc8c-3a273b87a6c4",
+        "https://cdn.mytherme.app/serve/6bda6a8f-1133-480d-a23b-319693a29920",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Descoperă secretul îngrijirii în profunzime a tenului, cu un efect puternic anti-aging",
+          "content": [
+            "Tratament facial avansat, dedicat îngrijirii în profunzime a tenului, cu efect vizibil anti aging. Conceput pentru pielea normală sau uscată, acest ritual combină ingrediente performanțe și extracte naturale pentru a acționa eficient în toate cele trei straturi ale pielii. Formula complexă conține șapte molecule de acid hialuronic cu dimensiuni diferite, sare de mare cristalizată, colagen marin și extract de fructe de Acai, pentru hidratare intensă, regenerare și redarea elasticității pielii.Rezultatul este un ten vizibil mai luminos, neted și catifelat. Pentru protejarea barierei lipidice și un plus de confort, tratamentul este completat de un mix de ingrediente naturale. Nalba calmează pielea, ceara de albine oferă hrănire profundă, iar aloe vera hidratează intens. Petit grain și santalul calmează și reîmprospătează, verbina răcorește, iar uleiurile de migdale dulci și susan mențin hidratarea, lăsând pielea revigorată și bine îngrijită. Recomandat pentru revitalizarea tenului, hidratare profundă și redarea aspectului sănătos și uniform al pielii.Beneficii:• Hidratare intensă și de durată• Efect anti-aging și revitalizare a tenului• Calmarea pielii și protejarea barierei naturaleDurata:45 minutePreț:222 leiÎți poți face programare pentru acest tratament larecepția #instantwellness din zona Elysium."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/6bda6a8f-1133-480d-a23b-319693a29920"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": []
+      },
+      "metadata": {},
+      "url": "https://therme.ro/activitati/therme-signature-facial"
+    },
+    {
+      "title": "Beauty Express",
+      "description": "Tratament facial express de curățare și tonifiere cu ingrediente naturale.",
+      "images": [
+        "https://cdn.mytherme.app/serve/04fefa8a-ceed-4dab-87af-baae4d4347a4",
+        "https://cdn.mytherme.app/serve/2421727c-439e-4c51-b735-8fe269b82454",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Descoperă ritualul express pentru un ten revitalizat, curat și luminos",
+          "content": [
+            "Tratament facial rapid, conceput pentru curățarea, hidratarea și revitalizarea tenului, ideal atunci când ai nevoie de un plus de prospețime într-un timp scurt. Beauty Express oferă un efect vizibil de revitalizare și îngrijire, lăsând pielea curată, luminoasă și catifelată.﻿Formula sa combină șapte molecule de acid hialuronic cu dimensiuni diferite, sare de mare cristalizată, colagen marin și extract de fructe de Acai, acționând eficient în toate cele trei straturi ale pielii. Tenul este hrănit și hidratat în profunzime, cu un aspect uniform și sănătos. Pentru protejarea barierei lipidice și un plus de confort, tratamentul este completat de un mix de ingrediente naturale. Nalba calmează pielea, ceara de albine oferă hrănire intensă, iar aloe vera hidratează profund. Petit grain și santalul au efect calmant, verbina aduce prospețime, iar uleiurile de migdale dulci și susan ajută la menținerea hidratării și a supleței pielii.Recomandat pentru îngrijire rapidă, hidratare intensă și redarea aspectului proaspăt al tenului.Beneficii:• Curățare și tonifiere eficientă• Hidratare rapidă și revitalizare• Piele netedă, luminoasă și îngrijităDurata:30 minutePreț:182 leiÎți poți face programare pentru acest tratament larecepția #instantwellness din zona Elysium."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/2421727c-439e-4c51-b735-8fe269b82454"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": []
+      },
+      "metadata": {},
+      "url": "https://therme.ro/activitati/beauty-express"
+    },
+    {
+      "title": "Oriental Time",
+      "description": "Intră în stare de relaxare cu o experiență olfactivă bazată pe uleiuri esențiale orientale și florale atent selecționate.",
+      "images": [
+        "https://cdn.mytherme.app/serve/8230275a-9130-413d-960a-738971e0ac77",
+        "https://cdn.mytherme.app/serve/2eeb2848-0759-4d36-8f09-de67e16eaad0",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Infuzie cu condimente orientale, florale",
+          "content": [
+            "Așează-te confortabil și regăsește-ți echilibrul și calmul într-un spațiu de relaxare cu uleiuri esențiale de bază, primele ingrediente folosite în rețetele parfumului modern. Lasă-te sedus de condimente exotice, flori sau elemente rășinoase, care se combină armonios pentru a-ți redarea starea de bine deplină."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/2eeb2848-0759-4d36-8f09-de67e16eaad0"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Alhambra",
+            "time": "14:00"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Alhambra",
+            "time": "16:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Alhambra",
+            "time": "16:00"
+          }
+        ],
+        "activity_name": "Oriental Time",
+        "raw": "Program\nOriental Time\nLuni - Joi\nSauna Alhambra\n14:00\nVineri - Duminică\nSauna Alhambra\n16:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/oriental-time"
+    },
+    {
+      "title": "Journey of Senses Aufguss",
+      "description": "Experimentează un ritual Aufguss revigorant, care te va purta într-o călătorie revelatoare prin păduri tropicale și creste de munți sub bagheta Maestrului Aufguss.",
+      "images": [
+        "https://cdn.mytherme.app/serve/5ee737d9-e0bd-4837-95d6-2db75eb00dd7",
+        "https://cdn.mytherme.app/serve/8fad6535-d66a-442b-9aaa-304758475ce0",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Show Aufguss multisenzorial cu uleiuri esențiale revigorante",
+          "content": [
+            "Inspiră adânc și lasă aromele parfumate ale uleiurilor esențiale atent alese să te poarte într-o călătorie multisenzorială către culturi, regiuni și continente fascinante. Cu mișcări elegante din prosop, Maestrul Aufguss te va ajuta să redescoperi frumusețea pădurilor tropicale a munților verzi și să te reconectezi cu natura și echilibrul tău interior."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/8fad6535-d66a-442b-9aaa-304758475ce0"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Provence",
+            "time": "15:00"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Provence",
+            "time": "21:00"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Provence",
+            "time": "17:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Provence",
+            "time": "17:00"
+          }
+        ],
+        "activity_name": "Journey of Senses",
+        "raw": "Program\nJourney of Senses\nLuni - Joi\nSauna Provence\n15:00\nSauna Provence\n21:00\nVineri - Duminică\nSauna Provence\n17:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/journey-of-senses-aufguss"
+    },
+    {
+      "title": "Precious Wood Aufguss",
+      "description": "Descoperă ritualul Aufguss cu uleiuri esențiale purificatoare de lemn, la peste 80 de grade, în sauna Bavaria.",
+      "images": [
+        "https://cdn.mytherme.app/serve/d63a629d-5b95-4a16-973c-5fc87587ec7d",
+        "https://cdn.mytherme.app/serve/f87d86aa-ac21-4df4-b6eb-1e418763d8a7",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Aufguss cu arome lemnoase pentru reducerea stresului și anxietății",
+          "content": [
+            "Respiră adânc și eliberează-ți mintea. Aromele reconfortante de pin, brad, ienupăr și lemnoase exotice precum santal, katrafay și cedru te invită la relaxare în mijlocul pădurii, departe de agitația cotidiană. Sentimentul de liniște este completat de mișcările suave din prosop ale maestrului Aufguss, care te induc într-o stare profundă de deconectare și reconectare cu natura."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/f87d86aa-ac21-4df4-b6eb-1e418763d8a7"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Bavaria",
+            "time": "19:00"
+          }
+        ],
+        "activity_name": "Precious Wood Aufguss",
+        "raw": "Program\nPrecious Wood Aufguss\nVineri - Duminică\nSauna Bavaria\n19:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/precious-wood-aufguss"
+    },
+    {
+      "title": "Essential Chill Aufguss",
+      "description": "Bucură-te de un ritual răcoritor și revigorant, în saună, cu uleiuri esențiale de mentă proaspăt tăiată și elemente florale.",
+      "images": [
+        "https://cdn.mytherme.app/serve/b5baf177-cb0d-4c4d-9bf1-06580f288928",
+        "https://cdn.mytherme.app/serve/70da4677-2536-49f3-8120-2a9a5ab43262",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Show Aufguss cu mentă răcoritoare și note florale intense",
+          "content": [
+            "În sauna Amazon, cu vedere panoramică spectaculoasă asupra grădinii de palmieri și piscinei interioare The Palm, ai acces la o experiență revigorantă și răcoritoare, însoțită de muzică și măiestria tehnicii de prosop a Aufguss Masterului nostru. Pregătește-te pentru o experiență multisenzorială desăvârșită ce îmbină uleiuri esențiale de mentă proaspătă cu arome și note florale profund liniștitoare."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/70da4677-2536-49f3-8120-2a9a5ab43262"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Amazon",
+            "time": "18:00"
+          }
+        ],
+        "activity_name": "Essential Chill Aufguss",
+        "raw": "Program\nEssential Chill Aufguss\nVineri - Duminică\nSauna Amazon\n18:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/essential-chill-aufguss"
+    },
+    {
+      "title": "Spice Bazaar Infusion",
+      "description": "Trăiește atmosfera unică a bazarului de mirodenii orientale într-o infuzie cu uleiuri esențiale benefice pentru starea ta de bine.",
+      "images": [
+        "https://cdn.mytherme.app/serve/6c05bfe8-4f97-46d1-a85b-92460d130f2e",
+        "https://cdn.mytherme.app/serve/d74e4032-c61c-4b03-9632-6a017aac39b3",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Infuzie cu explozie de arome orientale",
+          "content": [
+            "Bucură-te de o călătorie multisenzorială în cel mai efervescent loc de pe Pământ. Trăiește atmosfera bazarului de mirodenii orientale culese din toate colțurile lumii și inspiră arome naturale de scorțișoară, ardei roșu, anason stelat, vanilie, cardamom, boabe de tonka. Pentru o experiență desăvârșită în saună, un Aufguss Master va turna un shot de cafea de specialitate pe pietrele încinse."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/d74e4032-c61c-4b03-9632-6a017aac39b3"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Alhambra",
+            "time": "15:30"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Alhambra",
+            "time": "11:30"
+          }
+        ],
+        "activity_name": "Spice Bazaar",
+        "raw": "Program\nSpice Bazaar\nLuni - Joi\nSauna Alhambra\n15:30\nVineri - Duminică\nSauna Alhambra\n11:30"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/spice-bazaar-infusion"
+    },
+    {
+      "title": "Herbarium Aufguss",
+      "description": "Aufguss cu plante medicinale și aromatice străvechi",
+      "images": [
+        "https://cdn.mytherme.app/serve/16ca0aba-c370-4c0b-b729-bffedba1f2ef",
+        "https://cdn.mytherme.app/serve/38d11865-d78c-4505-a413-4cb3aa15783e",
+        "https://cdn.mytherme.app/serve/461b6e35-7989-4e73-b1ff-2f69b5924753"
+      ],
+      "sections": [
+        {
+          "heading": "Ritual Aufguss cu infuzii de plante medicinale și aromatice proaspete",
+          "content": [
+            "Bucură-te din plin de experiența multisenzorială desăvârșită oferită de acest ritual Aufguss inspirat de cel mai mare festival din România dedicat plantelor medicinale străvechi: Herbarium Festival. Pregătește-te pentru o călătorie olfactivă plină de emoții pe dealurile copilăriei. Uneori, miroase a tei, stejar, flori de câmp, mentă și mușețel. Alteori, a pământ reavăn după o ploaie zdravănă de vară. Inconfundabil, liniștitor și profund relaxant. Herbarium Aufguss. De neratat!"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/38d11865-d78c-4505-a413-4cb3aa15783e"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna A Terra",
+            "time": "15:00"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna A Terra",
+            "time": "17:00"
+          }
+        ],
+        "activity_name": "Herbarium Aufguss",
+        "raw": "Program\nHerbarium Aufguss\nLuni - Joi\nSauna A Terra\n15:00\nVineri - Duminică\nSauna A Terra\n17:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/herbarium-aufguss"
+    },
+    {
+      "title": "Blossom",
+      "description": "Aufguss cu arome florale pentru destresare și relaxare",
+      "images": [
+        "https://cdn.mytherme.app/serve/fd436506-8814-449e-891e-b7b92fb4f886",
+        "https://cdn.mytherme.app/serve/97a37ce5-464e-4a32-820e-24905d9ce26c",
+        "https://cdn.mytherme.app/serve/461b6e35-7989-4e73-b1ff-2f69b5924753"
+      ],
+      "sections": [
+        {
+          "heading": "Ritual Aufguss cu arome florale intense pentru relaxare și meditație",
+          "content": [
+            "În sauna Hollywood, florile sunt VIP-urile aceste sesiuni de Aufguss. Bucură-te de aromele îmbietoare de flori exotice și ierburi naturale atent selecționate. Maestrul Aufguss va încărca aerul cu arome fine de ylang-ylang, lavandă sau palmarosa pentru o stare profundă de relaxare și meditație. Profită de moment și deconectează-te pentru 10 minute de la stresul cotidian, task-uri și agenda încărcată."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/97a37ce5-464e-4a32-820e-24905d9ce26c"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Hollywood",
+            "time": "16:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Hollywood",
+            "time": "14:00"
+          }
+        ],
+        "activity_name": "Blossom",
+        "raw": "Program\nBlossom\nLuni - Joi\nSauna Hollywood\n16:00\nVineri - Duminică\nSauna Hollywood\n14:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/blossom"
+    },
+    {
+      "title": "Masajul Malagasy",
+      "description": "Masaj vindecător, cu extract pur de Katrafay și cânepă.",
+      "images": [
+        "https://cdn.mytherme.app/serve/3dc04d8f-5b9d-4326-a6aa-07a4201bc3ea",
+        "https://cdn.mytherme.app/serve/95549f91-a27e-4357-8efc-ed59c17fc56e",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Masaj vindecător, cu extract pur de Katrafay și cânepă",
+          "content": [
+            "Masaj relaxant și reparator, realizat cu ulei esențial de Katrafay din Madagascar și extract activ de cânepă. Uleiul de Katrafay are efecte tonice și afrodisiace, iar cânepa contribuie la regenerarea pielii și calmarea stărilor de tensiune. Compoziția bogată în antioxidanți și acizi grași hrănește pielea și susține echilibrul sistemului nervos. Recomandat pentru oboseală cronică, anxietate și insomnii.Beneficii:• Relaxare profundă și revitalizare• Regenerarea pielii și hrănire intensă• Calmare și echilibru emoțional• Efect antioxidant și tonicDurata: 60 minutePreț: 369 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/95549f91-a27e-4357-8efc-ed59c17fc56e"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": []
+      },
+      "metadata": {},
+      "url": "https://therme.ro/activitati/masaj-malagasy"
+    },
+    {
+      "title": "Masajul Siberian Cold",
+      "description": "Masaj senzorial, cu compresie din frunze de stejar.",
+      "images": [
+        "https://cdn.mytherme.app/serve/67b3de6c-5ef0-42b0-9e07-0f1fb0e720fe",
+        "https://cdn.mytherme.app/serve/26fb45b8-1dc6-46f1-a30a-70879c84888a",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Masaj senzorial, cu compresie din frunze de stejar",
+          "content": [
+            "Masaj energizant care îmbină crioterapia cu puterea plantelor medicinale. Crema cu efect rece și uleiul de mentă japoneză relaxează mușchii și stimulează circulația, iar la final, compresia caldă din frunze de stejar oferă un efect astringent, antiinflamator și antiseptic. Masaj recomandat pentru revitalizare, recuperare fizică și relaxare profundă.Beneficii:• Efect puternic de revitalizare• Relaxare musculară și stimularea circulației• Efect antiinflamator și antiseptic• Recuperare fizică acceleratăDurata: 60 minutePreț: 369 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/26fb45b8-1dc6-46f1-a30a-70879c84888a"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": []
+      },
+      "metadata": {},
+      "url": "https://therme.ro/activitati/masaj-siberian-cold"
+    },
+    {
+      "title": "Masajul Mineral",
+      "description": "Masaj revitalizant, cu elemente marine și minerale semiprețioase.",
+      "images": [
+        "https://cdn.mytherme.app/serve/51f28e5a-ec90-4e44-aa0d-47d145fc2309",
+        "https://cdn.mytherme.app/serve/6396f6b1-c00c-4133-a2fe-f566696d01fb",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Masaj revitalizant, cu elemente marine și minerale semiprețioase",
+          "content": [
+            "Masaj regenerant bazat pe puterea terapeutică a mineralelor marine și a Shungitului, considerat cel mai vechi mineral de pe Pământ. Uleiul de magneziu și calciul marin tonifică pielea, stimulează circulația și accelerează procesul natural de refacere. Masajul întărește imunitatea și induce o stare de echilibru și vitalitate. Inspirat din cultura talasoterapiei.Beneficii:• Revitalizare și re-energizare• Fortificarea sistemului imunitar• Tonifierea pielii și stimularea circulației• Efect remineralizant și protectorDurata: 60 minutePreț: 369 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/6396f6b1-c00c-4133-a2fe-f566696d01fb"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": []
+      },
+      "metadata": {},
+      "url": "https://therme.ro/activitati/masaj-mineral"
+    },
+    {
+      "title": "K-Beauty Renew Cosmetic Treatment",
+      "description": "Ritual K-Beauty pentru elasticitate, luminozitate și o piele vizibil mai fermă.",
+      "images": [
+        "https://cdn.mytherme.app/serve/1477c4d0-ac00-4a3e-9a9f-5c1c36b83b92",
+        "https://cdn.mytherme.app/serve/94219d5f-75ff-41cd-83ad-72e351dcd630",
+        "https://cdn.mytherme.app/serve/eee96773-89f6-4332-9cff-0b4a4d763a02",
+        "https://cdn.mytherme.app/serve/06169f64-992e-46fb-a6b1-e2ba7b54ae79",
+        "https://cdn.mytherme.app/serve/c0b79c3b-8690-492e-8f3d-ab3467543cdc",
+        "https://cdn.mytherme.app/serve/423c0c93-8359-4008-8ca3-085c3291d05e",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Tratament facial coreean cu extract de ginseng roșu",
+          "content": [
+            "Acest tratament inspirat din ritualurile coreene de înfrumusețare folosește puterea ginsengului roșu, un ingredient cunoscut pentru efectele sale remarcabile de regenerare și întinerire a pielii. Considerat o comoară a fitoterapiei asiatice, ginsengul roșu stimulează microcirculația, accelerează producția naturală de colagen și ajută la refacerea celulelor pielii.Tratamentul K-Beauty Renew îmbină cosmetice coreene premium, bazate pe ingrediente tradiționale coreene, cu tehnici de masaj profund și piatra Gua Sha, pentru a activa energia pielii și a-i reda vitalitatea naturală. Produsele folosite in tratament sprijină refacerea barierei naturale de protecție, reduc urmele de oboseală și hiperpigmentarea cauzată de expunerea la soare, oferind o senzație de confort și echilibru perfect.Pașii tratamentului:1. Curățare delicată ce elimină impuritățile și pregătește pielea pentru absorbția activelor nutritive.2. Exfoliere și tonifiere3.  Masaj cu ulei revitalizant și mască hrănitoare cu ginseng4.  Masaj Gua Sha ce stimulează circulația, tonifică mușchii faciali și oferă un efect de lifting natural.Toate produsele folosite in acest tratament sunt disponibile și în shop-ul Therme din zona The Palm.Durata: 45 minutePreț: 299 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/94219d5f-75ff-41cd-83ad-72e351dcd630",
+            "https://cdn.mytherme.app/serve/eee96773-89f6-4332-9cff-0b4a4d763a02",
+            "https://cdn.mytherme.app/serve/06169f64-992e-46fb-a6b1-e2ba7b54ae79",
+            "https://cdn.mytherme.app/serve/c0b79c3b-8690-492e-8f3d-ab3467543cdc",
+            "https://cdn.mytherme.app/serve/423c0c93-8359-4008-8ca3-085c3291d05e"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": []
+      },
+      "metadata": {},
+      "url": "https://therme.ro/activitati/k-beauty-renew-cosmetic-treatment"
+    },
+    {
+      "title": "Masaj Venom Strike",
+      "description": "Masaj inovator cu dispozitiv de masaj prin percuție și venin de albină.",
+      "images": [
+        "https://cdn.mytherme.app/serve/e609dd06-238c-4664-a8c5-f2899cc0fe74",
+        "https://cdn.mytherme.app/serve/6b607ff4-77bc-4a30-bdc4-37ff68299aef",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Masaj inovator cu dispozitiv de masaj prin percuție și venin de albină",
+          "content": [
+            "Premieră în România. Te bucuri de toate beneficiile tehnologiei de ultimă generație și proprietățile vindecătoare ale veninului de albină într-un singur masaj. Maseurul aplică o loțiune pe bază de plante medicinale autohtone și venin de albină, în timp ce dispozitivul de masaj relaxează mușchii în profunzime, aplicând până la 3.000 de pulsații pe minut. Reduce și previne efectele negative ale îmbătrânirii la nivelul țesuturilor moi, tendoanelor și oaselor, redă mobilitatea generală și ajută la recuperarea flexibilității.Beneficii:• Relaxare musculară profundă• Îmbunătățirea mobilității și flexibilității• Efect antiinflamator și antibacterian• Refacerea țesuturilor și recuperare fizicăDurata: 60 minutePreț: 369 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/6b607ff4-77bc-4a30-bdc4-37ff68299aef"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": []
+      },
+      "metadata": {},
+      "url": "https://therme.ro/activitati/masaj-venom-strike"
+    },
+    {
+      "title": "Masaj Herbal Stamp",
+      "description": "Masaj de relaxare profundă, cu săculeți de plante.",
+      "images": [
+        "https://cdn.mytherme.app/serve/166bda0a-e555-4c60-84e9-ec29392c5b3f",
+        "https://cdn.mytherme.app/serve/e8847522-1178-47cb-8bc8-adb34bc67186",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Masaj de relaxare profundă, cu săculeți de plante",
+          "content": [
+            "Masaj cu efect analgezic, pentru detensionarea sistemului muscular și relaxare totală. Se folosesc uleiuri esențiale de tămâie și jojoba, precum și săculeți terapeutici umpluți cu plante medicinale și aromatice selecționate, recunoscute pentru proprietățile lor curative: tei, mușețel, gălbenele, lavandă, brad, salvie, coada-șoricelului, rozmarin, oregano, roiniță și busuioc. Masaj recomandat pentru ameliorarea insomniilor, anxietății și stărilor de tensiune musculară.Beneficii:• Relaxare completă și detensionare• Efect calmant și echilibrare emoțională• Ameliorarea insomniilor și anxietății• Îmbunătățirea stării generale de bineDurata: 60 minutePreț: 369 leiÎți poți face programare pentru acest tratament  la recepția #instantwellness din zona Elysium."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/e8847522-1178-47cb-8bc8-adb34bc67186"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": []
+      },
+      "metadata": {},
+      "url": "https://therme.ro/activitati/masaj-herbal-stamp"
+    },
+    {
+      "title": "Mystery Bazaar Ritual",
+      "description": "Descoperă în sauna Alhambra poveștile civilizației orientale într-un nou ritual Aufguss învăluit în fumigații, uleiuri esențiale și arome orientale.",
+      "images": [
+        "https://cdn.mytherme.app/serve/eb311301-9734-4ae6-bc3e-9b042fe94f44",
+        "https://cdn.mytherme.app/serve/9bca4bc5-e71a-446b-9f05-f54f9feb59bc",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Ritual Aufguss cu fumigație și arome orientale",
+          "content": [
+            "Experimentează atmosfera vibrantă a culturii orientale într-un ritual Aufguss care te va învălui în fumigații autentice orientale și uleiuri esențiale tradiționale înmiresmate. Fiecare secundă petrecută în saună te poartă mai departe in inima Orientului. Spre finalul experienței, Maestrul Aufguss îți va oferi un servețel răcoritor, infuzat cu apă de trandafir, pentru o piele strălucitoare și hidratată."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/9bca4bc5-e71a-446b-9f05-f54f9feb59bc"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Alhambra",
+            "time": "18:00"
+          }
+        ],
+        "activity_name": "Mystery Bazaar",
+        "raw": "Program\nMystery Bazaar\nVineri - Duminică\nSauna Alhambra\n18:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/mystery-bazaar-ritual"
+    },
+    {
+      "title": "Desert Shrub",
+      "description": "Răsfață-te din plin într-un Aufguss unic, bogat în uleiuri esențiale alese, ce îmbină natural tratamentul de înfrumusețare cu ritualul de fumigație de inspirație orientală.",
+      "images": [
+        "https://cdn.mytherme.app/serve/9320b430-9546-4542-9581-28a27d9d0128",
+        "https://cdn.mytherme.app/serve/f62b9e95-7c90-450a-9a18-6e81d07b6ab2",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Descoperă bogăția și frumusețea pură a deșertului",
+          "content": [
+            "Trăiește o poveste plină de frumos într-un decor de inspirație maură, la peste 75°C. Reîncarcă-te cu zen într-o dublă experiență învăluită în mister, dominată de uleiurile esențiale de trandafir și santal. Închide ochii, inspiră adânc și răsfăță-te în această călătorie unică de înfrumusețare și purificare, în care fiecare moment este un prilej de conectare profundă cu tine însuți și frumusețea neclintită a deșertului."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/f62b9e95-7c90-450a-9a18-6e81d07b6ab2"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Alhambra",
+            "time": "20:00"
+          }
+        ],
+        "activity_name": "Desert Shrub",
+        "raw": "Program\nDesert Shrub\nLuni - Joi\nSauna Alhambra\n20:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/desert-shrub"
+    },
+    {
+      "title": "Tibetan Incense",
+      "description": "Intră în saună și inspiră adânc în cadrul unui ritual unic inspirat de cultura tibetană, creat pentru meditație și relaxare profundă.",
+      "images": [
+        "https://cdn.mytherme.app/serve/59f25227-243c-4683-9393-aa8c1a39e24f",
+        "https://cdn.mytherme.app/serve/c8585e2f-3032-4147-85c7-caca9f9d57be",
+        "https://cdn.mytherme.app/serve/6c654bc1-d1f0-49d3-80b0-4b8680b072ff"
+      ],
+      "sections": [
+        {
+          "heading": "Infuzie cu rășini de inspirație tibetană și ayurveda, perfectă pentru meditație.",
+          "content": [
+            "Te invităm într-o călătorie fascinantă de explorare a diferitelor rășini într-o serie de ritualuri de fumigație, inspirate de tărâmurile ancestrale ale Tibetului, cu rădăcini adânci în tradiția ayurvedică. Această oportunitate unică este ideală pentru o sesiune de meditație și introspecție. Inspiră adânc, expiră ușor, oferă libertate gândurilor și bucură-te de un moment de relaxare deplină."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/c8585e2f-3032-4147-85c7-caca9f9d57be"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Duminica",
+            "location": "Sauna Himalaya",
+            "time": "12:30 - 13:00"
+          },
+          {
+            "days": "Luni - Duminica",
+            "location": "Sauna Himalaya",
+            "time": "16:30 - 17:00"
+          },
+          {
+            "days": "Luni - Duminica",
+            "location": "Sauna Himalaya",
+            "time": "20:30 - 21:00"
+          }
+        ],
+        "activity_name": "Tibetan Incense",
+        "raw": "Program\nTibetan Incense\nLuni - Duminica\nSauna Himalaya\n12:30 - 13:00\nSauna Himalaya\n16:30 - 17:00\nSauna Himalaya\n20:30 - 21:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/tibetan-incense"
+    },
+    {
+      "title": "Dalchini Aufguss",
+      "description": "Aufguss profund relaxant cu infuzii și uleiuri din scorțișoară și ghimbir, pentru energizare și regenerare mentală și fizică.",
+      "images": [
+        "https://cdn.mytherme.app/serve/8911e671-dae6-4722-ab16-e231da4971b7",
+        "https://cdn.mytherme.app/serve/9403332f-8ed7-4854-a29c-0cfa8c6df2b8"
+      ],
+      "sections": [
+        {
+          "heading": "Incursiune în universul scorțișoarei și stării de bine",
+          "content": [
+            "Aventurează-te într-o călătorie multisenzorială în lumea aromelor bogate de scorțișoară. Descoperă nuanțele a 3-4 tipuri de scorțișoară – de la cea delicatele Ceylon, Saygon și Burmannii la scorțișoară Cassia cu parfum intens. Fiecare tip de scorțișoară provine din locuri unice, precum Sri Lanka, China sau Vietnam, extrem de apreciate în medicina tradițională pentru proprietățile sale antimicrobiene, antiinflamatoare și antioxidante.Infuziile și uleiurile din scorțișoară, combinate cu ghimbir energizant, creează o experiență regenerantă pentru corp și minte. În fundal, muzica relaxantă orientală întărește senzația de calm profund, pentru o stare de bine desăvârșită, gata să te încarce de energie pentru provocările ce urmează.Beneficii:•Detensionare musculară•Îmbunătățirea respirației•Efecte antiinflamatoare•Acțiune antioxidantă•Îmbunătățirea circulației sanguine"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/9403332f-8ed7-4854-a29c-0cfa8c6df2b8"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Alhambra",
+            "time": "18:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Alhambra",
+            "time": "20:00"
+          }
+        ],
+        "activity_name": "Dalchini",
+        "raw": "Program\nDalchini\nLuni - Joi\nSauna Alhambra\n18:00\nVineri - Duminică\nSauna Alhambra\n20:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/dalchini-aufguss"
+    },
+    {
+      "title": "Freestyle Aufguss",
+      "description": "Participă la un ritual Aufguss unic în care Maestrul Aufguss dă frâu liber imaginației și tehnicilor de waving pentru un spectacol multisenzorial desăvârșit.",
+      "images": [
+        "https://cdn.mytherme.app/serve/d4f52430-e5d6-40d9-a248-285bf7c99cfe",
+        "https://cdn.mytherme.app/serve/2e7e885e-9ee3-4250-a3db-28d130039dbf"
+      ],
+      "sections": [
+        {
+          "heading": "Creativitate pură și stare de bine la peste 85°C",
+          "content": [
+            "Aici, totul este despre libertatea de a te exprima așa cum îți dictează inima. Pregătește-te să pășești într-un univers paralel, un loc în care limitele sunt estompate și creativitatea curge liber. Aici, nimic nu este prea cunoscut, dar totul pare familiar. În noua saună “Ad Astra”, cerul este limita imaginației și fiecare respirație devine un act de descoperire, fiecare mișcare un performance artistic la peste85°C.﻿﻿Maestrul Aufguss îți va arăta în noua saună “Ad Astra” adevărata sa măiestrie cu tehnici unice de mânuire a prosopului, trucuri spectaculoase și elemente artistice impresionante. “Freestyle Aufguss” este apogeul artei Aufguss-ului modern, inspirat din universul “Cirque du Soleil”, locul în care limitele sunt făcute pentru a fi depășite cu fiecare reprezentație, iar gravitația pare să nu mai existe. Fiecare mișcare de prosop aduce cu sine o poveste diferită, încărcată de efectele binefăcătoare ale uleiurilor esențiale atent selecționate.Beneficii:Stimularea sistemului limfaticReducerea tensiunii musculareÎmbunătățirea respirațieiEliminarea toxinelorReducerea stresului și anxietății"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/2e7e885e-9ee3-4250-a3db-28d130039dbf"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Ad Astra",
+            "time": "19:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Ad Astra",
+            "time": "14:00"
+          }
+        ],
+        "activity_name": "Freestyle",
+        "raw": "Program\nFreestyle\nLuni - Joi\nSauna Ad Astra\n19:00\nVineri - Duminică\nSauna Ad Astra\n14:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/freestyle-aufguss"
+    },
+    {
+      "title": "Sirocco Aufguss",
+      "description": "Trăiește cel mai intens ritual Aufguss din România, cu 4 bulgări de gheață îmbogățiți cu uleiuri esențiale alese, și lasă-te cuprins de adierea Sirocco.",
+      "images": [
+        "https://cdn.mytherme.app/serve/0917b3d0-bff4-49c3-bb22-6a0af76c8179",
+        "https://cdn.mytherme.app/serve/c8776d09-a2f5-4bc4-ab4d-0e97fb32a09f"
+      ],
+      "sections": [
+        {
+          "heading": "Adie un vânt cald aducător de stare de bine",
+          "content": [
+            "Pășește în sauna Bavaria și lasă-te învăluit de vântul misterios al deșertului arabic și energia sa debordantă. Sirocco traversează coastele mediteraneene, răspândind arome de condimente, citrice și esențe florale, pentru o călătorie multisenzorială memorabilă. În premieră pentru România, trăiește pe propria piele senzația intensă a bulgărelui nr. 4, pentru o experiență mai intensă ca niciodată.Atenție! Ascultă-ți corpul și nu-ți testa limitelele.În cazul în care simți cel mai mic disconfort termic, ieși din saună direct pe terasă, pentru o gură de aer proaspăt. Dacă totuși alegi să rămâi până la finalul Aufguss-ului, pregătește-te să trăiești un moment special, în care fiecare bulgăre este un omagiu adus originilor acestui vânt ancestral, iar fiecare mișcare devine un dans al naturii și al simțurilor.Primul bulgăre– Arome de condimente roșii din inima Africii sau a Peninsulei Arabe, o exploziei pasiune ce trezește fiecare celulă a corpului.Al doilea bulgăre– Adiere de citrice din Italia, Spania sau Portugalia, ce aduc cu ele o revigorare proaspătă, asemenea brizelor răcoritoare ale mediteranei.Al treilea bulgăre– Condimente erbacee, cu busuioc, rozmarin și cimbru, ce evocă dulceața unui peisaj verde, plin de lumina soarelui. Maestrul folosește steagul sau evantaiul, după caz, pentru a redirecționa vaporii de apă.Al patrulea bulgăre– Patchouli sau vetiver, esențe care emană un parfum intens, pământiu, ca o adiere de deșert ce poartă amintirea nisipurilor fierbinți.Beneficii:Revigorarea circulației și a fluxului de energieDetoxifiere profundă și purificareEliberarea tensiunii și a stresului acumulateÎmbunătățirea respirației și stării de bine generale"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/c8776d09-a2f5-4bc4-ab4d-0e97fb32a09f"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Duminică",
+            "location": "Sauna Bavaria",
+            "time": "21:00"
+          }
+        ],
+        "activity_name": "Sirocco",
+        "raw": "Program\nSirocco\nLuni - Duminică\nSauna Bavaria\n21:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/sirocco-aufguss"
+    },
+    {
+      "title": "Cocha Cashu Aufguss",
+      "description": "Activează-ți simțurile cu ritualul Aufguss Cocha Cashu, un moment de regenerare profundă, unde esențele rare din Amazon te încarcă cu energie și liniște interioară.",
+      "images": [
+        "https://cdn.mytherme.app/serve/be13ad91-8d57-418b-a02f-a34979eee789",
+        "https://cdn.mytherme.app/serve/f8d0c0ff-b195-4e79-91ee-feb6d67e69ae"
+      ],
+      "sections": [
+        {
+          "heading": "Inspiră adânc puterea celor mai rare uleiuri esențiale din lume",
+          "content": [
+            "Cele mai rare uleiuri esențiale din lume sunt doar aici! Trăiește ritualul Cocha Cashu, o experiență unică inspirată de magia și diversitatea pădurii amazoniene din Rezervația Națională Manu, Peru. Timp de 10 minute, sauna Amazon se transformă  într-un sanctuar în care puterea esențelor rare din Coca Cashu îți reîncarcă spiritul și corpul, într-o atmosferă ce evocă protecția și venerarea naturii.Redescoperă conexiune profundă cu natura înconjurat de pădurea amazoniană și vegetația luxuriantă. Sunetele tribale relaxante, inspirate de ritualurile ancestrale, te ajută să te eliberezi de stres și să intri într-o stare de armonie interioară, ca într-o adevărată călătorie de descoperire a sinelui. Maestrul utilizează uleiuri esențiale precumSaro(Cinnamosma fragrans),Tagetes(Tagetes minuta), șiAjwain(Trachyspermum ammi), fiecare cu note botanice unice ce induc relaxare și reînnoire. Parfumurile te învăluie în arome naturale și complexe, pentru stare de bine deplină și reechilibrare.Beneficii:Inducerea unei stări profunde de calm.Purificarea căilor respiratoriiEnergizarea și clarificarea mentalăÎmbunătățirea circulației și detoxifierea naturală a organismului"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/f8d0c0ff-b195-4e79-91ee-feb6d67e69ae"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Amazon",
+            "time": "18:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Amazon",
+            "time": "16:00"
+          }
+        ],
+        "activity_name": "Cocha Cashu",
+        "raw": "Program\nCocha Cashu\nLuni - Joi\nSauna Amazon\n18:00\nVineri - Duminică\nSauna Amazon\n16:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/cocha-cashu-aufguss"
+    },
+    {
+      "title": "Solar Wind Aufguss",
+      "description": "Reîncarcă-ți bateriile cu un Aufguss profund relaxant inspirat de energia solară și îmbogățit cu uleiuri esențiale naturale.",
+      "images": [
+        "https://cdn.mytherme.app/serve/e8e1e8e2-06f8-4934-ad41-627fec0ea7c9",
+        "https://cdn.mytherme.app/serve/141ee819-27eb-44f5-8583-f711dd3068aa"
+      ],
+      "sections": [
+        {
+          "heading": "Încarcăte cu energia pozitivă a razelor solare să te cuprindă",
+          "content": [
+            "Bucură-te din plin din universul fierbinte al saunei AdAstra! Aici, la peste 85°C ritualul Aufguss “Solar Wind” te va purta într-o călătorie cosmică a energiei și eliberării interioare. Fă cunoștință cu puterea și misterul vântului solar într-o experiență inspirată de curenții cosmici și forțele celeste. Fiecare respirație adâncește conexiunea cu sinele, iar fiecare mișcare de prosop efectuată de Maestrul Aufguss adaugă o dimensiune artistică și senzorială, amplificând senzațiile de purificare și revitalizare. Închide ochii și simte căldura solară care te învăluie și îți revitalizează fiecare celulă, în timp ce aromele delicate ale uleiurilor esențiale selecționate aduc o stare de bine profundă.Beneficii:Îmbunătățirea funcțiilor cognitiveReducerea nivelurilor de cortizolReglarea ciclului circadian"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/141ee819-27eb-44f5-8583-f711dd3068aa"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Ad Astra",
+            "time": "12:00"
+          },
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Ad Astra",
+            "time": "11:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Ad Astra",
+            "time": "11:00"
+          }
+        ],
+        "activity_name": "Solar Wind",
+        "raw": "Program\nSolar Wind\nLuni - Joi\nSauna Ad Astra\n12:00\nVineri - Duminică\nSauna Ad Astra\n11:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/solar-wind-aufguss"
+    },
+    {
+      "title": "Foreglow Aufguss",
+      "description": "Încarcă-te cu zen într-o experiență memorabilă inspirată de lumina primordială.",
+      "images": [
+        "https://cdn.mytherme.app/serve/937ae9be-8a7f-4cd9-b919-6d45b05b9222",
+        "https://cdn.mytherme.app/serve/346fb043-5df7-429e-a56c-d1d74a6df4f8"
+      ],
+      "sections": [
+        {
+          "heading": "Încarcă-te cu energie pură în sauna Ad Astra",
+          "content": [
+            "Pătrunde în esența primordială a universului cu Ritualul Aufguss “Foreglow”, o experiență profundă ce celebrează focul originar și puterea regeneratoare a luminii. Într-o atmosferă de căldură și energizare, acest ritual te conectează cu esențele fundamentale ale lumii naturale, îmbinând aroma intensă a uleiurilor esențiale naturale cu energie vibrantă ce luminează fiecare colț al corpului tău. Maestrul Aufguss îți va ghida fiecare respirație și fiecare mișcare, folosind tehnici de waving care amplifică căldura saunei, pentru o senzație de iluminare interioară profundă. Trăiește 10  minute intense și lasă starea de bine să te inunde.Beneficii:Îmbunătățirea funcției cardiovasculareReducerea stresului oxidativStimularea sintezei colagenuluiÎmbunătățirea flexibilității musculareReglarea activității hormonale"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/346fb043-5df7-429e-a56c-d1d74a6df4f8"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Ad Astra",
+            "time": "19:00"
+          }
+        ],
+        "activity_name": "Foreglow",
+        "raw": "Program\nForeglow\nVineri - Duminică\nSauna Ad Astra\n19:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/foreglow-aufguss"
+    },
+    {
+      "title": "Almond Beauty",
+      "description": "Ritual în saună pentru îngrijirea și sănătatea pielii, cu uleiuri esențiale florale și note de santal.",
+      "images": [
+        "https://cdn.mytherme.app/serve/76bc05c1-4b98-440c-9f90-1a36c636ee45",
+        "https://cdn.mytherme.app/serve/da354f60-048e-4d73-bb89-ef5c244706b3"
+      ],
+      "sections": [
+        {
+          "heading": "Starea de bine începe cu o piele sănătoasă și răsfățată",
+          "content": [
+            "Intră în sauna Provence și bucură-te de o experiență de îngrijire supremă a pielii cu tratamentul Almond Beauty, bazat pe crema de migdale cu o textură fină și bogată creată pentru a proteja și hrăni pielea în profunzime. Trăiește această experiență concepută să te scoată din ritmul agitat al vieții în timp ce uleiurile esențiale delicate, de origine florală, precum lavanda și ylang-ylang, cu aromă ușor dulce, te vor încărca de Zen și stare de bine. Adăugarea unei note lemnoase subtile de santal întărește esența migdalelor, pentru o experiență olfactivă memorabilă și liniștitoare.Beneficii:Hidratarea în profunzime a pieliiRestaurarea barierei cutanateCalmarea iritațiilor și a roșeațeiÎmbunătățirea elasticității pielii"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/da354f60-048e-4d73-bb89-ef5c244706b3"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Provence",
+            "time": "19:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Provence",
+            "time": "13:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Provence",
+            "time": "19:00"
+          }
+        ],
+        "activity_name": "Almond Beauty",
+        "raw": "Program\nAlmond Beauty\nLuni - Joi\nSauna Provence\n19:00\nVineri - Duminică\nSauna Provence\n13:00\nSauna Provence\n19:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/almond-beauty"
+    },
+    {
+      "title": "Mineralis Aufguss",
+      "description": "Experimentează un Aufguss în două etape care combină scrubul cu sare și infuziile cu mesteacăn pentru curățare, remineralizare și relaxare musculară.",
+      "images": [
+        "https://cdn.mytherme.app/serve/df5c2cf3-bcd9-4f9d-bb58-1ecb016bb1ee",
+        "https://cdn.mytherme.app/serve/11ea1362-8744-44d5-bb75-9015974163d9"
+      ],
+      "sections": [
+        {
+          "heading": "Detoxifiere profundă și refacerea pielii",
+          "content": [
+            "Mineralis este un ritual complet inspirat de tradițiile balneare antice, care folosește sarea ca ingredient cheie pentru detoxifiere, calmare și refacerea barierei protectoare a pielii. Scrubul cu sare și îmbăierea în apa sărata au fost folosite de secole în diverse culturi, de la Grecia și Roma antică până la tradițiile vindecătoare ayurvedice și native americane.﻿﻿Sarea curăță în profunzime, reduce inflamația și ajută pielea să-și recapete elasticitatea și hidratarea naturală. Ritualul “Mineralis” cuprinde două runde. În prima rundă, încălzim corpul. Pielea este pregătită cu un scrub pe bază de calciu și uleiuri protectoare, urmat de o infuzie caldă cu mesteacăn (60°C).﻿A 2-a rundă este dedicată procesului de răcire treptată a corpului. Te vei delecta cu un scrub revigorant pe bază de potasiu și o infuzie rece cu mesteacăn, pentru stimularea circulației și tonifiere."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/11ea1362-8744-44d5-bb75-9015974163d9"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": [
+          {
+            "days": "Luni - Joi",
+            "location": "Sauna Aegir",
+            "time": "15:00"
+          },
+          {
+            "days": "Vineri - Duminică",
+            "location": "Sauna Aegir",
+            "time": "13:00"
+          }
+        ],
+        "activity_name": "Mineralis",
+        "raw": "Program\nMineralis\nLuni - Joi\nSauna Aegir\n15:00\nSauna Aegir\n17:00\nVineri - Duminică\nSauna Aegir\n13:00\nSauna Aegir\n15:00"
+      },
+      "metadata": {
+        "tier": "THE PALM"
+      },
+      "url": "https://therme.ro/activitati/mineralis-aufguss"
+    },
+    {
+      "title": "Freestyle Battle",
+      "description": "Experimentează un Aufguss unic în România, cu 4 runde de spectacol desăvârșit! Dexteritate, ritm și stare de bine!",
+      "images": [
+        "https://cdn.mytherme.app/serve/3a59d665-f011-4f7b-8214-f889ecf89611",
+        "https://cdn.mytherme.app/serve/a54611ae-053d-431c-86f6-8cf137ff7471"
+      ],
+      "sections": [
+        {
+          "heading": "Trăiește 4 runde intense de măiestrie și creativitate în saună!",
+          "content": [
+            "“Freestyle Battle” este o experiență unică în saunele din România: o demonstrație live de tehnică, control și improvizație în fața publicului. În 4 runde intense, doi Aufguss Masters se provoacă reciproc, își arată măiestria și colaborează folosind prosopul ca instrument de expresie și rafinament. Fiecare rundă aduce o nouă provocare, un nou element surpriză! Nu rata un Aufguss plin de energie, ritm și precizie, care transformă sauna într-un adevărat ring dedicat numai și numai stării tale de bine."
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/a54611ae-053d-431c-86f6-8cf137ff7471"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": []
+      },
+      "metadata": {},
+      "url": "https://therme.ro/activitati/freestyle-battle"
+    },
+    {
+      "title": "Postural Alignment",
+      "description": "Bucură-te de o activitate inclusă în programul Wellness Insider, cu mișcări controlate în apă, care echilibrează corpul, ameliorează durerile și îmbunătățește postura. Exercițiile au loc în piscina principală The Palm.",
+      "images": [
+        "https://cdn.mytherme.app/serve/d2066fb7-aa7d-47d6-8c85-2a36b6b4a880",
+        "https://cdn.mytherme.app/serve/9f808929-5b49-421e-ab53-a453203a5fcc",
+        "https://cdn.mytherme.app/serve/1f4c6215-5688-4bde-9168-3721d3b52f6a"
+      ],
+      "sections": [
+        {
+          "heading": "Echilibru în mișcare, pentru o postură mai bună",
+          "content": [
+            "Exercițiile inclus în Postural Alignment lucrează profund cu musculatura posturală, optimizează mobilitatea și ajută corpul să se reechilibreze natural. Ritmul lent, apa caldă și atmosfera relaxantă transformă sesiunea într-un moment de reconectare cu propriul corp, cu efecte benefice asupra stării fizice și emoționale.Concentrează-te pe alinierea corectă a corpului, respirație și mișcări fluide. Apa reduce impactul asupra articulațiilor, ceea ce permite executarea exercițiilor într-o manieră sigură, controlată și extrem de eficientă.O experiență recomandată persoanelor care caută corectarea posturii, reducerea tensiunilor și prevenirea durerilor sau accidentărilor.Durată:15 minuteLoc:Piscina principală The Palm"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/9f808929-5b49-421e-ab53-a453203a5fcc"
+          ]
+        },
+        {
+          "heading": "Benefits",
+          "content": [
+            "● optimizarea neuromusculară pentru readucerea corpului în echilibru● realinierea posturii și corectarea dezechilibrelor● ameliorarea durerilor și tensiunilor musculare● reducerea rigidității articulare● stimularea circulației și drenajului limfatic● creșterea flexibilității și a libertății de mișcare● optimizarea performanței fizice prin activarea musculaturii posturale● echilibru emoțional și reducerea stresului● siguranță ridicată, exercițiile fiind potrivite și pentru persoane aflate în recuperare sau pentru femei însărcinate"
+          ],
+          "images": [
+            "https://cdn.mytherme.app/serve/1f4c6215-5688-4bde-9168-3721d3b52f6a"
+          ]
+        }
+      ],
+      "schedule": {
+        "entries": []
+      },
+      "metadata": {},
+      "url": "https://therme.ro/activitati/postural-alignment"
+    }
+  ],
+  "total": 65,
+  "interrupted": false
+}

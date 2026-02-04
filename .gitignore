@@ -8,10 +8,8 @@ build/
 venv/
 
 # Generated Data Files
-therme_schedule.json
-therme_activities.json
-therme_activities_detailed.json
-schedule.html
+./*.json
+./*.html
 
 # IDE
 .vscode/

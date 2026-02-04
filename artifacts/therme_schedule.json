@@ -1,0 +1,2347 @@
+{
+  "Monday": {
+    "theme": "Energic Monday",
+    "activities": [
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "10:30 - 11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Silk Road",
+        "location": "Alhambra",
+        "time": "11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "11:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Aqua Kineto",
+        "location": "Main Pool",
+        "time": "11:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Solar Wind",
+        "location": "Ad Astra",
+        "time": "12:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Caribbean Scrub",
+        "location": "Tropical Rain",
+        "time": "12:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "12:30 - 13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Liquid Gold (Ladies Only)",
+        "location": "Provence",
+        "time": "13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Siberian Aufguss",
+        "location": "Bavaria",
+        "time": "13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Earthy Flavor",
+        "location": "A Terra",
+        "time": "13:30 - 14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "13:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Citrus Breeze",
+        "location": "Amazon",
+        "time": "14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Oriental Time",
+        "location": "Alhambra",
+        "time": "14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Citrus Infusion",
+        "location": "Hollywood",
+        "time": "14:30 - 15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "14:30 - 15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbarium",
+        "location": "A Terra",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mineralis",
+        "location": "Aegir",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Journey of Senses",
+        "location": "Provence",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Woody Infusion",
+        "location": "Bavaria",
+        "time": "15:30 - 16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "15:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Spice Bazaar",
+        "location": "Alhambra",
+        "time": "15:30 - 16:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Fruity Ice",
+        "location": "Amazon",
+        "time": "16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Postural Alignament",
+        "location": "Main Pool",
+        "time": "16:00",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Blossom",
+        "location": "Hollywood",
+        "time": "16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "16:30 - 17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbal Infusion",
+        "location": "Ad Astra",
+        "time": "16:30 - 17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbal Scrub",
+        "location": "Herbal Essences",
+        "time": "16:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Liquid Gold (Ladies Only)",
+        "location": "Provence",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mineralis",
+        "location": "Aegir",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Scandinavian Rain",
+        "location": "Bavaria",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mint Infusion",
+        "location": "Hollywood",
+        "time": "17:30 - 18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "17:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Mysterious Incense",
+        "location": "A Terra",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Cocha Cashu",
+        "location": "Amazon",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Dalchini",
+        "location": "Alhambra",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Aqua Gym",
+        "location": "Main Pool",
+        "time": "18:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "18:30 - 19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Freestyle",
+        "location": "Ad Astra",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Rocky Mountains",
+        "location": "Bavaria",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Almond Beauty",
+        "location": "Provence",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "19:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Smoke Ritual",
+        "location": "A Terra",
+        "time": "20:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Desert Shrub",
+        "location": "Alhambra",
+        "time": "20:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Woody Infusion",
+        "location": "Hollywood",
+        "time": "20:30 - 21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Oriental Scrub",
+        "location": "Oriental Garden",
+        "time": "20:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "20:30 - 21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Journey of Senses",
+        "location": "Provence",
+        "time": "21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sirocco",
+        "location": "Bavaria",
+        "time": "21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Spicy Infusion",
+        "location": "Alhambra",
+        "time": "21:30 - 22:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "21:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Equilibrium",
+        "location": "Amazon",
+        "time": "22:00",
+        "tier": "ELYSIUM"
+      }
+    ]
+  },
+  "Tuesday": {
+    "theme": "Zen Tuesday",
+    "activities": [
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "10:30 - 11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Silk Road",
+        "location": "Alhambra",
+        "time": "11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "11:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Aqua Shape",
+        "location": "Main Pool",
+        "time": "11:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Solar Wind",
+        "location": "Ad Astra",
+        "time": "12:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Caribbean Scrub",
+        "location": "Tropical Rain",
+        "time": "12:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "12:30 - 13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Liquid Gold (Ladies Only)",
+        "location": "Provence",
+        "time": "13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Siberian Aufguss",
+        "location": "Bavaria",
+        "time": "13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Earthy Flavor",
+        "location": "A Terra",
+        "time": "13:30 - 14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "13:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Citrus Breeze",
+        "location": "Amazon",
+        "time": "14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Oriental Time",
+        "location": "Alhambra",
+        "time": "14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Citrus Infusion",
+        "location": "Hollywood",
+        "time": "14:30 - 15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "14:30 - 15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbarium",
+        "location": "A Terra",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mineralis",
+        "location": "Aegir",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Journey of Senses",
+        "location": "Provence",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Woody Infusion",
+        "location": "Bavaria",
+        "time": "15:30 - 16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "15:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Spice Bazaar",
+        "location": "Alhambra",
+        "time": "15:30 - 16:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Fruity Ice",
+        "location": "Amazon",
+        "time": "16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Postural Alignament",
+        "location": "Main Pool",
+        "time": "16:00",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Blossom",
+        "location": "Hollywood",
+        "time": "16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "16:30 - 17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbal Infusion",
+        "location": "Ad Astra",
+        "time": "16:30 - 17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbal Scrub",
+        "location": "Herbal Essences",
+        "time": "16:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Liquid Gold (Ladies Only)",
+        "location": "Provence",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mineralis",
+        "location": "Aegir",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Scandinavian Rain",
+        "location": "Bavaria",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mint Infusion",
+        "location": "Hollywood",
+        "time": "17:30 - 18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "17:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Mysterious Incense",
+        "location": "A Terra",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Cocha Cashu",
+        "location": "Amazon",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Dalchini",
+        "location": "Alhambra",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Hydro Balance",
+        "location": "Main Pool",
+        "time": "18:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "18:30 - 19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Freestyle",
+        "location": "Ad Astra",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Rocky Mountains",
+        "location": "Bavaria",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Almond Beauty",
+        "location": "Provence",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "19:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Smoke Ritual",
+        "location": "A Terra",
+        "time": "20:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Desert Shrub",
+        "location": "Alhambra",
+        "time": "20:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Woody Infusion",
+        "location": "Hollywood",
+        "time": "20:30 - 21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Oriental Scrub",
+        "location": "Oriental Garden",
+        "time": "20:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "20:30 - 21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Journey of Senses",
+        "location": "Provence",
+        "time": "21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sirocco",
+        "location": "Bavaria",
+        "time": "21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Spicy Infusion",
+        "location": "Alhambra",
+        "time": "21:30 - 22:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "21:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Equilibrium",
+        "location": "Amazon",
+        "time": "22:00",
+        "tier": "ELYSIUM"
+      }
+    ]
+  },
+  "Wednesday": {
+    "theme": "Healthy Wednesday",
+    "activities": [
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "10:30 - 11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Silk Road",
+        "location": "Alhambra",
+        "time": "11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "11:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Aqua Kineto",
+        "location": "Main Pool",
+        "time": "11:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Solar Wind",
+        "location": "Ad Astra",
+        "time": "12:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Caribbean Scrub",
+        "location": "Tropical Rain",
+        "time": "12:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "12:30 - 13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Liquid Gold (Ladies Only)",
+        "location": "Provence",
+        "time": "13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Siberian Aufguss",
+        "location": "Bavaria",
+        "time": "13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Earthy Flavor",
+        "location": "A Terra",
+        "time": "13:30 - 14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "13:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Citrus Breeze",
+        "location": "Amazon",
+        "time": "14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Oriental Time",
+        "location": "Alhambra",
+        "time": "14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Citrus Infusion",
+        "location": "Hollywood",
+        "time": "14:30 - 15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "14:30 - 15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbarium",
+        "location": "A Terra",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mineralis",
+        "location": "Aegir",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Journey of Senses",
+        "location": "Provence",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Woody Infusion",
+        "location": "Bavaria",
+        "time": "15:30 - 16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "15:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Spice Bazaar",
+        "location": "Alhambra",
+        "time": "15:30 - 16:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Fruity Ice",
+        "location": "Amazon",
+        "time": "16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Postural Alignament",
+        "location": "Main Pool",
+        "time": "16:00",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Blossom",
+        "location": "Hollywood",
+        "time": "16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "16:30 - 17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbal Infusion",
+        "location": "Ad Astra",
+        "time": "16:30 - 17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbal Scrub",
+        "location": "Herbal Essences",
+        "time": "16:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Liquid Gold (Ladies Only)",
+        "location": "Provence",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mineralis",
+        "location": "Aegir",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Scandinavian Rain",
+        "location": "Bavaria",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mint Infusion",
+        "location": "Hollywood",
+        "time": "17:30 - 18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "17:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Mysterious Incense",
+        "location": "A Terra",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Cocha Cashu",
+        "location": "Amazon",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Dalchini",
+        "location": "Alhambra",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Aqua Gym",
+        "location": "Main Pool",
+        "time": "18:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "18:30 - 19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Freestyle",
+        "location": "Ad Astra",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Rocky Mountains",
+        "location": "Bavaria",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Almond Beauty",
+        "location": "Provence",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "19:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Smoke Ritual",
+        "location": "A Terra",
+        "time": "20:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Desert Shrub",
+        "location": "Alhambra",
+        "time": "20:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Woody Infusion",
+        "location": "Hollywood",
+        "time": "20:30 - 21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Oriental Scrub",
+        "location": "Oriental Garden",
+        "time": "20:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "20:30 - 21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Journey of Senses",
+        "location": "Provence",
+        "time": "21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sirocco",
+        "location": "Bavaria",
+        "time": "21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Spicy Infusion",
+        "location": "Alhambra",
+        "time": "21:30 - 22:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "21:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Equilibrium",
+        "location": "Amazon",
+        "time": "22:00",
+        "tier": "ELYSIUM"
+      }
+    ]
+  },
+  "Thursday": {
+    "theme": "Relaxing Thursday",
+    "activities": [
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "10:30 - 11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Silk Road",
+        "location": "Alhambra",
+        "time": "11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "11:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Aqua Shape",
+        "location": "Main Pool",
+        "time": "11:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Solar Wind",
+        "location": "Ad Astra",
+        "time": "12:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Caribbean Scrub",
+        "location": "Tropical Rain",
+        "time": "12:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "12:30 - 13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Liquid Gold (Ladies Only)",
+        "location": "Provence",
+        "time": "13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Siberian Aufguss",
+        "location": "Bavaria",
+        "time": "13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Earthy Flavor",
+        "location": "A Terra",
+        "time": "13:30 - 14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "13:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Citrus Breeze",
+        "location": "Amazon",
+        "time": "14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Oriental Time",
+        "location": "Alhambra",
+        "time": "14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Citrus Infusion",
+        "location": "Hollywood",
+        "time": "14:30 - 15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "14:30 - 15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbarium",
+        "location": "A Terra",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mineralis",
+        "location": "Aegir",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Journey of Senses",
+        "location": "Provence",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Woody Infusion",
+        "location": "Bavaria",
+        "time": "15:30 - 16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "15:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Spice Bazaar",
+        "location": "Alhambra",
+        "time": "15:30 - 16:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Fruity Ice",
+        "location": "Amazon",
+        "time": "16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Postural Alignament",
+        "location": "Main Pool",
+        "time": "16:00",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Blossom",
+        "location": "Hollywood",
+        "time": "16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "16:30 - 17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbal Infusion",
+        "location": "Ad Astra",
+        "time": "16:30 - 17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbal Scrub",
+        "location": "Herbal Essences",
+        "time": "16:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Liquid Gold (Ladies Only)",
+        "location": "Provence",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mineralis",
+        "location": "Aegir",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Scandinavian Rain",
+        "location": "Bavaria",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mint Infusion",
+        "location": "Hollywood",
+        "time": "17:30 - 18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "17:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Mysterious Incense",
+        "location": "A Terra",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Cocha Cashu",
+        "location": "Amazon",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Dalchini",
+        "location": "Alhambra",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Hydro Balance",
+        "location": "Main Pool",
+        "time": "18:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "18:30 - 19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Freestyle",
+        "location": "Ad Astra",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Rocky Mountains",
+        "location": "Bavaria",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Almond Beauty",
+        "location": "Provence",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "19:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Smoke Ritual",
+        "location": "A Terra",
+        "time": "20:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Desert Shrub",
+        "location": "Alhambra",
+        "time": "20:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Woody Infusion",
+        "location": "Hollywood",
+        "time": "20:30 - 21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Oriental Scrub",
+        "location": "Oriental Garden",
+        "time": "20:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "20:30 - 21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Journey of Senses",
+        "location": "Provence",
+        "time": "21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sirocco",
+        "location": "Bavaria",
+        "time": "21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Spicy Infusion",
+        "location": "Alhambra",
+        "time": "21:30 - 22:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "21:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Equilibrium",
+        "location": "Amazon",
+        "time": "22:00",
+        "tier": "ELYSIUM"
+      }
+    ]
+  },
+  "Friday": {
+    "theme": "Therme Essentials",
+    "activities": [
+      {
+        "name": "Maur Saga",
+        "location": "Alhambra",
+        "time": "10:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbal Infusion",
+        "location": "Amazon",
+        "time": "10:30 - 11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Botanical Infusion",
+        "location": "A Terra",
+        "time": "10:30 - 11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "10:30 - 11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Solar Wind",
+        "location": "Ad Astra",
+        "time": "11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Liquid Gold (Ladies Only)",
+        "location": "Provence",
+        "time": "11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mint Infusion",
+        "location": "Bavaria",
+        "time": "11:30 - 12:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Spice Bazaar",
+        "location": "Alhambra",
+        "time": "11:30 - 12:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "11:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Fruity Ice",
+        "location": "Amazon",
+        "time": "12:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Shamanic Dreaming",
+        "location": "Hollywood",
+        "time": "12:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Aqua Gym",
+        "location": "Main Pool",
+        "time": "12:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Herbal Scrub",
+        "location": "Herbal Essences",
+        "time": "12:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "12:30 - 13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Rocky Mountains",
+        "location": "Bavaria",
+        "time": "13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mineralis",
+        "location": "Aegir",
+        "time": "13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Almond Beauty",
+        "location": "Provence",
+        "time": "13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "13:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Blossom",
+        "location": "Hollywood",
+        "time": "14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Citrus Breeze",
+        "location": "Amazon",
+        "time": "14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Freestyle",
+        "location": "Ad Astra",
+        "time": "14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Oriental Flowers",
+        "location": "Alhambra",
+        "time": "14:30 - 15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "14:30 - 15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Oriental Scrub",
+        "location": "Oriental Garden",
+        "time": "14:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Smoke Ritual",
+        "location": "A Terra",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Liquid Gold (Ladies Only)",
+        "location": "Provence",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mineralis",
+        "location": "Aegir",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Siberian Aufguss",
+        "location": "Bavaria",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Postural Alignament",
+        "location": "Main Pool",
+        "time": "15:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "15:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Oriental Time",
+        "location": "Alhambra",
+        "time": "16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Cocha Cashu",
+        "location": "Amazon",
+        "time": "16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Freestyle Battle",
+        "location": "Ad Astra",
+        "time": "16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Caribbean Scrub",
+        "location": "TropicalRain",
+        "time": "16:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "16:30 - 17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Scandinavian Rain",
+        "location": "Bavaria",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbarium",
+        "location": "A Terra",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Journey of Senses",
+        "location": "Provence",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "17:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Leacuri",
+        "location": "Aegir",
+        "time": "18:00 - 18:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Light Storm",
+        "location": "Hollywood",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mystery Bazaar",
+        "location": "Alhambra",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Essential Chill",
+        "location": "Amazon",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Aqua Fun",
+        "location": "Main Pool",
+        "time": "18:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Herbal Scrub",
+        "location": "Herbal Essences",
+        "time": "18:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "18:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Foreglow",
+        "location": "Ad Astra",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Almond Beauty",
+        "location": "Provence",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Precious Wood",
+        "location": "Bavaria",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mediterranean Herbs",
+        "location": "Amazon",
+        "time": "19:30 - 20:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Citrus Infusion",
+        "location": "Hollywood",
+        "time": "19:30 - 20:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "19:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Dalchini",
+        "location": "Alhambra",
+        "time": "20:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mysterious Incense",
+        "location": "A Terra",
+        "time": "20:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "20:30 - 21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Liquid Gold (Ladies Only)",
+        "location": "Provence",
+        "time": "21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sirocco",
+        "location": "Bavaria",
+        "time": "21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mint Infusion",
+        "location": "Amazon",
+        "time": "21:30 - 22:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "21:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Celestial",
+        "location": "Ad Astra",
+        "time": "22:00",
+        "tier": "ELYSIUM"
+      }
+    ]
+  },
+  "Saturday": {
+    "theme": "Therme Essentials",
+    "activities": [
+      {
+        "name": "Maur Saga",
+        "location": "Alhambra",
+        "time": "10:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbal Infusion",
+        "location": "Amazon",
+        "time": "10:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Botanical Infusion",
+        "location": "A Terra",
+        "time": "10:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "10:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Solar Wind",
+        "location": "AdAstra",
+        "time": "11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Liquid Gold (Ladies Only)",
+        "location": "Provence",
+        "time": "11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mint Infusion",
+        "location": "Bavaria",
+        "time": "11:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Spice Bazaar",
+        "location": "Alhambra",
+        "time": "11:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "11:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Fruity Ice",
+        "location": "Amazon",
+        "time": "12:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Shamanic Dreaming",
+        "location": "Hollywood",
+        "time": "12:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Aqua Gym",
+        "location": "Main Pool",
+        "time": "12:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Herbal Scrub",
+        "location": "Herbal Essences",
+        "time": "12:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "12:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Rocky Mountains",
+        "location": "Bavaria",
+        "time": "13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mineralis",
+        "location": "Aegir",
+        "time": "13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Almond Beauty",
+        "location": "Provence",
+        "time": "13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "13:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Blossom",
+        "location": "Hollywood",
+        "time": "14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Citrus Breeze",
+        "location": "Amazon",
+        "time": "14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Freestyle",
+        "location": "AdAstra",
+        "time": "14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Oriental Flowers",
+        "location": "Alhambra",
+        "time": "14:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "14:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Oriental Scrub",
+        "location": "Oriental Garden",
+        "time": "14:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Smoke Ritual",
+        "location": "A Terra",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Liquid Gold (Ladies Only)",
+        "location": "Provence",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mineralis",
+        "location": "Aegir",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Siberian Aufguss",
+        "location": "Bavaria",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Postural Alignament",
+        "location": "Main Pool",
+        "time": "15:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "15:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Oriental Time",
+        "location": "Alhambra",
+        "time": "16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Cocha Cashu",
+        "location": "Amazon",
+        "time": "16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Freestyle Battle",
+        "location": "AdAstra",
+        "time": "16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Caribbean Scrub",
+        "location": "TropicalRain",
+        "time": "16:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "16:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Scandinavian Rain",
+        "location": "Bavaria",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbarium",
+        "location": "A Terra",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Journey of Senses",
+        "location": "Provence",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "17:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Leacuri",
+        "location": "Aegir",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Light Storm",
+        "location": "Hollywood",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mystery Bazaar",
+        "location": "Alhambra",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Essential Chill",
+        "location": "Amazon",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbal Scrub",
+        "location": "Herbal Essences",
+        "time": "18:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "18:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Pool Party - by Albwho",
+        "location": "Main Pool",
+        "time": "19:00",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Foreglow",
+        "location": "AdAstra",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Almond Beauty",
+        "location": "Provence",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Precious Wood",
+        "location": "Bavaria",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mediterranean Herbs",
+        "location": "Amazon",
+        "time": "19:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Citrus Infusion",
+        "location": "Hollywood",
+        "time": "19:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "19:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Dalchini",
+        "location": "Alhambra",
+        "time": "20:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mysterious Incense",
+        "location": "A Terra",
+        "time": "20:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "20:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Liquid Gold (Ladies Only)",
+        "location": "Provence",
+        "time": "21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sirocco",
+        "location": "Bavaria",
+        "time": "21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mint Infusion",
+        "location": "Amazon",
+        "time": "21:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "21:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Celestial",
+        "location": "AdAstra",
+        "time": "22:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Celestial",
+        "location": "Ad Astra",
+        "time": "22:00",
+        "tier": "ELYSIUM"
+      }
+    ]
+  },
+  "Sunday": {
+    "theme": "Therme Essentials",
+    "activities": [
+      {
+        "name": "Maur Saga",
+        "location": "Alhambra",
+        "time": "10:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbal Infusion",
+        "location": "Amazon",
+        "time": "10:30 - 11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Botanical Infusion",
+        "location": "A Terra",
+        "time": "10:30 - 11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "10:30 - 11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Solar Wind",
+        "location": "Ad Astra",
+        "time": "11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Liquid Gold (Ladies Only)",
+        "location": "Provence",
+        "time": "11:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mint Infusion",
+        "location": "Bavaria",
+        "time": "11:30 - 12:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Spice Bazaar",
+        "location": "Alhambra",
+        "time": "11:30 - 12:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "11:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Fruity Ice",
+        "location": "Amazon",
+        "time": "12:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Shamanic Dreaming",
+        "location": "Hollywood",
+        "time": "12:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Aqua Gym",
+        "location": "Main Pool",
+        "time": "12:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Herbal Scrub",
+        "location": "Herbal Essences",
+        "time": "12:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "12:30 - 13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Rocky Mountains",
+        "location": "Bavaria",
+        "time": "13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mineralis",
+        "location": "Aegir",
+        "time": "13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Almond Beauty",
+        "location": "Provence",
+        "time": "13:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "13:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Blossom",
+        "location": "Hollywood",
+        "time": "14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Citrus Breeze",
+        "location": "Amazon",
+        "time": "14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Freestyle",
+        "location": "Ad Astra",
+        "time": "14:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Oriental Flowers",
+        "location": "Alhambra",
+        "time": "14:30 - 15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "14:30 - 15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Oriental Scrub",
+        "location": "Oriental Garden",
+        "time": "14:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Smoke Ritual",
+        "location": "A Terra",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Liquid Gold (Ladies Only)",
+        "location": "Provence",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mineralis",
+        "location": "Aegir",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Siberian Aufguss",
+        "location": "Bavaria",
+        "time": "15:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Postural Alignament",
+        "location": "Main Pool",
+        "time": "15:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "15:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Oriental Time",
+        "location": "Alhambra",
+        "time": "16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Cocha Cashu",
+        "location": "Amazon",
+        "time": "16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Freestyle Battle",
+        "location": "Ad Astra",
+        "time": "16:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Caribbean Scrub",
+        "location": "TropicalRain",
+        "time": "16:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "16:30 - 17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Scandinavian Rain",
+        "location": "Bavaria",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Herbarium",
+        "location": "A Terra",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Journey of Senses",
+        "location": "Provence",
+        "time": "17:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "17:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Leacuri",
+        "location": "Aegir",
+        "time": "18:00 - 18:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Light Storm",
+        "location": "Hollywood",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mystery Bazaar",
+        "location": "Alhambra",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Essential Chill",
+        "location": "Amazon",
+        "time": "18:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Aqua Fun",
+        "location": "Main Pool",
+        "time": "18:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Herbal Scrub",
+        "location": "Herbal Essences",
+        "time": "18:30",
+        "tier": "GALAXY"
+      },
+      {
+        "name": "Halo Mint",
+        "location": "Himalaya",
+        "time": "18:30",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Foreglow",
+        "location": "Ad Astra",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Almond Beauty",
+        "location": "Provence",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Precious Wood",
+        "location": "Bavaria",
+        "time": "19:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mediterranean Herbs",
+        "location": "Amazon",
+        "time": "19:30 - 20:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Citrus Infusion",
+        "location": "Hollywood",
+        "time": "19:30 - 20:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Salt Ritual",
+        "location": "Rainforest",
+        "time": "19:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Dalchini",
+        "location": "Alhambra",
+        "time": "20:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mysterious Incense",
+        "location": "A Terra",
+        "time": "20:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Tibetan Incense",
+        "location": "Himalaya",
+        "time": "20:30 - 21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Liquid Gold (Ladies Only)",
+        "location": "Provence",
+        "time": "21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sirocco",
+        "location": "Bavaria",
+        "time": "21:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Mint Infusion",
+        "location": "Amazon",
+        "time": "21:30 - 22:00",
+        "tier": "ELYSIUM"
+      },
+      {
+        "name": "Sweet Gommage",
+        "location": "Rainforest",
+        "time": "21:30",
+        "tier": "THE PALM"
+      },
+      {
+        "name": "Celestial",
+        "location": "Ad Astra",
+        "time": "22:00",
+        "tier": "ELYSIUM"
+      }
+    ]
+  }
+}
